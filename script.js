@@ -1,21 +1,32 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Determine device type once on load and use it as the source of truth
+    const isMobile = window.innerWidth <= 768;
+
     fetch('spells.json')
         .then(response => response.json())
         .then(data => {
             const gallery = document.getElementById('gallery');
             const searchBar = document.querySelector('.search-bar');
-            const shelf = document.getElementById('shelf');
+            const backdrop = document.getElementById('backdrop');
+
+            // Desktop shelf elements
+            const desktopShelf = document.getElementById('desktop-shelf');
             const shelfContent = document.getElementById('shelf-content');
             const closeShelfBtn = document.getElementById('close-shelf');
-            const backdrop = document.getElementById('backdrop');
+
+            // Mobile overlay elements
+            const mobileOverlay = document.getElementById('mobile-overlay');
+            const mobileOverlayContent = document.getElementById('mobile-overlay-content');
+            const closeOverlayBtn = document.getElementById('close-overlay');
+            
             let spells = data;
 
             function formatExpandedPrompt(prompt) {
                 return prompt.replace(/"/g, '');
             }
 
-            function openShelf(spell) {
-                shelfContent.innerHTML = `
+            function createSpellDetailHtml(spell) {
+                return `
                     <div class="shelf-header">
                         <h2 class="prompt-name">${spell.prompt}</h2>
                         <p class="prompt-detail">${formatExpandedPrompt(spell.metadata.expandedPrompt)}</p>
@@ -35,22 +46,41 @@ document.addEventListener('DOMContentLoaded', function() {
                         </div>
                     </div>
                 `;
-                shelf.classList.add('open');
-                backdrop.classList.add('visible');
+            }
 
-                // Pause GIFs
+            function showDetails(spell) {
+                const detailHtml = createSpellDetailHtml(spell);
+
+                if (isMobile) {
+                    mobileOverlayContent.innerHTML = detailHtml;
+                    mobileOverlay.classList.add('open');
+                    document.body.classList.add('no-scroll');
+                } else {
+                    shelfContent.innerHTML = detailHtml;
+                    desktopShelf.classList.add('open');
+                }
+
+                backdrop.classList.add('visible');
+                
+                // Pause GIFs in the main gallery
                 document.querySelectorAll('.gallery .card img').forEach(img => {
                     img.src = `spritesheets/${img.dataset.spellId}.png`;
                     img.classList.add('paused');
                 });
             }
 
-            function closeShelf() {
-                shelf.classList.remove('open');
+            function closeDetails() {
+                if (isMobile) {
+                    mobileOverlay.classList.remove('open');
+                    document.body.classList.remove('no-scroll');
+                } else {
+                    desktopShelf.classList.remove('open');
+                }
+
                 backdrop.classList.remove('visible');
 
-                // Resume GIFs
-                document.querySelectorAll('.gallery .card img').forEach(img => {
+                // Resume GIFs in the main gallery
+                document.querySelectorAll('.gallery .card img.paused').forEach(img => {
                     img.src = `gifs/${img.dataset.spellId}.gif`;
                     img.classList.remove('paused');
                 });
@@ -62,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     if (!spell.hidden) {
                         const card = document.createElement('div');
                         card.classList.add('card');
-                        card.addEventListener('click', () => openShelf(spell));
+                        card.addEventListener('click', () => showDetails(spell));
 
                         const gif = document.createElement('img');
                         gif.src = `gifs/${spell.id}.gif`;
@@ -88,10 +118,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 renderGallery(filteredSpells);
             }
 
+            // Attach event listeners
             searchBar.addEventListener('input', filterSpells);
-            closeShelfBtn.addEventListener('click', closeShelf);
-            backdrop.addEventListener('click', closeShelf);
+            closeShelfBtn.addEventListener('click', closeDetails);
+            closeOverlayBtn.addEventListener('click', closeDetails);
+            backdrop.addEventListener('click', closeDetails);
 
+            // Initial render
             renderGallery(spells);
         })
         .catch(error => console.error('Error loading spells:', error));

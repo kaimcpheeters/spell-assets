@@ -4,6 +4,11 @@ body {
     background-color: #1a1a1a;
     color: #f0f0f0;
 }
+
+body.no-scroll {
+    overflow: hidden;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -251,4 +256,119 @@ body {
 
 .github-link:hover {
     opacity: 1;
+}
+
+/* === Mobile Overlay === */
+.mobile-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1a1a1a;
+    z-index: 2000;
+    transform: translateY(100%);
+    transition: transform 0.3s ease-in-out;
+    display: none; /* Hidden by default */
+    flex-direction: column;
+    padding: 1.5rem;
+    padding-top: 4rem;
+    box-sizing: border-box;
+}
+
+.mobile-overlay.open {
+    transform: translateY(0);
+}
+
+.mobile-overlay-content {
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.close-overlay {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: #f0f0f0;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 2001;
+}
+
+/* === Responsive Styles === */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    .header .controls {
+        width: 100%;
+    }
+
+    .search-bar {
+        width: 100%;
+        box-sizing: border-box;
+    }
+    
+    .content-wrapper {
+        padding-top: 130px; /* Adjust for new header height */
+    }
+
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        padding: 1rem;
+        gap: 1rem;
+    }
+
+    .shelf {
+        display: none; /* Hide desktop shelf on mobile */
+    }
+
+    .mobile-overlay {
+        display: flex; /* Show mobile overlay on mobile */
+    }
+
+    .asset-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+    .prompt-name {
+        font-size: 1.2rem;
+    }
+
+    .prompt-detail {
+        font-size: 0.85rem;
+    }
+
+    .card img.paused {
+        transform: none; /* Disable zoom effect on mobile */
+    }
+}
+
+@media (max-width: 480px) {
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+        padding: 0.75rem;
+    }
+
+    .card .overlay {
+        font-size: 0.8rem;
+    }
+
+    .content-wrapper {
+        padding-top: 120px;
+    }
+    
+    .header {
+        padding: 0.75rem 1rem;
+    }
 } 
