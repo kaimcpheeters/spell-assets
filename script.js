@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const showColors = true;
+    let colorSortActive = false;
+    let selectedColor = null;
 
     Promise.all([
         fetch('spells.json').then(response => response.json()),
@@ -8,6 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
         const gallery = document.getElementById('gallery');
         const searchBar = document.querySelector('.search-bar');
         const backdrop = document.getElementById('backdrop');
+        const colorPicker = document.getElementById('color-picker');
+        const colorPickerBtn = document.getElementById('color-picker-btn');
+        const clearColorBtn = document.getElementById('clear-color-btn');
 
         // Unified details panel elements
         const detailsPanel = document.getElementById('spell-details');
@@ -66,6 +70,21 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
 
+        function hexToRgb(hex) {
+            const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+            return result ? [
+                parseInt(result[1], 16),
+                parseInt(result[2], 16),
+                parseInt(result[3], 16)
+            ] : null;
+        }
+
+        function colorDistance(rgb1, rgb2) {
+            const [r1, g1, b1] = rgb1;
+            const [r2, g2, b2] = rgb2;
+            return Math.sqrt(Math.pow(r1 - r2, 2) + Math.pow(g1 - g2, 2) + Math.pow(b1 - b2, 2));
+        }
+
         function renderGallery(items) {
             gallery.innerHTML = '';
             items.forEach(spell => {
@@ -86,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     card.appendChild(gif);
                     card.appendChild(overlay);
 
-                    if (showColors) {
+                    if (colorSortActive) {
                         const colorDots = document.createElement('div');
                         colorDots.classList.add('color-dots');
                         const spellColors = colors[spell.id];
@@ -110,16 +129,61 @@ document.addEventListener('DOMContentLoaded', function() {
 
         function filterSpells() {
             const query = searchBar.value.toLowerCase();
-            const filteredSpells = spells.filter(spell => 
+            let filteredSpells = spells.filter(spell => 
                 spell.prompt.toLowerCase().includes(query)
             );
+
+            if (colorSortActive && selectedColor) {
+                const selectedRgb = hexToRgb(selectedColor);
+                if (selectedRgb) {
+                    filteredSpells.sort((a, b) => {
+                        const aColors = colors[a.id];
+                        const bColors = colors[b.id];
+
+                        if (!aColors) return 1;
+                        if (!bColors) return -1;
+
+                        const aDist = Math.min(
+                            colorDistance(selectedRgb, aColors.primary_rgb),
+                            colorDistance(selectedRgb, aColors.secondary_rgb)
+                        );
+                        const bDist = Math.min(
+                            colorDistance(selectedRgb, bColors.primary_rgb),
+                            colorDistance(selectedRgb, bColors.secondary_rgb)
+                        );
+                        return aDist - bDist;
+                    });
+                }
+            }
+
             renderGallery(filteredSpells);
+        }
+
+        function activateColorSort(color) {
+            colorSortActive = true;
+            selectedColor = color;
+            colorPickerBtn.style.backgroundColor = color;
+            colorPickerBtn.querySelector('img').style.filter = 'none';
+            clearColorBtn.style.display = 'block';
+            filterSpells();
+        }
+
+        function deactivateColorSort() {
+            colorSortActive = false;
+            selectedColor = null;
+            colorPickerBtn.style.backgroundColor = 'transparent';
+            colorPickerBtn.querySelector('img').style.filter = 'invert(1)';
+            clearColorBtn.style.display = 'none';
+            filterSpells();
         }
 
         // Attach event listeners
         searchBar.addEventListener('input', filterSpells);
         closeDetailsBtn.addEventListener('click', closeDetails);
         backdrop.addEventListener('click', closeDetails);
+        colorPickerBtn.addEventListener('click', () => colorPicker.click());
+        colorPicker.addEventListener('input', (e) => activateColorSort(e.target.value));
+        clearColorBtn.addEventListener('click', deactivateColorSort);
 
         // Initial render
         renderGallery(spells);

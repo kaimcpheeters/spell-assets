@@ -39,11 +39,50 @@ body.no-scroll {
     background-color: #333;
     color: #f0f0f0;
 }
-.toggle-placeholder {
-    width: 80px;
-    height: 30px;
-    background-color: #444;
-    border-radius: 15px;
+
+.color-picker-container {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    border: 1px solid #555;
+    border-radius: 5px;
+}
+
+#color-picker-btn {
+    background: transparent;
+    border: none;
+    color: #f0f0f0;
+    padding: 8px;
+    border-radius: 5px 0 0 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#color-picker-btn:hover {
+    background: #444;
+}
+
+#color-picker-btn img {
+    width: 20px;
+    height: 20px;
+    filter: invert(1);
+}
+
+#clear-color-btn {
+    background: transparent;
+    border: none;
+    color: #f0f0f0;
+    padding: 0 10px;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 1;
+    border-left: 1px solid #555;
+}
+
+#clear-color-btn:hover {
+    background: #444;
 }
 
 .content-wrapper {
