@@ -237,4 +237,18 @@ body {
 
 .backdrop.visible {
     display: block;
+}
+
+.github-link {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    z-index: 1001;
+    color: #f0f0f0;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+}
+
+.github-link:hover {
+    opacity: 1;
 } 
