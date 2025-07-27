@@ -1,6 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Determine device type once on load and use it as the source of truth
-    const isMobile = window.innerWidth <= 768;
     const showColors = true;
 
     Promise.all([
@@ -11,15 +9,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const searchBar = document.querySelector('.search-bar');
         const backdrop = document.getElementById('backdrop');
 
-        // Desktop shelf elements
-        const desktopShelf = document.getElementById('desktop-shelf');
-        const shelfContent = document.getElementById('shelf-content');
-        const closeShelfBtn = document.getElementById('close-shelf');
-
-        // Mobile overlay elements
-        const mobileOverlay = document.getElementById('mobile-overlay');
-        const mobileOverlayContent = document.getElementById('mobile-overlay-content');
-        const closeOverlayBtn = document.getElementById('close-overlay');
+        // Unified details panel elements
+        const detailsPanel = document.getElementById('spell-details');
+        const detailsContent = document.getElementById('details-content');
+        const closeDetailsBtn = document.getElementById('close-details');
         
         function formatExpandedPrompt(prompt) {
             return prompt.replace(/"/g, '');
@@ -49,18 +42,10 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         function showDetails(spell) {
-            const detailHtml = createSpellDetailHtml(spell);
-
-            if (isMobile) {
-                mobileOverlayContent.innerHTML = detailHtml;
-                mobileOverlay.classList.add('open');
-                document.body.classList.add('no-scroll');
-            } else {
-                shelfContent.innerHTML = detailHtml;
-                desktopShelf.classList.add('open');
-            }
-
+            detailsContent.innerHTML = createSpellDetailHtml(spell);
+            detailsPanel.classList.add('open');
             backdrop.classList.add('visible');
+            document.body.classList.add('no-scroll');
             
             // Pause GIFs in the main gallery
             document.querySelectorAll('.gallery .card img').forEach(img => {
@@ -70,14 +55,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         function closeDetails() {
-            if (isMobile) {
-                mobileOverlay.classList.remove('open');
-                document.body.classList.remove('no-scroll');
-            } else {
-                desktopShelf.classList.remove('open');
-            }
-
+            detailsPanel.classList.remove('open');
             backdrop.classList.remove('visible');
+            document.body.classList.remove('no-scroll');
 
             // Resume GIFs in the main gallery
             document.querySelectorAll('.gallery .card img.paused').forEach(img => {
@@ -138,8 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Attach event listeners
         searchBar.addEventListener('input', filterSpells);
-        closeShelfBtn.addEventListener('click', closeDetails);
-        closeOverlayBtn.addEventListener('click', closeDetails);
+        closeDetailsBtn.addEventListener('click', closeDetails);
         backdrop.addEventListener('click', closeDetails);
 
         // Initial render

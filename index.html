@@ -5,31 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spellbook</title>
     <link rel="stylesheet" href="styles.css">
-    <style>
-        /* Override styles to ensure sticky header works */
-        body {
-            margin: 0;
-            padding: 0;
-        }
-        
-        .sticky-header {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 1000;
-            background-color: #2c2c2c;
-            border-bottom: 1px solid #444;
-        }
-        
-        .content-wrapper {
-            padding-top: 80px; /* Adjust based on header height */
-        }
-    </style>
 </head>
 <body>
 
-    <header class="header sticky-header">
+    <header class="header">
         <div class="logo">Spellbook</div>
         <div class="controls">
             <input type="text" class="search-bar" placeholder="Search...">
@@ -45,17 +24,10 @@
         </main>
     </div>
 
-    <div id="desktop-shelf" class="shelf">
-        <button id="close-shelf" class="close-shelf">&times;</button>
-        <div id="shelf-content" class="shelf-content">
-            <!-- Shelf content will be loaded here -->
-        </div>
-    </div>
-
-    <div id="mobile-overlay" class="mobile-overlay">
-        <button id="close-overlay" class="close-overlay">&times;</button>
-        <div id="mobile-overlay-content" class="mobile-overlay-content">
-            <!-- Mobile overlay content will be loaded here -->
+    <div id="spell-details" class="details-panel">
+        <button id="close-details" class="close-button">&times;</button>
+        <div id="details-content" class="details-content">
+            <!-- Details will be loaded here -->
         </div>
     </div>
 
