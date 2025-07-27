@@ -22,11 +22,11 @@ window.searchService = (async () => {
     return {
         search: (query) => {
             if (!query) {
-                return spells;
+                return [...spells];
             }
             const results = miniSearch.search(query, { prefix: true, fuzzy: 0.2 });
             return results.map(result => spellsById[result.id]);
         },
-        getAllSpells: () => spells
+        getAllSpells: () => [...spells]
     };
 })(); 
