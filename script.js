@@ -1,11 +1,13 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async function() {
     let colorSortActive = false;
     let selectedColor = null;
 
-    Promise.all([
-        fetch('spells.json').then(response => response.json()),
-        fetch('colors.json').then(response => response.json())
-    ]).then(([spells, colors]) => {
+    try {
+        const [searchApi, colors] = await Promise.all([
+            window.searchService,
+            fetch('colors.json').then(response => response.json())
+        ]);
+
         const gallery = document.getElementById('gallery');
         const searchBar = document.querySelector('.search-bar');
         const backdrop = document.getElementById('backdrop');
@@ -129,9 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         function filterSpells() {
             const query = searchBar.value.toLowerCase();
-            let filteredSpells = spells.filter(spell => 
-                spell.prompt.toLowerCase().includes(query)
-            );
+            let filteredSpells = searchApi.search(query);
 
             if (colorSortActive && selectedColor) {
                 const selectedRgb = hexToRgb(selectedColor);
@@ -186,7 +186,9 @@ document.addEventListener('DOMContentLoaded', function() {
         clearColorBtn.addEventListener('click', deactivateColorSort);
 
         // Initial render
-        renderGallery(spells);
-    })
-    .catch(error => console.error('Error loading data:', error));
+        renderGallery(searchApi.getAllSpells());
+
+    } catch (error) {
+        console.error('Error loading data:', error);
+    }
 }); 
