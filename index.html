@@ -5,10 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spell Gifs</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Override styles to ensure sticky header works */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .sticky-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background-color: #2c2c2c;
+            border-bottom: 1px solid #444;
+        }
+        
+        .content-wrapper {
+            padding-top: 80px; /* Adjust based on header height */
+        }
+    </style>
 </head>
 <body>
 
-    <header class="header">
+    <header class="header sticky-header">
         <div class="logo">Spellbook</div>
         <div class="controls">
             <input type="text" class="search-bar" placeholder="Search...">
@@ -16,11 +37,13 @@
         </div>
     </header>
 
-    <main>
-        <div id="gallery" class="gallery">
-            <!-- Gifs will be loaded here by JavaScript -->
-        </div>
-    </main>
+    <div class="content-wrapper">
+        <main>
+            <div id="gallery" class="gallery">
+                <!-- Gifs will be loaded here by JavaScript -->
+            </div>
+        </main>
+    </div>
 
     <div id="shelf" class="shelf">
         <button id="close-shelf" class="close-shelf">&times;</button>
