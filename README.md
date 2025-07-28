@@ -9,11 +9,12 @@ It includes:
 - dimensions
 - seeds
 
-# Spellbook - search and viz for inkwell spell assets
+# [Spellbook](https://inkwell-spell-assets.vercel.app) - search and viz for inkwell spell assets
 
 Adds color based search
-![Color search](icons/inkwell_spell_assets_color_search.gif)
+[![Color search](icons/inkwell_spell_assets_color_search.gif)](https://inkwell-spell-assets.vercel.app)
 
+---
 
 And full text search 
-![Full text search](icons/inkwell_spell_assets_full_text_search.gif) 
+[![Full text search](icons/inkwell_spell_assets_full_text_search.gif)](https://inkwell-spell-assets.vercel.app) 
