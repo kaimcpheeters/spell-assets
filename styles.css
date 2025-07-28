@@ -25,6 +25,17 @@ body.no-scroll {
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 }
+.logo-area {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+}
+.subtitle {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #b0b0b0;
+    margin-top: 2px;
+}
 .header .logo {
     font-size: 1.5rem;
     font-weight: bold;
@@ -323,6 +334,10 @@ body.no-scroll {
         align-items: flex-start;
         gap: 1rem;
         padding: 1rem;
+    }
+
+    .subtitle {
+        display: none;
     }
 
     .header .controls {
