@@ -336,10 +336,6 @@ body.no-scroll {
         padding: 1rem;
     }
 
-    .subtitle {
-        display: none;
-    }
-
     .header .controls {
         width: 100%;
     }
