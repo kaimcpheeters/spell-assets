@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             colorSortActive = true;
             selectedColor = color;
             colorPickerBtn.style.backgroundColor = color;
-            colorPickerBtn.querySelector('img').style.filter = 'none';
+            colorPickerBtn.querySelector('img').style.display = 'none';
             clearColorBtn.style.display = 'block';
             filterSpells();
         }
@@ -171,8 +171,9 @@ document.addEventListener('DOMContentLoaded', async function() {
         function deactivateColorSort() {
             colorSortActive = false;
             selectedColor = null;
+            colorPicker.value = '#3366cc';
             colorPickerBtn.style.backgroundColor = 'transparent';
-            colorPickerBtn.querySelector('img').style.filter = 'invert(1)';
+            colorPickerBtn.querySelector('img').style.display = 'block';
             clearColorBtn.style.display = 'none';
             filterSpells();
         }
@@ -181,7 +182,6 @@ document.addEventListener('DOMContentLoaded', async function() {
         searchBar.addEventListener('input', filterSpells);
         closeDetailsBtn.addEventListener('click', closeDetails);
         backdrop.addEventListener('click', closeDetails);
-        colorPickerBtn.addEventListener('click', () => colorPicker.click());
         colorPicker.addEventListener('input', (e) => activateColorSort(e.target.value));
         clearColorBtn.addEventListener('click', deactivateColorSort);
 

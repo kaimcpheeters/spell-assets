@@ -63,6 +63,8 @@ body.no-scroll {
 
 .search-bar {
     width: 20rem;
+    height: 38px;
+    box-sizing: border-box;
     padding: 0.6rem 0.75rem 0.6rem 2.5rem;
     border-radius: 5px;
     border: 1px solid #555;
@@ -101,6 +103,8 @@ body.no-scroll {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 38px;
+    box-sizing: border-box;
 }
 
 #color-picker-btn:hover {
@@ -122,6 +126,10 @@ body.no-scroll {
     font-size: 22px;
     line-height: 1;
     border-left: 1px solid #555;
+    height: 38px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
 }
 
 #clear-color-btn:hover {
@@ -325,6 +333,15 @@ body.no-scroll {
 
 .github-link:hover {
     opacity: 1;
+}
+
+.visually-hidden {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    white-space: nowrap;
 }
 
 /* === Responsive Styles === */
