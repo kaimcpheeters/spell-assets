@@ -1,5 +1,17 @@
 window.searchService = (async () => {
-    const spells = await fetch('spells.json').then(response => response.json());
+    const [spells, tagsList] = await Promise.all([
+        fetch('spells.json').then(response => response.json()),
+        fetch('tags.json').then(response => response.json())
+    ]);
+
+    const tagsById = tagsList.reduce((acc, tagData) => {
+        acc[tagData.id] = tagData.tags;
+        return acc;
+    }, {});
+
+    spells.forEach(spell => {
+        spell.tags = tagsById[spell.id] || [];
+    });
     
     const spellsById = {};
     spells.forEach(spell => {
@@ -7,14 +19,15 @@ window.searchService = (async () => {
     });
 
     const miniSearch = new window.MiniSearch({
-        fields: ['prompt', 'expandedPrompt'],
+        fields: ['prompt', 'expandedPrompt', 'tags'],
         idField: 'id',
     });
 
     const documents = spells.map(spell => ({
         id: spell.id,
         prompt: spell.prompt,
-        expandedPrompt: spell.metadata.expandedPrompt
+        expandedPrompt: spell.metadata.expandedPrompt,
+        tags: spell.tags
     }));
 
     miniSearch.addAll(documents);
