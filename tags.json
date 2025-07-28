@@ -1,0 +1,11967 @@
+[
+{
+"id": 14,
+"prompt": "water burst",
+"tags": [
+"water",
+"explosion",
+"projectile"
+]
+},
+{
+"id": 15,
+"prompt": "arcane curse",
+"tags": [
+"arcane",
+"curse",
+"dark",
+"shadow"
+]
+},
+{
+"id": 16,
+"prompt": "a fireball",
+"tags": [
+"fire",
+"projectile",
+"explosion"
+]
+},
+{
+"id": 17,
+"prompt": "dust storm",
+"tags": [
+"earth",
+"wind",
+"storm",
+"vortex"
+]
+},
+{
+"id": 19,
+"prompt": "Cryopyre",
+"tags": [
+"fire",
+"ice"
+]
+},
+{
+"id": 20,
+"prompt": "fireball",
+"tags": [
+"fire",
+"projectile",
+"explosion"
+]
+},
+{
+"id": 21,
+"prompt": "Blazefrost Shard",
+"tags": [
+"fire",
+"ice",
+"crystal",
+"projectile"
+]
+},
+{
+"id": 22,
+"prompt": "firebolt",
+"tags": [
+"fire",
+"projectile"
+]
+},
+{
+"id": 23,
+"prompt": "ball of lightning",
+"tags": [
+"lightning",
+"projectile"
+]
+},
+{
+"id": 24,
+"prompt": "mark of the dragon",
+"tags": [
+"rune",
+"fire",
+"animal",
+"arcane"
+]
+},
+{
+"id": 25,
+"prompt": "Steamflare",
+"tags": [
+"water",
+"fire",
+"explosion"
+]
+},
+{
+"id": 26,
+"prompt": "Pyroshard",
+"tags": [
+"fire",
+"projectile"
+]
+},
+{
+"id": 27,
+"prompt": "Umbral Radiance",
+"tags": [
+"shadow",
+"dark",
+"light"
+]
+},
+{
+"id": 28,
+"prompt": "bone ash",
+"tags": [
+"bone",
+"necrotic",
+"projectile",
+"undead"
+]
+},
+{
+"id": 29,
+"prompt": "green portal",
+"tags": [
+"arcane",
+"movement",
+"ethereal",
+"vortex"
+]
+},
+{
+"id": 30,
+"prompt": "hailstorm",
+"tags": [
+"ice",
+"storm",
+"vortex"
+]
+},
+{
+"id": 32,
+"prompt": "fire lash",
+"tags": [
+"fire",
+"weapon"
+]
+},
+{
+"id": 33,
+"prompt": "chain bolt",
+"tags": [
+"lightning",
+"projectile"
+]
+},
+{
+"id": 34,
+"prompt": "venom lance",
+"tags": [
+"poison",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 35,
+"prompt": "blightburst",
+"tags": [
+"poison",
+"explosion",
+"dark",
+"necrotic"
+]
+},
+{
+"id": 36,
+"prompt": "soulrend",
+"tags": [
+"soul",
+"dark",
+"shadow",
+"ghost"
+]
+},
+{
+"id": 37,
+"prompt": "enderstorm",
+"tags": [
+"dark",
+"storm",
+"arcane",
+"vortex"
+]
+},
+{
+"id": 38,
+"prompt": "emberstorm",
+"tags": [
+"fire",
+"storm",
+"vortex"
+]
+},
+{
+"id": 39,
+"prompt": "frostfang",
+"tags": [
+"ice",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 40,
+"prompt": "shatterspile",
+"tags": [
+"crystal",
+"earth",
+"explosion"
+]
+},
+{
+"id": 41,
+"prompt": "shatterspike",
+"tags": [
+"ice",
+"crystal",
+"projectile"
+]
+},
+{
+"id": 42,
+"prompt": "ashwake",
+"tags": [
+"fire",
+"dark",
+"shadow"
+]
+},
+{
+"id": 43,
+"prompt": "thunderbrand",
+"tags": [
+"lightning",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 44,
+"prompt": "ice bloom",
+"tags": [
+"ice",
+"crystal",
+"plant"
+]
+},
+{
+"id": 45,
+"prompt": "stonevine grasp",
+"tags": [
+"earth",
+"plant",
+"nature"
+]
+},
+{
+"id": 46,
+"prompt": "windsheer",
+"tags": [
+"wind",
+"vortex"
+]
+},
+{
+"id": 47,
+"prompt": "earthsurge",
+"tags": [
+"earth",
+"nature"
+]
+},
+{
+"id": 48,
+"prompt": "tidalfang",
+"tags": [
+"water",
+"vortex",
+"animal"
+]
+},
+{
+"id": 49,
+"prompt": "scorchroot",
+"tags": [
+"fire",
+"plant",
+"nature"
+]
+},
+{
+"id": 50,
+"prompt": "gale spiral",
+"tags": [
+"wind",
+"vortex",
+"storm"
+]
+},
+{
+"id": 51,
+"prompt": "magma jet",
+"tags": [
+"fire",
+"earth",
+"projectile"
+]
+},
+{
+"id": 52,
+"prompt": "storm call",
+"tags": [
+"storm",
+"lightning",
+"wind",
+"water"
+]
+},
+{
+"id": 53,
+"prompt": "crystal briar",
+"tags": [
+"crystal",
+"plant",
+"nature"
+]
+},
+{
+"id": 54,
+"prompt": "conjuring",
+"tags": [
+"arcane",
+"summon",
+"rune",
+"ethereal"
+]
+},
+{
+"id": 55,
+"prompt": "bloodletting curse",
+"tags": [
+"blood",
+"curse",
+"dark",
+"shadow"
+]
+},
+{
+"id": 56,
+"prompt": "shadebind",
+"tags": [
+"shadow",
+"dark",
+"ethereal",
+"curse"
+]
+},
+{
+"id": 57,
+"prompt": "witherhez",
+"tags": [
+"dark",
+"necrotic",
+"poison",
+"curse"
+]
+},
+{
+"id": 59,
+"prompt": "witherhex",
+"tags": [
+"necrotic",
+"dark",
+"curse",
+"poison"
+]
+},
+{
+"id": 60,
+"prompt": "grave chant",
+"tags": [
+"necrotic",
+"dark",
+"ghost",
+"rune",
+"sound"
+]
+},
+{
+"id": 61,
+"prompt": "bone call",
+"tags": [
+"bone",
+"summon",
+"necrotic",
+"undead"
+]
+},
+{
+"id": 62,
+"prompt": "deathcoil",
+"tags": [
+"necrotic",
+"dark",
+"shadow",
+"vortex"
+]
+},
+{
+"id": 63,
+"prompt": "night maw",
+"tags": [
+"shadow",
+"dark",
+"vortex"
+]
+},
+{
+"id": 64,
+"prompt": "ghoulfire",
+"tags": [
+"fire",
+"ghost",
+"necrotic",
+"undead"
+]
+},
+{
+"id": 65,
+"prompt": "silence of flesh",
+"tags": [
+"necrotic",
+"dark",
+"curse",
+"blood"
+]
+},
+{
+"id": 66,
+"prompt": "dreadmark",
+"tags": [
+"dark",
+"shadow",
+"rune",
+"curse"
+]
+},
+{
+"id": 67,
+"prompt": "radiant pulse",
+"tags": [
+"light",
+"holy",
+"aura",
+"divine"
+]
+},
+{
+"id": 68,
+"prompt": "sunveil",
+"tags": [
+"light",
+"holy",
+"aura",
+"sun"
+]
+},
+{
+"id": 69,
+"prompt": "aether ward",
+"tags": [
+"arcane",
+"shield",
+"ethereal"
+]
+},
+{
+"id": 70,
+"prompt": "purity lance",
+"tags": [
+"light",
+"holy",
+"divine",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 71,
+"prompt": "dawnfire halo",
+"tags": [
+"fire",
+"light",
+"holy",
+"aura",
+"sun"
+]
+},
+{
+"id": 72,
+"prompt": "hymn of binding",
+"tags": [
+"light",
+"holy",
+"sound",
+"curse"
+]
+},
+{
+"id": 73,
+"prompt": "blinkstep",
+"tags": [
+"movement",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 74,
+"prompt": "spirit beacon",
+"tags": [
+"spirit",
+"ghost",
+"light",
+"aura"
+]
+},
+{
+"id": 75,
+"prompt": "ward of solas",
+"tags": [
+"light",
+"holy",
+"shield",
+"sun",
+"divine"
+]
+},
+{
+"id": 76,
+"prompt": "blessing of thorns",
+"tags": [
+"plant",
+"nature",
+"holy",
+"healing"
+]
+},
+{
+"id": 77,
+"prompt": "sanctify souls",
+"tags": [
+"soul",
+"holy",
+"light",
+"divine",
+"healing"
+]
+},
+{
+"id": 78,
+"prompt": "phase anchor",
+"tags": [
+"arcane",
+"ethereal",
+"movement",
+"time"
+]
+},
+{
+"id": 79,
+"prompt": "mindlace",
+"tags": [
+"psychic",
+"ethereal",
+"arcane",
+"curse"
+]
+},
+{
+"id": 80,
+"prompt": "temporal flicker",
+"tags": [
+"time",
+"arcane",
+"illusion"
+]
+},
+{
+"id": 81,
+"prompt": "sigil of recall",
+"tags": [
+"rune",
+"movement",
+"arcane"
+]
+},
+{
+"id": 82,
+"prompt": "arcane thread",
+"tags": [
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 83,
+"prompt": "ethereal bridge",
+"tags": [
+"ethereal",
+"movement",
+"arcane"
+]
+},
+{
+"id": 84,
+"prompt": "dreambind",
+"tags": [
+"psychic",
+"ethereal",
+"illusion",
+"curse"
+]
+},
+{
+"id": 85,
+"prompt": "whisperwarp",
+"tags": [
+"ethereal",
+"movement",
+"sound",
+"arcane"
+]
+},
+{
+"id": 86,
+"prompt": "astral leash",
+"tags": [
+"cosmic",
+"ethereal",
+"arcane",
+"curse",
+"star"
+]
+},
+{
+"id": 87,
+"prompt": "mend wounds",
+"tags": [
+"healing",
+"light",
+"nature",
+"holy"
+]
+},
+{
+"id": 88,
+"prompt": "restore essence",
+"tags": [
+"healing",
+"spirit",
+"ethereal",
+"soul"
+]
+},
+{
+"id": 89,
+"prompt": "light of renewal",
+"tags": [
+"light",
+"healing",
+"holy",
+"divine"
+]
+},
+{
+"id": 90,
+"prompt": "blessing of vitality",
+"tags": [
+"healing",
+"nature",
+"holy",
+"light",
+"plant"
+]
+},
+{
+"id": 91,
+"prompt": "minor benedictiob",
+"tags": [
+"holy",
+"light",
+"healing",
+"divine"
+]
+},
+{
+"id": 92,
+"prompt": "minor benediction",
+"tags": [
+"holy",
+"light",
+"healing",
+"divine"
+]
+},
+{
+"id": 93,
+"prompt": "soothing light",
+"tags": [
+"light",
+"healing",
+"holy"
+]
+},
+{
+"id": 94,
+"prompt": "glimmer of mercy",
+"tags": [
+"light",
+"holy",
+"healing",
+"divine"
+]
+},
+{
+"id": 95,
+"prompt": "healing surge",
+"tags": [
+"healing",
+"nature",
+"light"
+]
+},
+{
+"id": 96,
+"prompt": "touch of grace",
+"tags": [
+"healing",
+"light",
+"holy",
+"divine",
+"angelic"
+]
+},
+{
+"id": 97,
+"prompt": "sacred aegis",
+"tags": [
+"holy",
+"shield",
+"light",
+"divine"
+]
+},
+{
+"id": 98,
+"prompt": "breath of life",
+"tags": [
+"healing",
+"nature",
+"plant",
+"light"
+]
+},
+{
+"id": 99,
+"prompt": "ward of the faithful",
+"tags": [
+"shield",
+"holy",
+"light",
+"divine",
+"rune"
+]
+},
+{
+"id": 100,
+"prompt": "shield of seraphs",
+"tags": [
+"shield",
+"holy",
+"angelic",
+"light",
+"divine"
+]
+},
+{
+"id": 101,
+"prompt": "halo barrier",
+"tags": [
+"shield",
+"holy",
+"light",
+"aura"
+]
+},
+{
+"id": 102,
+"prompt": "lightward circlw",
+"tags": [
+"light",
+"holy",
+"aura"
+]
+},
+{
+"id": 103,
+"prompt": "lightward circle",
+"tags": [
+"light",
+"holy",
+"aura"
+]
+},
+{
+"id": 104,
+"prompt": "sanctuary shell",
+"tags": [
+"shield",
+"holy",
+"light",
+"aura"
+]
+},
+{
+"id": 105,
+"prompt": "divine bulwark",
+"tags": [
+"divine",
+"holy",
+"shield",
+"light"
+]
+},
+{
+"id": 106,
+"prompt": "sentinel’s grace",
+"tags": [
+"shield",
+"light",
+"ethereal",
+"holy"
+]
+},
+{
+"id": 107,
+"prompt": "angelic mantle",
+"tags": [
+"angelic",
+"holy",
+"light",
+"aura",
+"divine"
+]
+},
+{
+"id": 108,
+"prompt": "glowshield",
+"tags": [
+"light",
+"shield",
+"aura"
+]
+},
+{
+"id": 109,
+"prompt": "candy rave",
+"tags": [
+"funny",
+"food",
+"light",
+"explosion"
+]
+},
+{
+"id": 110,
+"prompt": "seraphic blessing",
+"tags": [
+"angelic",
+"divine",
+"holy",
+"light",
+"healing"
+]
+},
+{
+"id": 111,
+"prompt": "raise the fallen",
+"tags": [
+"healing",
+"holy",
+"light",
+"spirit",
+"soul"
+]
+},
+{
+"id": 112,
+"prompt": "breath beyond death",
+"tags": [
+"healing",
+"ghost",
+"spirit",
+"necrotic"
+]
+},
+{
+"id": 113,
+"prompt": "grace undone",
+"tags": [
+"ethereal",
+"light",
+"arcane"
+]
+},
+{
+"id": 114,
+"prompt": "a chunk of stone",
+"tags": [
+"earth",
+"projectile"
+]
+},
+{
+"id": 115,
+"prompt": "a burning book",
+"tags": [
+"fire",
+"arcane",
+"funny"
+]
+},
+{
+"id": 116,
+"prompt": "a dust ploom",
+"tags": [
+"earth",
+"wind"
+]
+},
+{
+"id": 117,
+"prompt": "tornado",
+"tags": [
+"wind",
+"storm",
+"vortex"
+]
+},
+{
+"id": 118,
+"prompt": "radioactive",
+"tags": [
+"poison",
+"curse",
+"light",
+"aura"
+]
+},
+{
+"id": 119,
+"prompt": "schrodingers cat",
+"tags": [
+"funny",
+"illusion",
+"animal",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 120,
+"prompt": "a burning lotus",
+"tags": [
+"fire",
+"plant",
+"nature"
+]
+},
+{
+"id": 121,
+"prompt": "the orb of destiny",
+"tags": [
+"arcane",
+"cosmic",
+"ethereal",
+"divine"
+]
+},
+{
+"id": 122,
+"prompt": "a shoe with wings",
+"tags": [
+"funny",
+"movement"
+]
+},
+{
+"id": 123,
+"prompt": "levitation",
+"tags": [
+"movement",
+"arcane",
+"ethereal",
+"aura"
+]
+},
+{
+"id": 124,
+"prompt": "illusions",
+"tags": [
+"illusion",
+"psychic",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 125,
+"prompt": "flash steam",
+"tags": [
+"water",
+"fire",
+"explosion"
+]
+},
+{
+"id": 126,
+"prompt": "haste spell",
+"tags": [
+"movement",
+"time",
+"arcane",
+"aura"
+]
+},
+{
+"id": 127,
+"prompt": "meteorite",
+"tags": [
+"fire",
+"earth",
+"projectile",
+"cosmic"
+]
+},
+{
+"id": 128,
+"prompt": "an hourglass",
+"tags": [
+"time",
+"arcane",
+"funny"
+]
+},
+{
+"id": 129,
+"prompt": "entangled vines",
+"tags": [
+"plant",
+"nature",
+"curse"
+]
+},
+{
+"id": 130,
+"prompt": "a demons eye",
+"tags": [
+"demonic",
+"dark",
+"fire",
+"shadow"
+]
+},
+{
+"id": 131,
+"prompt": "vampire bite",
+"tags": [
+"blood",
+"dark",
+"undead"
+]
+},
+{
+"id": 132,
+"prompt": "an hourglass spell, small",
+"tags": [
+"time",
+"arcane"
+]
+},
+{
+"id": 133,
+"prompt": "demon mouth, teeth",
+"tags": [
+"demonic",
+"dark",
+"shadow"
+]
+},
+{
+"id": 134,
+"prompt": "an hourglass becoming a pile of sand",
+"tags": [
+"time",
+"earth",
+"arcane",
+"illusion"
+]
+},
+{
+"id": 135,
+"prompt": "a golden hammer coming down",
+"tags": [
+"weapon",
+"light",
+"holy",
+"earth"
+]
+},
+{
+"id": 136,
+"prompt": "blood sanguine",
+"tags": [
+"blood",
+"dark"
+]
+},
+{
+"id": 137,
+"prompt": "a grey puff of smoke from an explosion",
+"tags": [
+"explosion",
+"wind",
+"fire"
+]
+},
+{
+"id": 138,
+"prompt": "a green healing cross spell",
+"tags": [
+"healing",
+"holy",
+"light",
+"nature"
+]
+},
+{
+"id": 139,
+"prompt": "bubble pop",
+"tags": [
+"water",
+"explosion",
+"arcane"
+]
+},
+{
+"id": 140,
+"prompt": "a gold sword coming down with holy light",
+"tags": [
+"weapon",
+"holy",
+"light",
+"divine"
+]
+},
+{
+"id": 141,
+"prompt": "a golden sword coming down with firey force",
+"tags": [
+"weapon",
+"fire",
+"light"
+]
+},
+{
+"id": 142,
+"prompt": "a white skull",
+"tags": [
+"bone",
+"undead",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 143,
+"prompt": "debris",
+"tags": [
+"earth",
+"explosion",
+"arcane"
+]
+},
+{
+"id": 144,
+"prompt": "lava splash",
+"tags": [
+"fire",
+"earth",
+"explosion",
+"water"
+]
+},
+{
+"id": 145,
+"prompt": "necromatic skull",
+"tags": [
+"necrotic",
+"undead",
+"bone",
+"dark",
+"ghost"
+]
+},
+{
+"id": 146,
+"prompt": "bomber man bomb",
+"tags": [
+"explosion",
+"fire",
+"funny"
+]
+},
+{
+"id": 147,
+"prompt": "blue flame",
+"tags": [
+"fire",
+"ice",
+"ethereal",
+"arcane"
+]
+},
+{
+"id": 148,
+"prompt": "explosion",
+"tags": [
+"explosion",
+"fire"
+]
+},
+{
+"id": 149,
+"prompt": "a book burning with blue flame",
+"tags": [
+"fire",
+"arcane",
+"ethereal",
+"funny"
+]
+},
+{
+"id": 150,
+"prompt": "a burning playing card",
+"tags": [
+"fire",
+"funny",
+"illusion"
+]
+},
+{
+"id": 151,
+"prompt": "ferrofluid",
+"tags": [
+"metal",
+"dark",
+"shadow"
+]
+},
+{
+"id": 152,
+"prompt": "a playing card",
+"tags": [
+"funny",
+"illusion",
+"arcane"
+]
+},
+{
+"id": 153,
+"prompt": "a zzz sleep animation",
+"tags": [
+"funny",
+"psychic",
+"curse"
+]
+},
+{
+"id": 154,
+"prompt": "counting sheep",
+"tags": [
+"funny",
+"psychic",
+"animal",
+"illusion",
+"cosmic"
+]
+},
+{
+"id": 155,
+"prompt": "dream eater",
+"tags": [
+"psychic",
+"ethereal",
+"vortex",
+"illusion",
+"dark"
+]
+},
+{
+"id": 156,
+"prompt": "giant tongue",
+"tags": [
+"funny",
+"animal",
+"blood"
+]
+},
+{
+"id": 157,
+"prompt": "confusion",
+"tags": [
+"psychic",
+"illusion",
+"curse",
+"vortex"
+]
+},
+{
+"id": 158,
+"prompt": "question marks",
+"tags": [
+"funny",
+"psychic",
+"illusion",
+"rune"
+]
+},
+{
+"id": 159,
+"prompt": "exclamation marks",
+"tags": [
+"funny",
+"sound",
+"light"
+]
+},
+{
+"id": 160,
+"prompt": "exclamation maris",
+"tags": [
+"water",
+"vortex",
+"funny",
+"explosion"
+]
+},
+{
+"id": 161,
+"prompt": "identify spell",
+"tags": [
+"arcane",
+"light",
+"psychic"
+]
+},
+{
+"id": 162,
+"prompt": "mushroom spores",
+"tags": [
+"plant",
+"poison",
+"nature"
+]
+},
+{
+"id": 163,
+"prompt": "mind control",
+"tags": [
+"psychic",
+"curse",
+"illusion",
+"vortex"
+]
+},
+{
+"id": 164,
+"prompt": "fishes",
+"tags": [
+"animal",
+"water",
+"summon"
+]
+},
+{
+"id": 165,
+"prompt": "monkey paw",
+"tags": [
+"funny",
+"dark",
+"curse",
+"animal",
+"necrotic"
+]
+},
+{
+"id": 166,
+"prompt": "pulling a rabbit out of a hat",
+"tags": [
+"funny",
+"animal",
+"summon",
+"illusion"
+]
+},
+{
+"id": 167,
+"prompt": "cheeseburgee",
+"tags": [
+"food",
+"funny"
+]
+},
+{
+"id": 169,
+"prompt": "cheeseburger",
+"tags": [
+"food",
+"funny"
+]
+},
+{
+"id": 170,
+"prompt": "kentucky fried chicken",
+"tags": [
+"food",
+"funny",
+"fire"
+]
+},
+{
+"id": 171,
+"prompt": "fast food soda",
+"tags": [
+"food",
+"funny",
+"water"
+]
+},
+{
+"id": 172,
+"prompt": "a bowl of ramen",
+"tags": [
+"food",
+"funny",
+"water"
+]
+},
+{
+"id": 173,
+"prompt": "nathans ramen blast",
+"tags": [
+"food",
+"funny",
+"explosion",
+"vortex"
+]
+},
+{
+"id": 174,
+"prompt": "a cosmic owl",
+"tags": [
+"cosmic",
+"animal",
+"ethereal",
+"spirit",
+"star"
+]
+},
+{
+"id": 175,
+"prompt": "necromancers curse",
+"tags": [
+"necrotic",
+"curse",
+"dark",
+"shadow"
+]
+},
+{
+"id": 176,
+"prompt": "lich curse",
+"tags": [
+"undead",
+"necrotic",
+"curse",
+"dark"
+]
+},
+{
+"id": 177,
+"prompt": "eye of sauron",
+"tags": [
+"dark",
+"fire",
+"demonic",
+"curse",
+"funny"
+]
+},
+{
+"id": 178,
+"prompt": "finger of death",
+"tags": [
+"necrotic",
+"dark",
+"projectile",
+"curse"
+]
+},
+{
+"id": 179,
+"prompt": "bookify",
+"tags": [
+"arcane",
+"funny",
+"illusion",
+"vortex"
+]
+},
+{
+"id": 180,
+"prompt": "tentacles of the deep",
+"tags": [
+"water",
+"dark",
+"animal",
+"shadow"
+]
+},
+{
+"id": 181,
+"prompt": "flesh whip",
+"tags": [
+"blood",
+"necrotic",
+"dark",
+"weapon"
+]
+},
+{
+"id": 182,
+"prompt": "green skull",
+"tags": [
+"bone",
+"necrotic",
+"undead",
+"ghost"
+]
+},
+{
+"id": 183,
+"prompt": "Nether Portal",
+"tags": [
+"dark",
+"arcane",
+"movement",
+"vortex",
+"demonic"
+]
+},
+{
+"id": 184,
+"prompt": "pillars of bones",
+"tags": [
+"bone",
+"necrotic",
+"undead",
+"ghost"
+]
+},
+{
+"id": 185,
+"prompt": "ice spike wall",
+"tags": [
+"ice",
+"shield",
+"crystal"
+]
+},
+{
+"id": 186,
+"prompt": "multicolor musical notes fading into sparks",
+"tags": [
+"sound",
+"light",
+"arcane"
+]
+},
+{
+"id": 187,
+"prompt": "magic musical notes",
+"tags": [
+"sound",
+"arcane",
+"light"
+]
+},
+{
+"id": 188,
+"prompt": "ravens swarming",
+"tags": [
+"animal",
+"dark",
+"shadow",
+"vortex"
+]
+},
+{
+"id": 189,
+"prompt": "small black birds in a swarm, circling",
+"tags": [
+"animal",
+"dark",
+"shadow",
+"vortex",
+"wind"
+]
+},
+{
+"id": 190,
+"prompt": "a single large rolling eye",
+"tags": [
+"dark",
+"shadow",
+"illusion",
+"psychic"
+]
+},
+{
+"id": 191,
+"prompt": "blue flame around a single rolling eye",
+"tags": [
+"fire",
+"ice",
+"dark",
+"illusion",
+"arcane"
+]
+},
+{
+"id": 192,
+"prompt": "carpe diem bro",
+"tags": [
+"time",
+"funny",
+"light",
+"rune"
+]
+},
+{
+"id": 193,
+"prompt": "a lime green burst of like, like a lens flare",
+"tags": [
+"light",
+"explosion"
+]
+},
+{
+"id": 194,
+"prompt": "lidless eye, blinking through flame, emerge",
+"tags": [
+"fire",
+"dark",
+"illusion",
+"demonic"
+]
+},
+{
+"id": 195,
+"prompt": "a lime green burst of light, like a lens flare",
+"tags": [
+"light",
+"explosion"
+]
+},
+{
+"id": 196,
+"prompt": "a green slime monstwr",
+"tags": [
+"animal",
+"poison",
+"nature"
+]
+},
+{
+"id": 197,
+"prompt": "a green slime monster",
+"tags": [
+"animal",
+"poison",
+"nature"
+]
+},
+{
+"id": 198,
+"prompt": "metamorphosis",
+"tags": [
+"arcane",
+"illusion",
+"ethereal"
+]
+},
+{
+"id": 199,
+"prompt": "a cloud of small le green sparkles of light light twinkling stars",
+"tags": [
+"light",
+"cosmic",
+"star",
+"nature"
+]
+},
+{
+"id": 200,
+"prompt": "a cloud of multiple small lime green sparkles of light like twinkling stars",
+"tags": [
+"light",
+"cosmic",
+"star",
+"nature"
+]
+},
+{
+"id": 201,
+"prompt": "le green skull de la muerte pewpew!",
+"tags": [
+"funny",
+"necrotic",
+"undead",
+"bone",
+"projectile"
+]
+},
+{
+"id": 202,
+"prompt": "Cheesification cheese breeze bangpow!",
+"tags": [
+"funny",
+"food",
+"explosion"
+]
+},
+{
+"id": 203,
+"prompt": "fart cloud",
+"tags": [
+"funny",
+"poison",
+"wind"
+]
+},
+{
+"id": 204,
+"prompt": "a spell that turns you into a chicken",
+"tags": [
+"funny",
+"animal",
+"curse",
+"illusion"
+]
+},
+{
+"id": 205,
+"prompt": "tree, the most powerful of all scenery, the one and only",
+"tags": [
+"plant",
+"nature",
+"funny",
+"holy"
+]
+},
+{
+"id": 206,
+"prompt": "a tree growing from a seed, then exploding",
+"tags": [
+"plant",
+"nature",
+"explosion"
+]
+},
+{
+"id": 207,
+"prompt": "an octopus growing from a pearl to spread its 8 tentacles in an exploding motion",
+"tags": [
+"animal",
+"water",
+"summon",
+"explosion"
+]
+},
+{
+"id": 208,
+"prompt": "the big bang",
+"tags": [
+"cosmic",
+"explosion",
+"light",
+"holy"
+]
+},
+{
+"id": 209,
+"prompt": "earth shards",
+"tags": [
+"earth",
+"projectile",
+"crystal"
+]
+},
+{
+"id": 210,
+"prompt": "bone spikes coming from below",
+"tags": [
+"bone",
+"necrotic",
+"undead",
+"earth"
+]
+},
+{
+"id": 211,
+"prompt": "crystals spinning around",
+"tags": [
+"crystal",
+"vortex",
+"light",
+"arcane"
+]
+},
+{
+"id": 212,
+"prompt": "rubys spinning around",
+"tags": [
+"gem",
+"vortex",
+"fire",
+"arcane"
+]
+},
+{
+"id": 213,
+"prompt": "diamonds spinning around",
+"tags": [
+"gem",
+"crystal",
+"vortex",
+"light"
+]
+},
+{
+"id": 214,
+"prompt": "emeralds spinning around",
+"tags": [
+"gem",
+"crystal",
+"vortex",
+"nature"
+]
+},
+{
+"id": 215,
+"prompt": "a single diamond shaped ruby",
+"tags": [
+"gem",
+"crystal",
+"fire"
+]
+},
+{
+"id": 216,
+"prompt": "the philosophers stone",
+"tags": [
+"gem",
+"arcane",
+"light",
+"crystal"
+]
+},
+{
+"id": 217,
+"prompt": "the cube",
+"tags": [
+"arcane",
+"ethereal",
+"illusion"
+]
+},
+{
+"id": 218,
+"prompt": "a shield with seraph wings",
+"tags": [
+"shield",
+"angelic",
+"holy",
+"light"
+]
+},
+{
+"id": 219,
+"prompt": "a sword with seraph wings",
+"tags": [
+"weapon",
+"angelic",
+"holy",
+"light"
+]
+},
+{
+"id": 220,
+"prompt": "minecraft grass block",
+"tags": [
+"funny",
+"earth",
+"nature"
+]
+},
+{
+"id": 221,
+"prompt": "a pizza pie",
+"tags": [
+"food",
+"funny",
+"fire"
+]
+},
+{
+"id": 223,
+"prompt": "eggs cracking",
+"tags": [
+"funny",
+"food",
+"explosion"
+]
+},
+{
+"id": 224,
+"prompt": "the feeling of melancholy",
+"tags": [
+"psychic",
+"shadow",
+"dark",
+"curse"
+]
+},
+{
+"id": 225,
+"prompt": "the feeling of joy",
+"tags": [
+"psychic",
+"light",
+"holy",
+"aura"
+]
+},
+{
+"id": 226,
+"prompt": "the feeling of rage",
+"tags": [
+"psychic",
+"fire",
+"dark"
+]
+},
+{
+"id": 227,
+"prompt": "the feeling of love",
+"tags": [
+"psychic",
+"light",
+"holy",
+"healing",
+"aura"
+]
+},
+{
+"id": 228,
+"prompt": "the feeling of anger",
+"tags": [
+"psychic",
+"fire",
+"dark"
+]
+},
+{
+"id": 229,
+"prompt": "the feeling of jealousy",
+"tags": [
+"psychic",
+"dark",
+"poison",
+"curse"
+]
+},
+{
+"id": 230,
+"prompt": "the feeling of malice",
+"tags": [
+"psychic",
+"dark",
+"shadow",
+"demonic"
+]
+},
+{
+"id": 231,
+"prompt": "the feeling of solace",
+"tags": [
+"psychic",
+"light",
+"healing",
+"holy"
+]
+},
+{
+"id": 232,
+"prompt": "the feeling of serendipity",
+"tags": [
+"psychic",
+"light",
+"holy",
+"aura"
+]
+},
+{
+"id": 233,
+"prompt": "the feeling of pride",
+"tags": [
+"psychic",
+"light",
+"holy",
+"aura"
+]
+},
+{
+"id": 234,
+"prompt": "the feeling of guilt",
+"tags": [
+"psychic",
+"shadow",
+"dark",
+"curse"
+]
+},
+{
+"id": 235,
+"prompt": "the feeling of wanting to do anything astropulse says",
+"tags": [
+"psychic",
+"cosmic",
+"curse",
+"funny",
+"star"
+]
+},
+{
+"id": 236,
+"prompt": "will smith eating soaghetti",
+"tags": [
+"funny",
+"food"
+]
+},
+{
+"id": 237,
+"prompt": "the feeling of lust",
+"tags": [
+"psychic",
+"fire",
+"blood",
+"curse"
+]
+},
+{
+"id": 238,
+"prompt": "fast library wifi",
+"tags": [
+"funny",
+"lightning",
+"arcane"
+]
+},
+{
+"id": 239,
+"prompt": "the feeling of old age",
+"tags": [
+"psychic",
+"time",
+"shadow",
+"curse"
+]
+},
+{
+"id": 240,
+"prompt": "will smith eating spaghetti",
+"tags": [
+"funny",
+"food"
+]
+},
+{
+"id": 241,
+"prompt": "the feeling of needing to pee when you are on the highway and can’t stop",
+"tags": [
+"funny",
+"curse",
+"psychic"
+]
+},
+{
+"id": 242,
+"prompt": "the feeling a cat has when they are purring",
+"tags": [
+"psychic",
+"animal",
+"healing",
+"sound",
+"aura"
+]
+},
+{
+"id": 243,
+"prompt": "twilight orb",
+"tags": [
+"cosmic",
+"star",
+"moon",
+"dark",
+"shadow"
+]
+},
+{
+"id": 244,
+"prompt": "eclipse orb",
+"tags": [
+"cosmic",
+"star",
+"moon",
+"dark",
+"shadow"
+]
+},
+{
+"id": 245,
+"prompt": "ember orb",
+"tags": [
+"fire",
+"projectile"
+]
+},
+{
+"id": 246,
+"prompt": "the feeling of forgetting something you thought of just seconds ago",
+"tags": [
+"psychic",
+"illusion",
+"shadow",
+"funny"
+]
+},
+{
+"id": 247,
+"prompt": "frost orb",
+"tags": [
+"ice",
+"projectile"
+]
+},
+{
+"id": 248,
+"prompt": "raven call",
+"tags": [
+"animal",
+"dark",
+"summon",
+"shadow"
+]
+},
+{
+"id": 249,
+"prompt": "burn bloom",
+"tags": [
+"fire",
+"plant",
+"nature",
+"holy"
+]
+},
+{
+"id": 250,
+"prompt": "soul drain",
+"tags": [
+"soul",
+"necrotic",
+"dark",
+"curse"
+]
+},
+{
+"id": 251,
+"prompt": "shadow veil",
+"tags": [
+"shadow",
+"dark",
+"curse",
+"aura",
+"shield"
+]
+},
+{
+"id": 252,
+"prompt": "shadow summon",
+"tags": [
+"shadow",
+"dark",
+"summon",
+"ghost"
+]
+},
+{
+"id": 253,
+"prompt": "energy swirl",
+"tags": [
+"arcane",
+"vortex",
+"animal",
+"fire"
+]
+},
+{
+"id": 254,
+"prompt": "wisdom swirl",
+"tags": [
+"arcane",
+"psychic",
+"rune",
+"ethereal"
+]
+},
+{
+"id": 255,
+"prompt": "aqua swirl",
+"tags": [
+"water",
+"ice",
+"wind",
+"vortex"
+]
+},
+{
+"id": 256,
+"prompt": "nature's shield",
+"tags": [
+"nature",
+"earth",
+"plant",
+"shield"
+]
+},
+{
+"id": 257,
+"prompt": "shadow flame",
+"tags": [
+"shadow",
+"fire",
+"dark"
+]
+},
+{
+"id": 258,
+"prompt": "warmth ember",
+"tags": [
+"fire",
+"healing",
+"light"
+]
+},
+{
+"id": 259,
+"prompt": "serene waves",
+"tags": [
+"light",
+"water",
+"ethereal",
+"psychic"
+]
+},
+{
+"id": 260,
+"prompt": "primal grasp",
+"tags": [
+"earth",
+"bone",
+"animal",
+"dark"
+]
+},
+{
+"id": 261,
+"prompt": "nature's embrace",
+"tags": [
+"nature",
+"plant",
+"vortex",
+"healing"
+]
+},
+{
+"id": 262,
+"prompt": "blazing fury",
+"tags": [
+"fire",
+"explosion",
+"animal"
+]
+},
+{
+"id": 263,
+"prompt": "shadowfire",
+"tags": [
+"shadow",
+"fire",
+"dark"
+]
+},
+{
+"id": 264,
+"prompt": "earth surge",
+"tags": [
+"earth",
+"nature",
+"vortex"
+]
+},
+{
+"id": 265,
+"prompt": "aether spark",
+"tags": [
+"arcane",
+"ethereal",
+"lightning"
+]
+},
+{
+"id": 266,
+"prompt": "mystic flight",
+"tags": [
+"movement",
+"arcane",
+"animal",
+"ethereal"
+]
+},
+{
+"id": 267,
+"prompt": "luminous gaze",
+"tags": [
+"light",
+"psychic",
+"star",
+"cosmic"
+]
+},
+{
+"id": 268,
+"prompt": "pumpkin blaze",
+"tags": [
+"fire",
+"plant",
+"funny"
+]
+},
+{
+"id": 270,
+"prompt": "a pumpkin 🎃",
+"tags": [
+"plant",
+"funny",
+"food"
+]
+},
+{
+"id": 271,
+"prompt": "bone spikes",
+"tags": [
+"bone",
+"necrotic",
+"projectile",
+"earth",
+"dark"
+]
+},
+{
+"id": 272,
+"prompt": "rune glow",
+"tags": [
+"rune",
+"light",
+"holy",
+"arcane"
+]
+},
+{
+"id": 273,
+"prompt": "mech feather",
+"tags": [
+"metal",
+"wind",
+"arcane",
+"aura"
+]
+},
+{
+"id": 274,
+"prompt": "shadowglow",
+"tags": [
+"shadow",
+"light",
+"dark",
+"aura"
+]
+},
+{
+"id": 275,
+"prompt": "golden swirl",
+"tags": [
+"light",
+"holy",
+"aura",
+"nature"
+]
+},
+{
+"id": 276,
+"prompt": "shadow fury",
+"tags": [
+"shadow",
+"dark",
+"fire",
+"demonic",
+"aura"
+]
+},
+{
+"id": 277,
+"prompt": "golden aura",
+"tags": [
+"light",
+"holy",
+"aura",
+"divine"
+]
+},
+{
+"id": 278,
+"prompt": "a holy crown",
+"tags": [
+"holy",
+"light",
+"divine",
+"aura"
+]
+},
+{
+"id": 279,
+"prompt": "twilight crown",
+"tags": [
+"cosmic",
+"moon",
+"star",
+"dark",
+"shadow"
+]
+},
+{
+"id": 280,
+"prompt": "eclipse crown",
+"tags": [
+"cosmic",
+"moon",
+"star",
+"dark",
+"shadow"
+]
+},
+{
+"id": 281,
+"prompt": "beast summon",
+"tags": [
+"summon",
+"animal",
+"earth",
+"dark",
+"nature"
+]
+},
+{
+"id": 282,
+"prompt": "drown spell",
+"tags": [
+"water",
+"curse",
+"summon",
+"animal"
+]
+},
+{
+"id": 283,
+"prompt": "wrything inky tentacles",
+"tags": [
+"dark",
+"shadow",
+"water",
+"animal"
+]
+},
+{
+"id": 284,
+"prompt": "INKSPLOSION!!",
+"tags": [
+"dark",
+"explosion",
+"water",
+"shadow"
+]
+},
+{
+"id": 285,
+"prompt": "death grasp",
+"tags": [
+"necrotic",
+"undead",
+"dark",
+"curse",
+"shadow"
+]
+},
+{
+"id": 286,
+"prompt": "shadow curse",
+"tags": [
+"shadow",
+"dark",
+"curse",
+"necrotic",
+"aura"
+]
+},
+{
+"id": 287,
+"prompt": "shadow wraith",
+"tags": [
+"shadow",
+"dark",
+"ghost",
+"summon",
+"necrotic"
+]
+},
+{
+"id": 288,
+"prompt": "shadow slip",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"ethereal"
+]
+},
+{
+"id": 289,
+"prompt": "holy purge",
+"tags": [
+"holy",
+"light",
+"divine",
+"healing"
+]
+},
+{
+"id": 290,
+"prompt": "twilight shard",
+"tags": [
+"crystal",
+"arcane",
+"cosmic",
+"dark",
+"shadow"
+]
+},
+{
+"id": 291,
+"prompt": "twilight curse",
+"tags": [
+"dark",
+"curse",
+"cosmic",
+"shadow",
+"explosion"
+]
+},
+{
+"id": 292,
+"prompt": "ruby pulse",
+"tags": [
+"gem",
+"fire",
+"light",
+"rune"
+]
+},
+{
+"id": 293,
+"prompt": "fiery eye",
+"tags": [
+"fire",
+"light",
+"psychic",
+"illusion",
+"curse"
+]
+},
+{
+"id": 294,
+"prompt": "earth shield",
+"tags": [
+"earth",
+"shield",
+"nature"
+]
+},
+{
+"id": 295,
+"prompt": "primal form",
+"tags": [
+"earth",
+"nature",
+"arcane",
+"projectile"
+]
+},
+{
+"id": 296,
+"prompt": "ice ascendant",
+"tags": [
+"ice",
+"angelic",
+"light",
+"dark",
+"movement"
+]
+},
+{
+"id": 297,
+"prompt": "ember rise",
+"tags": [
+"fire",
+"angelic",
+"summon",
+"animal",
+"movement"
+]
+},
+{
+"id": 298,
+"prompt": "lava",
+"tags": [
+"fire",
+"earth"
+]
+},
+{
+"id": 299,
+"prompt": "tusk energy",
+"tags": [
+"animal",
+"earth",
+"nature",
+"arcane",
+"spirit"
+]
+},
+{
+"id": 300,
+"prompt": "blossom wave",
+"tags": [
+"plant",
+"nature",
+"healing",
+"light"
+]
+},
+{
+"id": 301,
+"prompt": "magnificent spell",
+"tags": [
+"cosmic",
+"arcane",
+"ethereal",
+"star",
+"vortex"
+]
+},
+{
+"id": 302,
+"prompt": "bananarama",
+"tags": [
+"funny",
+"food",
+"explosion",
+"projectile"
+]
+},
+{
+"id": 303,
+"prompt": "slimeshape",
+"tags": [
+"poison",
+"nature",
+"illusion",
+"curse"
+]
+},
+{
+"id": 304,
+"prompt": "banana surge",
+"tags": [
+"funny",
+"food",
+"healing",
+"aura",
+"light"
+]
+},
+{
+"id": 305,
+"prompt": "A surge of green energy raises an army of spectral warriors from the ground.",
+"tags": [
+"summon",
+"ghost",
+"undead",
+"necrotic",
+"spirit"
+]
+},
+{
+"id": 306,
+"prompt": "A vast army of spectral warriors rises from the ground, enveloped in swirling dark mist.",
+"tags": [
+"summon",
+"ghost",
+"undead",
+"shadow",
+"dark"
+]
+},
+{
+"id": 307,
+"prompt": "Dark energy forms around the blade, releasing a crescent of shadow towards enemies.",
+"tags": [
+"dark",
+"shadow",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 308,
+"prompt": "A swirling barrier of ghostly mist envelops and protects against attacks.",
+"tags": [
+"ghost",
+"shield",
+"ethereal",
+"shadow",
+"wind"
+]
+},
+{
+"id": 309,
+"prompt": "A dark projectile launches from his hand, leaving a trail of shadowy flames.",
+"tags": [
+"dark",
+"shadow",
+"fire",
+"projectile"
+]
+},
+{
+"id": 310,
+"prompt": "A surge of dark energy erupts, reviving fallen undead with blackened aura.",
+"tags": [
+"dark",
+"necrotic",
+"undead",
+"summon",
+"aura"
+]
+},
+{
+"id": 311,
+"prompt": "A dark aura infests a target, weakening and decaying them over time.",
+"tags": [
+"dark",
+"aura",
+"curse",
+"necrotic",
+"poison"
+]
+},
+{
+"id": 312,
+"prompt": "A barrier of skeletal arms emerges, forming a protective lattice around him.",
+"tags": [
+"bone",
+"shield",
+"necrotic",
+"undead",
+"ghost"
+]
+},
+{
+"id": 313,
+"prompt": "A vortex of black ink and shadow energy erupts, engulfing enemies in a swirling storm.",
+"tags": [
+"vortex",
+"dark",
+"shadow",
+"water",
+"storm"
+]
+},
+{
+"id": 314,
+"prompt": "Dark spikes erupt from the ground with inky tendrils, piercing enemies with sharp precision.",
+"tags": [
+"dark",
+"shadow",
+"earth",
+"projectile",
+"water"
+]
+},
+{
+"id": 315,
+"prompt": "Dark tendrils erupt, forming giant ink spikes, swirling with shadowy energy.",
+"tags": [
+"dark",
+"shadow",
+"projectile",
+"water"
+]
+},
+{
+"id": 316,
+"prompt": "A shroud of shadowy ink envelops the caster, absorbing incoming attacks with dark mist.",
+"tags": [
+"shadow",
+"dark",
+"shield",
+"aura",
+"water"
+]
+},
+{
+"id": 317,
+"prompt": "Whip-like ink strands lash out, leaving dark trails and shadowy sparks.",
+"tags": [
+"weapon",
+"dark",
+"shadow",
+"water"
+]
+},
+{
+"id": 318,
+"prompt": "A massive, dark ink wave erupts, forming shadowy tentacles that engulf enemies.",
+"tags": [
+"water",
+"dark",
+"shadow",
+"animal",
+"summon"
+]
+},
+{
+"id": 319,
+"prompt": "Small creatures made of ink emerge, swarming and distracting enemies with darting movements.",
+"tags": [
+"summon",
+"dark",
+"shadow",
+"water",
+"animal"
+]
+},
+{
+"id": 320,
+"prompt": "Black, serrated energy projects forward, slicing enemies with a sharp edge.",
+"tags": [
+"dark",
+"shadow",
+"projectile",
+"weapon"
+]
+},
+{
+"id": 321,
+"prompt": "A gaze of swirling black energy weakens enemies, causing their power to dampen and fade.",
+"tags": [
+"dark",
+"shadow",
+"curse",
+"psychic",
+"vortex"
+]
+},
+{
+"id": 322,
+"prompt": "shadow wings",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"storm",
+"water"
+]
+},
+{
+"id": 323,
+"prompt": "starburst",
+"tags": [
+"cosmic",
+"star",
+"explosion",
+"light"
+]
+},
+{
+"id": 324,
+"prompt": "ink tendrils",
+"tags": [
+"dark",
+"shadow",
+"water",
+"projectile"
+]
+},
+{
+"id": 325,
+"prompt": "galactic burst",
+"tags": [
+"cosmic",
+"explosion",
+"light",
+"star"
+]
+},
+{
+"id": 326,
+"prompt": "stardust claw",
+"tags": [
+"cosmic",
+"star",
+"weapon",
+"dark",
+"shadow"
+]
+},
+{
+"id": 327,
+"prompt": "ink shield",
+"tags": [
+"dark",
+"shadow",
+"water",
+"shield"
+]
+},
+{
+"id": 328,
+"prompt": "shimmer peck",
+"tags": [
+"projectile",
+"light",
+"animal"
+]
+},
+{
+"id": 329,
+"prompt": "astral glide",
+"tags": [
+"movement",
+"ethereal",
+"cosmic",
+"light"
+]
+},
+{
+"id": 330,
+"prompt": "star glide",
+"tags": [
+"movement",
+"star",
+"cosmic",
+"light"
+]
+},
+{
+"id": 331,
+"prompt": "starlit veil",
+"tags": [
+"star",
+"cosmic",
+"dark",
+"shadow",
+"shield"
+]
+},
+{
+"id": 332,
+"prompt": "ink sigil",
+"tags": [
+"rune",
+"curse",
+"dark",
+"water",
+"shadow"
+]
+},
+{
+"id": 333,
+"prompt": "star shield",
+"tags": [
+"star",
+"cosmic",
+"shield",
+"light"
+]
+},
+{
+"id": 334,
+"prompt": "void whisper",
+"tags": [
+"dark",
+"shadow",
+"curse",
+"sound"
+]
+},
+{
+"id": 335,
+"prompt": "shadow vortex",
+"tags": [
+"shadow",
+"dark",
+"vortex",
+"summon",
+"animal"
+]
+},
+{
+"id": 336,
+"prompt": "shadow step",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"ethereal"
+]
+},
+{
+"id": 337,
+"prompt": "cosmic claws",
+"tags": [
+"cosmic",
+"weapon",
+"light",
+"projectile"
+]
+},
+{
+"id": 338,
+"prompt": "aura shield",
+"tags": [
+"aura",
+"shield",
+"light",
+"ethereal"
+]
+},
+{
+"id": 339,
+"prompt": "nebula glide",
+"tags": [
+"movement",
+"cosmic",
+"star",
+"ethereal"
+]
+},
+{
+"id": 340,
+"prompt": "warp field",
+"tags": [
+"time",
+"arcane",
+"curse",
+"illusion"
+]
+},
+{
+"id": 341,
+"prompt": "shadow blades",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 342,
+"prompt": "spectral chains",
+"tags": [
+"ghost",
+"curse",
+"ethereal",
+"spirit"
+]
+},
+{
+"id": 343,
+"prompt": "phantom veil",
+"tags": [
+"ghost",
+"movement",
+"ethereal",
+"aura"
+]
+},
+{
+"id": 344,
+"prompt": "shadow tendrils",
+"tags": [
+"shadow",
+"dark",
+"vortex",
+"curse"
+]
+},
+{
+"id": 345,
+"prompt": "dark vortex",
+"tags": [
+"dark",
+"shadow",
+"vortex",
+"arcane"
+]
+},
+{
+"id": 346,
+"prompt": "darkfire",
+"tags": [
+"dark",
+"fire",
+"shadow",
+"projectile"
+]
+},
+{
+"id": 347,
+"prompt": "shadow tendril",
+"tags": [
+"shadow",
+"dark",
+"curse",
+"soul"
+]
+},
+{
+"id": 348,
+"prompt": "starlight burst",
+"tags": [
+"star",
+"light",
+"explosion",
+"cosmic"
+]
+},
+{
+"id": 349,
+"prompt": "shadow whirl",
+"tags": [
+"shadow",
+"dark",
+"vortex",
+"wind"
+]
+},
+{
+"id": 350,
+"prompt": "spectral shield",
+"tags": [
+"ghost",
+"shield",
+"ethereal",
+"spirit"
+]
+},
+{
+"id": 351,
+"prompt": "bone shard",
+"tags": [
+"bone",
+"projectile",
+"ghost",
+"necrotic"
+]
+},
+{
+"id": 352,
+"prompt": "shadow glide",
+"tags": [
+"shadow",
+"movement",
+"dark",
+"ethereal"
+]
+},
+{
+"id": 353,
+"prompt": "shadow ward",
+"tags": [
+"shadow",
+"shield",
+"dark",
+"rune"
+]
+},
+{
+"id": 354,
+"prompt": "dark shroud",
+"tags": [
+"dark",
+"shadow",
+"aura",
+"curse"
+]
+},
+{
+"id": 355,
+"prompt": "shadow burst",
+"tags": [
+"shadow",
+"dark",
+"explosion",
+"lightning",
+"projectile"
+]
+},
+{
+"id": 356,
+"prompt": "shadow mist",
+"tags": [
+"shadow",
+"dark",
+"illusion",
+"aura"
+]
+},
+{
+"id": 357,
+"prompt": "storm bolt",
+"tags": [
+"storm",
+"lightning",
+"projectile",
+"dark"
+]
+},
+{
+"id": 358,
+"prompt": "radiant burst",
+"tags": [
+"light",
+"holy",
+"explosion",
+"divine"
+]
+},
+{
+"id": 359,
+"prompt": "wind blade",
+"tags": [
+"wind",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 360,
+"prompt": "golden shield",
+"tags": [
+"light",
+"holy",
+"shield",
+"aura"
+]
+},
+{
+"id": 361,
+"prompt": "sparkle wings",
+"tags": [
+"light",
+"movement",
+"ethereal",
+"explosion"
+]
+},
+{
+"id": 362,
+"prompt": "mist of enhancement",
+"tags": [
+"healing",
+"light",
+"ethereal",
+"aura",
+"holy"
+]
+},
+{
+"id": 363,
+"prompt": "crimson burst",
+"tags": [
+"dark",
+"shadow",
+"explosion",
+"blood"
+]
+},
+{
+"id": 364,
+"prompt": "shadow maelstrom",
+"tags": [
+"shadow",
+"dark",
+"vortex",
+"storm"
+]
+},
+{
+"id": 365,
+"prompt": "crimson slash",
+"tags": [
+"blood",
+"dark",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 366,
+"prompt": "veil of shadows",
+"tags": [
+"shadow",
+"dark",
+"shield",
+"aura"
+]
+},
+{
+"id": 367,
+"prompt": "aura of dread",
+"tags": [
+"dark",
+"shadow",
+"aura",
+"curse"
+]
+},
+{
+"id": 368,
+"prompt": "phantom step",
+"tags": [
+"shadow",
+"ghost",
+"movement",
+"dark"
+]
+},
+{
+"id": 369,
+"prompt": "lunar tempest",
+"tags": [
+"moon",
+"cosmic",
+"star",
+"storm"
+]
+},
+{
+"id": 370,
+"prompt": "moonlit strike",
+"tags": [
+"moon",
+"light",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 371,
+"prompt": "starbound leap",
+"tags": [
+"star",
+"cosmic",
+"light",
+"movement"
+]
+},
+{
+"id": 372,
+"prompt": "eclipse aura",
+"tags": [
+"moon",
+"shadow",
+"dark",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 373,
+"prompt": "courier's blitz",
+"tags": [
+"movement",
+"light",
+"arcane",
+"funny"
+]
+},
+{
+"id": 374,
+"prompt": "postal strike",
+"tags": [
+"funny",
+"rune",
+"projectile",
+"light"
+]
+},
+{
+"id": 375,
+"prompt": "swift dispatch",
+"tags": [
+"movement",
+"light",
+"metal",
+"funny"
+]
+},
+{
+"id": 376,
+"prompt": "mail shield",
+"tags": [
+"shield",
+"funny",
+"arcane"
+]
+},
+{
+"id": 377,
+"prompt": "courier's charm",
+"tags": [
+"aura",
+"funny",
+"arcane",
+"light"
+]
+},
+{
+"id": 378,
+"prompt": "inferno breath",
+"tags": [
+"fire",
+"projectile",
+"explosion"
+]
+},
+{
+"id": 379,
+"prompt": "crimson claw",
+"tags": [
+"blood",
+"weapon",
+"fire"
+]
+},
+{
+"id": 380,
+"prompt": "draconic roar",
+"tags": [
+"animal",
+"sound",
+"fire",
+"dark"
+]
+},
+{
+"id": 381,
+"prompt": "molten scales",
+"tags": [
+"fire",
+"earth",
+"shield",
+"aura"
+]
+},
+{
+"id": 382,
+"prompt": "winged fury",
+"tags": [
+"fire",
+"movement",
+"animal"
+]
+},
+{
+"id": 383,
+"prompt": "blossom surge",
+"tags": [
+"plant",
+"nature",
+"vortex",
+"explosion"
+]
+},
+{
+"id": 384,
+"prompt": "thorn barrage",
+"tags": [
+"plant",
+"nature",
+"projectile",
+"vortex"
+]
+},
+{
+"id": 385,
+"prompt": "petal slice",
+"tags": [
+"plant",
+"nature",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 386,
+"prompt": "luminous trail",
+"tags": [
+"light",
+"movement"
+]
+},
+{
+"id": 387,
+"prompt": "claw frenzy",
+"tags": [
+"animal",
+"weapon",
+"nature",
+"earth"
+]
+},
+{
+"id": 388,
+"prompt": "floral shield",
+"tags": [
+"plant",
+"nature",
+"shield"
+]
+},
+{
+"id": 389,
+"prompt": "camouflage cloak",
+"tags": [
+"nature",
+"illusion",
+"aura"
+]
+},
+{
+"id": 390,
+"prompt": "bark shield",
+"tags": [
+"plant",
+"nature",
+"earth",
+"shield"
+]
+},
+{
+"id": 391,
+"prompt": "loveland frogman",
+"tags": [
+"funny",
+"animal",
+"summon",
+"water",
+"illusion"
+]
+},
+{
+"id": 392,
+"prompt": "ravenous howl",
+"tags": [
+"dark",
+"sound",
+"shadow",
+"curse"
+]
+},
+{
+"id": 393,
+"prompt": "root snare",
+"tags": [
+"plant",
+"nature",
+"earth",
+"curse"
+]
+},
+{
+"id": 394,
+"prompt": "pollen drift",
+"tags": [
+"plant",
+"nature",
+"poison",
+"curse"
+]
+},
+{
+"id": 395,
+"prompt": "swamp surge",
+"tags": [
+"water",
+"plant",
+"nature"
+]
+},
+{
+"id": 396,
+"prompt": "haunting presence",
+"tags": [
+"ghost",
+"curse",
+"shadow",
+"dark"
+]
+},
+{
+"id": 397,
+"prompt": "bone shroud",
+"tags": [
+"bone",
+"shield",
+"necrotic",
+"undead",
+"aura"
+]
+},
+{
+"id": 398,
+"prompt": "toxic leap",
+"tags": [
+"poison",
+"movement"
+]
+},
+{
+"id": 399,
+"prompt": "shadow leap",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"projectile"
+]
+},
+{
+"id": 400,
+"prompt": "croak of shadows",
+"tags": [
+"shadow",
+"sound",
+"animal",
+"curse",
+"illusion"
+]
+},
+{
+"id": 401,
+"prompt": "regenerative mucus",
+"tags": [
+"healing",
+"funny",
+"water",
+"aura"
+]
+},
+{
+"id": 402,
+"prompt": "sleigh barrage",
+"tags": [
+"funny",
+"projectile",
+"explosion",
+"fire"
+]
+},
+{
+"id": 403,
+"prompt": "pond teleport",
+"tags": [
+"movement",
+"water",
+"vortex",
+"arcane"
+]
+},
+{
+"id": 404,
+"prompt": "frost punch",
+"tags": [
+"ice",
+"explosion",
+"crystal"
+]
+},
+{
+"id": 405,
+"prompt": "armor reinforce",
+"tags": [
+"shield",
+"metal",
+"light",
+"holy"
+]
+},
+{
+"id": 406,
+"prompt": "gift rockets",
+"tags": [
+"funny",
+"projectile",
+"explosion",
+"fire"
+]
+},
+{
+"id": 407,
+"prompt": "void maelstrom",
+"tags": [
+"dark",
+"shadow",
+"vortex",
+"lightning",
+"storm"
+]
+},
+{
+"id": 408,
+"prompt": "rudolph's light",
+"tags": [
+"funny",
+"animal",
+"light",
+"psychic",
+"projectile"
+]
+},
+{
+"id": 409,
+"prompt": "quantum collapse",
+"tags": [
+"dark",
+"shadow",
+"vortex",
+"lightning",
+"explosion"
+]
+},
+{
+"id": 410,
+"prompt": "earthquake fury",
+"tags": [
+"earth",
+"explosion",
+"nature"
+]
+},
+
+{
+"id": 411,
+"prompt": "phantom claws",
+"tags": [
+"ghost",
+"ethereal",
+"weapon",
+"shadow"
+]
+},
+{
+"id": 412,
+"prompt": "mjolnir's fury",
+"tags": [
+"lightning",
+"storm",
+"weapon",
+"divine"
+]
+},
+{
+"id": 413,
+"prompt": "dimensional step",
+"tags": [
+"movement",
+"arcane",
+"ethereal",
+"shadow"
+]
+},
+{
+"id": 414,
+"prompt": "rockslide bash",
+"tags": [
+"earth",
+"nature",
+"explosion",
+"projectile"
+]
+},
+{
+"id": 415,
+"prompt": "thunderstrike",
+"tags": [
+"lightning",
+"storm",
+"projectile",
+"sound"
+]
+},
+{
+"id": 416,
+"prompt": "mossy shroud",
+"tags": [
+"nature",
+"plant",
+"shield",
+"aura"
+]
+},
+{
+"id": 417,
+"prompt": "storm shield",
+"tags": [
+"storm",
+"shield",
+"wind",
+"lightning"
+]
+},
+{
+"id": 418,
+"prompt": "skyward leap",
+"tags": [
+"movement",
+"wind",
+"light"
+]
+},
+{
+"id": 419,
+"prompt": "nature's grasp",
+"tags": [
+"nature",
+"plant",
+"earth",
+"curse"
+]
+},
+{
+"id": 420,
+"prompt": "ragnarok's call",
+"tags": [
+"lightning",
+"storm",
+"divine",
+"aura"
+]
+},
+{
+"id": 421,
+"prompt": "celestial wrath",
+"tags": [
+"holy",
+"light",
+"angelic",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 422,
+"prompt": "infernal wrath",
+"tags": [
+"fire",
+"demonic",
+"vortex",
+"dark"
+]
+},
+{
+"id": 423,
+"prompt": "arcane shield",
+"tags": [
+"arcane",
+"shield",
+"rune",
+"ethereal"
+]
+},
+{
+"id": 424,
+"prompt": "stoneward call",
+"tags": [
+"summon",
+"earth",
+"nature"
+]
+},
+{
+"id": 425,
+"prompt": "phantom strike",
+"tags": [
+"ghost",
+"shadow",
+"movement",
+"ethereal",
+"weapon"
+]
+},
+{
+"id": 426,
+"prompt": "wyrm's insight",
+"tags": [
+"psychic",
+"light",
+"aura",
+"animal",
+"divine"
+]
+},
+{
+"id": 427,
+"prompt": "ethereal ascent",
+"tags": [
+"movement",
+"ethereal",
+"light",
+"spirit",
+"animal"
+]
+},
+{
+"id": 428,
+"prompt": "starbind chains",
+"tags": [
+"cosmic",
+"star",
+"curse",
+"light"
+]
+},
+{
+"id": 429,
+"prompt": "inferno blast",
+"tags": [
+"fire",
+"explosion",
+"demonic"
+]
+},
+{
+"id": 430,
+"prompt": "gearstorm",
+"tags": [
+"metal",
+"storm",
+"projectile",
+"vortex"
+]
+},
+{
+"id": 431,
+"prompt": "glimmer step",
+"tags": [
+"movement",
+"light",
+"ethereal",
+"arcane"
+]
+},
+{
+"id": 432,
+"prompt": "celestial rift",
+"tags": [
+"cosmic",
+"star",
+"arcane",
+"movement",
+"vortex"
+]
+},
+{
+"id": 433,
+"prompt": "temporal surge",
+"tags": [
+"time",
+"vortex",
+"arcane",
+"metal"
+]
+},
+{
+"id": 434,
+"prompt": "demonic pact",
+"tags": [
+"demonic",
+"dark",
+"fire",
+"aura"
+]
+},
+{
+"id": 435,
+"prompt": "chrono shield",
+"tags": [
+"time",
+"shield",
+"arcane"
+]
+},
+{
+"id": 436,
+"prompt": "verdant shield",
+"tags": [
+"nature",
+"plant",
+"shield",
+"earth"
+]
+},
+{
+"id": 437,
+"prompt": "ethereal pulse",
+"tags": [
+"ethereal",
+"light",
+"arcane",
+"aura",
+"healing"
+]
+},
+{
+"id": 438,
+"prompt": "lunar veil",
+"tags": [
+"moon",
+"shield",
+"cosmic",
+"light",
+"ethereal"
+]
+},
+{
+"id": 439,
+"prompt": "crystal shards",
+"tags": [
+"crystal",
+"earth",
+"nature",
+"projectile"
+]
+},
+{
+"id": 440,
+"prompt": "bone storm",
+"tags": [
+"bone",
+"storm",
+"vortex",
+"necrotic",
+"dark"
+]
+},
+{
+"id": 441,
+"prompt": "skeletal slash",
+"tags": [
+"bone",
+"weapon",
+"projectile",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 442,
+"prompt": "bone armor",
+"tags": [
+"bone",
+"shield",
+"necrotic",
+"undead"
+]
+},
+{
+"id": 443,
+"prompt": "rattle and ruin",
+"tags": [
+"necrotic",
+"curse",
+"bone",
+"sound",
+"dark"
+]
+},
+{
+"id": 444,
+"prompt": "grave shift",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"necrotic"
+]
+},
+{
+"id": 445,
+"prompt": "nightfall curse",
+"tags": [
+"dark",
+"shadow",
+"moon",
+"curse",
+"cosmic"
+]
+},
+{
+"id": 446,
+"prompt": "shadow bolt",
+"tags": [
+"shadow",
+"dark",
+"projectile",
+"arcane"
+]
+},
+{
+"id": 447,
+"prompt": "spore storm",
+"tags": [
+"plant",
+"nature",
+"storm",
+"vortex",
+"poison"
+]
+},
+{
+"id": 448,
+"prompt": "veil of mist",
+"tags": [
+"ethereal",
+"wind",
+"water",
+"shield",
+"illusion"
+]
+},
+{
+"id": 449,
+"prompt": "mycelium strike",
+"tags": [
+"plant",
+"nature",
+"poison",
+"projectile"
+]
+},
+{
+"id": 450,
+"prompt": "herbal brew",
+"tags": [
+"healing",
+"plant",
+"nature",
+"food"
+]
+},
+{
+"id": 451,
+"prompt": "fungal shield",
+"tags": [
+"shield",
+"plant",
+"nature",
+"earth"
+]
+},
+{
+"id": 452,
+"prompt": "cap leap",
+"tags": [
+"movement",
+"plant",
+"funny"
+]
+},
+{
+"id": 453,
+"prompt": "whispering winds",
+"tags": [
+"wind",
+"sound",
+"ethereal"
+]
+},
+{
+"id": 454,
+"prompt": "ethereal blade",
+"tags": [
+"ethereal",
+"weapon",
+"arcane",
+"light",
+"ghost"
+]
+},
+{
+"id": 455,
+"prompt": "mind spore",
+"tags": [
+"psychic",
+"plant",
+"poison",
+"curse",
+"illusion"
+]
+},
+{
+"id": 456,
+"prompt": "frost slash",
+"tags": [
+"ice",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 457,
+"prompt": "moonlit shield",
+"tags": [
+"moon",
+"light",
+"shield",
+"cosmic",
+"ethereal"
+]
+},
+{
+"id": 458,
+"prompt": "swift step",
+"tags": [
+"movement",
+"wind"
+]
+},
+{
+"id": 459,
+"prompt": "arcane echo",
+"tags": [
+"arcane",
+"illusion",
+"ethereal",
+"sound"
+]
+},
+{
+"id": 460,
+"prompt": "iron vortex",
+"tags": [
+"metal",
+"vortex",
+"storm",
+"projectile"
+]
+},
+{
+"id": 461,
+"prompt": "sword flare",
+"tags": [
+"weapon",
+"fire",
+"ice"
+]
+},
+{
+"id": 462,
+"prompt": "shield wall",
+"tags": [
+"shield",
+"metal",
+"light"
+]
+},
+{
+"id": 463,
+"prompt": "eggsplosion",
+"tags": [
+"funny",
+"food",
+"explosion"
+]
+},
+{
+"id": 464,
+"prompt": "valor's rally",
+"tags": [
+"aura",
+"holy",
+"healing",
+"light",
+"rune"
+]
+},
+{
+"id": 465,
+"prompt": "carrot barrage",
+"tags": [
+"funny",
+"food",
+"projectile",
+"plant"
+]
+},
+{
+"id": 466,
+"prompt": "soul reaver",
+"tags": [
+"soul",
+"dark",
+"shadow",
+"vortex",
+"necrotic"
+]
+},
+{
+"id": 467,
+"prompt": "charge strike",
+"tags": [
+"movement",
+"light",
+"metal"
+]
+},
+{
+"id": 468,
+"prompt": "hoppity dash",
+"tags": [
+"funny",
+"animal",
+"movement",
+"light"
+]
+},
+{
+"id": 469,
+"prompt": "bone spear",
+"tags": [
+"bone",
+"necrotic",
+"projectile",
+"undead"
+]
+},
+{
+"id": 470,
+"prompt": "wilderness fury",
+"tags": [
+"nature",
+"plant",
+"storm",
+"vortex"
+]
+},
+{
+"id": 471,
+"prompt": "springtime aura",
+"tags": [
+"healing",
+"aura",
+"nature",
+"plant",
+"wind"
+]
+},
+{
+"id": 472,
+"prompt": "nature's wrath",
+"tags": [
+"nature",
+"plant",
+"earth",
+"storm"
+]
+},
+{
+"id": 473,
+"prompt": "arrow storm",
+"tags": [
+"projectile",
+"weapon",
+"nature",
+"storm"
+]
+},
+{
+"id": 474,
+"prompt": "cuddle shield",
+"tags": [
+"funny",
+"shield",
+"aura",
+"healing",
+"light"
+]
+},
+{
+"id": 475,
+"prompt": "savage strike",
+"tags": [
+"aura",
+"weapon",
+"animal",
+"fire"
+]
+},
+{
+"id": 476,
+"prompt": "wraith step",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"ghost"
+]
+},
+{
+"id": 477,
+"prompt": "blade flurry",
+"tags": [
+"weapon",
+"light",
+"ethereal",
+"metal"
+]
+},
+{
+"id": 478,
+"prompt": "grave aura",
+"tags": [
+"necrotic",
+"undead",
+"aura",
+"curse",
+"ice"
+]
+},
+{
+"id": 479,
+"prompt": "nature's call",
+"tags": [
+"summon",
+"animal",
+"nature",
+"spirit",
+"earth"
+]
+},
+{
+"id": 480,
+"prompt": "vine strike",
+"tags": [
+"plant",
+"nature",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 481,
+"prompt": "healing breeze",
+"tags": [
+"healing",
+"wind",
+"plant",
+"nature",
+"aura"
+]
+},
+{
+"id": 482,
+"prompt": "root bind",
+"tags": [
+"plant",
+"nature",
+"curse",
+"earth"
+]
+},
+{
+"id": 483,
+"prompt": "nature's veil",
+"tags": [
+"nature",
+"plant",
+"aura",
+"shield"
+]
+},
+{
+"id": 484,
+"prompt": "barkskin shield",
+"tags": [
+"shield",
+"nature",
+"plant",
+"earth"
+]
+},
+{
+"id": 485,
+"prompt": "forest cloak",
+"tags": [
+"shield",
+"aura",
+"nature",
+"plant"
+]
+},
+{
+"id": 486,
+"prompt": "windstride",
+"tags": [
+"movement",
+"wind",
+"vortex"
+]
+},
+{
+"id": 487,
+"prompt": "eagle's vision",
+"tags": [
+"psychic",
+"light",
+"animal"
+]
+},
+{
+"id": 488,
+"prompt": "stellar devastation",
+"tags": [
+"cosmic",
+"explosion",
+"star",
+"dark",
+"animal"
+]
+},
+{
+"id": 489,
+"prompt": "celestial claw",
+"tags": [
+"cosmic",
+"weapon",
+"light",
+"animal",
+"projectile"
+]
+},
+{
+"id": 490,
+"prompt": "gravebind",
+"tags": [
+"curse",
+"necrotic",
+"ghost",
+"undead"
+]
+},
+{
+"id": 491,
+"prompt": "eclipse veil",
+"tags": [
+"shadow",
+"dark",
+"moon",
+"aura",
+"shield"
+]
+},
+{
+"id": 492,
+"prompt": "wraith walk",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"ghost"
+]
+},
+{
+"id": 493,
+"prompt": "nebula wings",
+"tags": [
+"movement",
+"cosmic",
+"star",
+"animal"
+]
+},
+{
+"id": 494,
+"prompt": "starfire gaze",
+"tags": [
+"cosmic",
+"star",
+"projectile",
+"light",
+"fire"
+]
+},
+{
+"id": 495,
+"prompt": "goblin fury",
+"tags": [
+"nature",
+"plant",
+"wind",
+"vortex",
+"funny"
+]
+},
+{
+"id": 496,
+"prompt": "shadow strike",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"projectile",
+"wind"
+]
+},
+{
+"id": 497,
+"prompt": "mischief veil",
+"tags": [
+"illusion",
+"nature",
+"plant",
+"shield"
+]
+},
+{
+"id": 498,
+"prompt": "rift quake",
+"tags": [
+"earth",
+"explosion",
+"dark",
+"blood"
+]
+},
+{
+"id": 499,
+"prompt": "spine barrage",
+"tags": [
+"projectile",
+"weapon",
+"blood",
+"dark"
+]
+},
+{
+"id": 500,
+"prompt": "chaos pulse",
+"tags": [
+"dark",
+"blood",
+"explosion",
+"aura"
+]
+},
+{
+"id": 501,
+"prompt": "quick step",
+"tags": [
+"movement",
+"earth",
+"nature"
+]
+},
+{
+"id": 502,
+"prompt": "stonewall",
+"tags": [
+"earth",
+"shield"
+]
+},
+{
+"id": 503,
+"prompt": "fearsome glare",
+"tags": [
+"psychic",
+"curse",
+"dark",
+"shadow",
+"blood"
+]
+},
+{
+"id": 504,
+"prompt": "eclipse storm",
+"tags": [
+"dark",
+"shadow",
+"light",
+"storm",
+"cosmic"
+]
+},
+{
+"id": 505,
+"prompt": "phantom blades",
+"tags": [
+"ghost",
+"weapon",
+"projectile",
+"ethereal",
+"spirit"
+]
+},
+{
+"id": 506,
+"prompt": "mirror image",
+"tags": [
+"illusion",
+"arcane",
+"shield",
+"summon"
+]
+},
+{
+"id": 507,
+"prompt": "vine surge",
+"tags": [
+"plant",
+"nature",
+"curse",
+"earth"
+]
+},
+{
+"id": 508,
+"prompt": "spectral step",
+"tags": [
+"movement",
+"ethereal",
+"ghost",
+"spirit"
+]
+},
+{
+"id": 509,
+"prompt": "cloak of leaves",
+"tags": [
+"shield",
+"plant",
+"nature",
+"aura"
+]
+},
+{
+"id": 510,
+"prompt": "mystic aura",
+"tags": [
+"aura",
+"arcane",
+"light",
+"ethereal"
+]
+},
+{
+"id": 511,
+"prompt": "spirit owl",
+"tags": [
+"spirit",
+"summon",
+"animal",
+"ghost",
+"light"
+]
+},
+{
+"id": 512,
+"prompt": "mystic roots",
+"tags": [
+"plant",
+"nature",
+"curse",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 513,
+"prompt": "tidal fury",
+"tags": [
+"water",
+"storm",
+"explosion"
+]
+},
+{
+"id": 514,
+"prompt": "echo surge",
+"tags": [
+"water",
+"sound",
+"explosion"
+]
+},
+{
+"id": 515,
+"prompt": "aqua slash",
+"tags": [
+"water",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 516,
+"prompt": "frost strike",
+"tags": [
+"ice",
+"explosion",
+"projectile"
+]
+},
+{
+"id": 517,
+"prompt": "blazing flare",
+"tags": [
+"fire",
+"explosion",
+"light"
+]
+},
+{
+"id": 518,
+"prompt": "whispering veil",
+"tags": [
+"ethereal",
+"shield",
+"aura",
+"wind",
+"sound"
+]
+},
+{
+"id": 519,
+"prompt": "searing strike",
+"tags": [
+"fire",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 520,
+"prompt": "glacial step",
+"tags": [
+"ice",
+"movement"
+]
+},
+{
+"id": 520,
+"prompt": "glacial step",
+"tags": [
+"ice",
+"movement"
+]
+},
+{
+"id": 521,
+"prompt": "tempest fury",
+"tags": [
+"storm",
+"water",
+"lightning",
+"dark",
+"wind"
+]
+},
+{
+"id": 522,
+"prompt": "ebb and flow",
+"tags": [
+"water",
+"healing",
+"light",
+"aura"
+]
+},
+{
+"id": 523,
+"prompt": "eclipse strike",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"projectile",
+"cosmic"
+]
+},
+{
+"id": 524,
+"prompt": "chill presence",
+"tags": [
+"ice",
+"wind",
+"aura",
+"curse"
+]
+},
+{
+"id": 525,
+"prompt": "flicker dash",
+"tags": [
+"movement",
+"fire",
+"light",
+"projectile"
+]
+},
+{
+"id": 526,
+"prompt": "ocean's embrace",
+"tags": [
+"water",
+"shield",
+"vortex",
+"aura"
+]
+},
+{
+"id": 527,
+"prompt": "anchor smash",
+"tags": [
+"weapon",
+"water",
+"ghost",
+"ethereal",
+"explosion"
+]
+},
+{
+"id": 528,
+"prompt": "radiant shield",
+"tags": [
+"light",
+"holy",
+"shield",
+"aura"
+]
+},
+{
+"id": 529,
+"prompt": "mystic cloak",
+"tags": [
+"aura",
+"shield",
+"water",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 530,
+"prompt": "foggy escape",
+"tags": [
+"movement",
+"wind",
+"water",
+"shadow",
+"illusion"
+]
+},
+{
+"id": 531,
+"prompt": "hydro step",
+"tags": [
+"water",
+"movement"
+]
+},
+{
+"id": 532,
+"prompt": "sunburst glow",
+"tags": [
+"light",
+"fire",
+"sun",
+"aura",
+"healing"
+]
+},
+{
+"id": 533,
+"prompt": "gale shield",
+"tags": [
+"wind",
+"shield",
+"storm",
+"vortex"
+]
+},
+{
+"id": 534,
+"prompt": "abyssal strike",
+"tags": [
+"dark",
+"water",
+"projectile",
+"weapon",
+"shadow"
+]
+},
+{
+"id": 535,
+"prompt": "lunar glare",
+"tags": [
+"moon",
+"light",
+"psychic",
+"explosion",
+"curse"
+]
+},
+{
+"id": 536,
+"prompt": "maelstrom's call",
+"tags": [
+"water",
+"vortex",
+"summon",
+"animal",
+"sound"
+]
+},
+{
+"id": 537,
+"prompt": "storm's call",
+"tags": [
+"storm",
+"lightning",
+"aura",
+"healing"
+]
+},
+{
+"id": 538,
+"prompt": "tidal shield",
+"tags": [
+"water",
+"shield"
+]
+},
+{
+"id": 539,
+"prompt": "hammer storm",
+"tags": [
+"weapon",
+"storm",
+"vortex",
+"light",
+"metal"
+]
+},
+{
+"id": 540,
+"prompt": "brew bash",
+"tags": [
+"funny",
+"food",
+"projectile",
+"weapon",
+"explosion"
+]
+},
+{
+"id": 541,
+"prompt": "forge shield",
+"tags": [
+"fire",
+"shield",
+"rune",
+"metal"
+]
+},
+{
+"id": 542,
+"prompt": "fortified resolve",
+"tags": [
+"aura",
+"light",
+"holy",
+"healing"
+]
+},
+{
+"id": 543,
+"prompt": "crafty maneuver",
+"tags": [
+"movement",
+"light",
+"ethereal",
+"funny"
+]
+},
+{
+"id": 544,
+"prompt": "stormcaller",
+"tags": [
+"storm",
+"lightning",
+"dark",
+"shadow",
+"aura"
+]
+},
+{
+"id": 545,
+"prompt": "gale blast",
+"tags": [
+"wind",
+"projectile",
+"vortex",
+"storm"
+]
+},
+{
+"id": 546,
+"prompt": "root grasp",
+"tags": [
+"plant",
+"nature",
+"earth",
+"curse"
+]
+},
+{
+"id": 547,
+"prompt": "nature's mantle",
+"tags": [
+"nature",
+"plant",
+"shield",
+"aura"
+]
+},
+{
+"id": 548,
+"prompt": "mystic whisper",
+"tags": [
+"arcane",
+"healing",
+"aura",
+"sound",
+"ethereal"
+]
+},
+{
+"id": 549,
+"prompt": "eldritch burst",
+"tags": [
+"dark",
+"explosion",
+"arcane",
+"fire",
+"shadow"
+]
+},
+{
+"id": 550,
+"prompt": "crimson strike",
+"tags": [
+"blood",
+"dark",
+"projectile",
+"weapon"
+]
+},
+{
+"id": 551,
+"prompt": "wisdom veil",
+"tags": [
+"psychic",
+"aura",
+"shield",
+"fire",
+"healing"
+]
+},
+{
+"id": 552,
+"prompt": "arcane bind",
+"tags": [
+"arcane",
+"fire",
+"curse"
+]
+},
+{
+"id": 553,
+"prompt": "temporal shift",
+"tags": [
+"time",
+"fire",
+"movement",
+"illusion",
+"arcane"
+]
+},
+{
+"id": 554,
+"prompt": "an icy pillar",
+"tags": [
+"ice",
+"crystal"
+]
+},
+{
+"id": 555,
+"prompt": "a fire pillar",
+"tags": [
+"fire"
+]
+},
+{
+"id": 556,
+"prompt": "hypnotoad",
+"tags": [
+"psychic",
+"illusion",
+"animal",
+"funny",
+"curse"
+]
+},
+{
+"id": 557,
+"prompt": "gold brick smash",
+"tags": [
+"funny",
+"metal",
+"explosion",
+"earth"
+]
+},
+{
+"id": 558,
+"prompt": "golden pulse",
+"tags": [
+"light",
+"metal",
+"holy",
+"funny"
+]
+},
+{
+"id": 559,
+"prompt": "golden brick dropped down, massive, kinetic. Escalate",
+"tags": [
+"metal",
+"explosion",
+"funny",
+"light"
+]
+},
+{
+"id": 560,
+"prompt": "teleport",
+"tags": [
+"movement",
+"arcane",
+"vortex",
+"ethereal"
+]
+},
+{
+"id": 561,
+"prompt": "jaws of defeat",
+"tags": [
+"dark",
+"shadow",
+"curse",
+"vortex",
+"ethereal"
+]
+},
+{
+"id": 562,
+"prompt": "genie lamp",
+"tags": [
+"arcane",
+"summon",
+"ethereal",
+"rune"
+]
+},
+{
+"id": 563,
+"prompt": "inferno whip",
+"tags": [
+"fire",
+"weapon",
+"demonic"
+]
+},
+{
+"id": 564,
+"prompt": "blackhole",
+"tags": [
+"dark",
+"cosmic",
+"vortex",
+"shadow"
+]
+},
+{
+"id": 565,
+"prompt": "spectral curtain",
+"tags": [
+"ghost",
+"shield",
+"light",
+"illusion",
+"ethereal"
+]
+},
+{
+"id": 566,
+"prompt": "encore illusion",
+"tags": [
+"illusion",
+"summon",
+"light",
+"ethereal"
+]
+},
+{
+"id": 567,
+"prompt": "sky vault",
+"tags": [
+"movement",
+"explosion",
+"light"
+]
+},
+{
+"id": 568,
+"prompt": "blazing finale",
+"tags": [
+"fire",
+"explosion",
+"light"
+]
+},
+{
+"id": 569,
+"prompt": "quick flip",
+"tags": [
+"movement",
+"aura",
+"nature"
+]
+},
+{
+"id": 570,
+"prompt": "shadow spin",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"fire"
+]
+},
+{
+"id": 571,
+"prompt": "freckle shield",
+"tags": [
+"shield",
+"light",
+"fire",
+"aura",
+"funny"
+]
+},
+{
+"id": 572,
+"prompt": "twilight mist",
+"tags": [
+"illusion",
+"psychic",
+"shadow",
+"dark",
+"healing"
+]
+},
+{
+"id": 573,
+"prompt": "celestial symphony",
+"tags": [
+"cosmic",
+"sound",
+"light",
+"holy",
+"divine"
+]
+},
+{
+"id": 574,
+"prompt": "soundwave slash",
+"tags": [
+"sound",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 575,
+"prompt": "harmonic shield",
+"tags": [
+"shield",
+"sound",
+"light",
+"aura"
+]
+},
+{
+"id": 576,
+"prompt": "rhythmic pulse",
+"tags": [
+"aura",
+"light",
+"healing",
+"sound"
+]
+},
+{
+"id": 577,
+"prompt": "echo drift",
+"tags": [
+"movement",
+"light",
+"explosion",
+"ethereal"
+]
+},
+{
+"id": 578,
+"prompt": "flame ward",
+"tags": [
+"fire",
+"weapon",
+"shield",
+"explosion"
+]
+},
+{
+"id": 579,
+"prompt": "lightning aura",
+"tags": [
+"lightning",
+"aura",
+"shield",
+"weapon"
+]
+},
+{
+"id": 580,
+"prompt": "elemental swirl",
+"tags": [
+"fire",
+"water",
+"nature",
+"arcane",
+"vortex"
+]
+},
+{
+"id": 581,
+"prompt": "frost blade",
+"tags": [
+"ice",
+"weapon",
+"crystal",
+"projectile"
+]
+},
+{
+"id": 582,
+"prompt": "nature's bloom",
+"tags": [
+"nature",
+"plant",
+"healing",
+"light"
+]
+},
+{
+"id": 583,
+"prompt": "arctic roar",
+"tags": [
+"ice",
+"wind",
+"sound",
+"storm"
+]
+},
+{
+"id": 584,
+"prompt": "bow tie blitz",
+"tags": [
+"funny",
+"ice",
+"projectile"
+]
+},
+{
+"id": 585,
+"prompt": "frost shield",
+"tags": [
+"ice",
+"shield",
+"crystal"
+]
+},
+{
+"id": 586,
+"prompt": "glacial glide",
+"tags": [
+"ice",
+"movement",
+"animal"
+]
+},
+{
+"id": 587,
+"prompt": "bow-tie",
+"tags": [
+"funny",
+"light",
+"aura"
+]
+},
+{
+"id": 588,
+"prompt": "cold aura",
+"tags": [
+"ice",
+"aura",
+"curse",
+"wind"
+]
+},
+{
+"id": 589,
+"prompt": "void vortex",
+"tags": [
+"cosmic",
+"vortex",
+"dark",
+"shadow",
+"soul"
+]
+},
+{
+"id": 590,
+"prompt": "tentacle lash",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"lightning"
+]
+},
+{
+"id": 591,
+"prompt": "mind shroud",
+"tags": [
+"psychic",
+"shield",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 592,
+"prompt": "gentleman's gambit",
+"tags": [
+"funny",
+"explosion",
+"projectile",
+"illusion"
+]
+},
+{
+"id": 593,
+"prompt": "psionic echo",
+"tags": [
+"psychic",
+"shadow",
+"dark",
+"sound",
+"illusion"
+]
+},
+{
+"id": 594,
+"prompt": "mustache whiplash",
+"tags": [
+"funny",
+"wind",
+"weapon",
+"projectile",
+"vortex"
+]
+},
+{
+"id": 595,
+"prompt": "astral steps",
+"tags": [
+"movement",
+"cosmic",
+"star",
+"light",
+"explosion"
+]
+},
+{
+"id": 596,
+"prompt": "hat toss",
+"tags": [
+"funny",
+"projectile",
+"weapon",
+"summon"
+]
+},
+{
+"id": 597,
+"prompt": "tombstone twister",
+"tags": [
+"necrotic",
+"bone",
+"ghost",
+"vortex",
+"undead"
+]
+},
+{
+"id": 598,
+"prompt": "bow-tie shield",
+"tags": [
+"funny",
+"shield",
+"aura"
+]
+},
+{
+"id": 599,
+"prompt": "steel tempest",
+"tags": [
+"metal",
+"storm",
+"vortex",
+"projectile"
+]
+},
+{
+"id": 600,
+"prompt": "iron barrage",
+"tags": [
+"metal",
+"projectile",
+"storm",
+"lightning"
+]
+},
+{
+"id": 601,
+"prompt": "dapper decoy",
+"tags": [
+"illusion",
+"summon",
+"funny",
+"ghost"
+]
+},
+{
+"id": 602,
+"prompt": "metallic shield",
+"tags": [
+"metal",
+"shield"
+]
+},
+{
+"id": 603,
+"prompt": "phantom waltz",
+"tags": [
+"ghost",
+"shadow",
+"movement",
+"ethereal"
+]
+},
+{
+"id": 604,
+"prompt": "bone barrage",
+"tags": [
+"bone",
+"projectile",
+"ghost",
+"fire"
+]
+},
+{
+"id": 605,
+"prompt": "nanite repair",
+"tags": [
+"healing",
+"metal",
+"light"
+]
+},
+{
+"id": 606,
+"prompt": "weight of iron",
+"tags": [
+"metal",
+"shadow",
+"curse",
+"dark"
+]
+},
+{
+"id": 607,
+"prompt": "emancipation wave",
+"tags": [
+"light",
+"holy",
+"healing",
+"divine"
+]
+},
+{
+"id": 608,
+"prompt": "eerie cackle",
+"tags": [
+"shadow",
+"dark",
+"summon",
+"sound",
+"curse"
+]
+},
+{
+"id": 609,
+"prompt": "log splitter",
+"tags": [
+"weapon",
+"ethereal",
+"nature",
+"plant",
+"funny"
+]
+},
+{
+"id": 610,
+"prompt": "unity shield",
+"tags": [
+"shield",
+"aura",
+"light",
+"healing"
+]
+},
+{
+"id": 611,
+"prompt": "mycelium overgrowth",
+"tags": [
+"plant",
+"nature",
+"poison",
+"healing"
+]
+},
+{
+"id": 612,
+"prompt": "spore burst",
+"tags": [
+"plant",
+"nature",
+"explosion",
+"poison"
+]
+},
+{
+"id": 613,
+"prompt": "top hat leap",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"wind",
+"funny"
+]
+},
+{
+"id": 614,
+"prompt": "shroom step",
+"tags": [
+"plant",
+"nature",
+"movement",
+"poison",
+"vortex"
+]
+},
+{
+"id": 615,
+"prompt": "charisma surge",
+"tags": [
+"aura",
+"light",
+"healing",
+"holy",
+"psychic"
+]
+},
+{
+"id": 616,
+"prompt": "mushroom mirage",
+"tags": [
+"illusion",
+"plant",
+"nature",
+"summon"
+]
+},
+{
+"id": 617,
+"prompt": "cosmic leap",
+"tags": [
+"cosmic",
+"movement",
+"animal",
+"funny",
+"star"
+]
+},
+{
+"id": 618,
+"prompt": "meteor punch",
+"tags": [
+"fire",
+"explosion",
+"cosmic",
+"earth",
+"projectile"
+]
+},
+{
+"id": 619,
+"prompt": "zero-g drift",
+"tags": [
+"movement",
+"animal",
+"funny",
+"ethereal",
+"cosmic"
+]
+},
+{
+"id": 620,
+"prompt": "frost nova",
+"tags": [
+"ice",
+"explosion",
+"crystal",
+"vortex"
+]
+},
+{
+"id": 621,
+"prompt": "shield protocol",
+"tags": [
+"shield",
+"arcane",
+"fire",
+"nature"
+]
+},
+{
+"id": 622,
+"prompt": "darkness unleashed",
+"tags": [
+"dark",
+"shadow",
+"demonic",
+"lightning",
+"vortex"
+]
+},
+{
+"id": 623,
+"prompt": "comet trail",
+"tags": [
+"cosmic",
+"star",
+"light",
+"movement"
+]
+},
+{
+"id": 624,
+"prompt": "saber slash",
+"tags": [
+"weapon",
+"projectile",
+"blood",
+"fire"
+]
+},
+{
+"id": 625,
+"prompt": "ice slide",
+"tags": [
+"ice",
+"movement"
+]
+},
+{
+"id": 626,
+"prompt": "blazing grin",
+"tags": [
+"fire",
+"explosion",
+"funny",
+"demonic"
+]
+},
+{
+"id": 627,
+"prompt": "snow shield",
+"tags": [
+"ice",
+"shield",
+"vortex"
+]
+},
+{
+"id": 628,
+"prompt": "force grip",
+"tags": [
+"psychic",
+"curse",
+"arcane"
+]
+},
+{
+"id": 629,
+"prompt": "harvest moon",
+"tags": [
+"moon",
+"nature",
+"healing",
+"plant",
+"aura"
+]
+},
+{
+"id": 630,
+"prompt": "beak strike",
+"tags": [
+"projectile",
+"light",
+"animal",
+"holy"
+]
+},
+{
+"id": 631,
+"prompt": "creeping vines",
+"tags": [
+"plant",
+"nature",
+"curse",
+"earth"
+]
+},
+{
+"id": 632,
+"prompt": "chill aura",
+"tags": [
+"ice",
+"aura",
+"curse",
+"wind"
+]
+},
+{
+"id": 633,
+"prompt": "intimidating presence",
+"tags": [
+"dark",
+"shadow",
+"curse",
+"psychic",
+"aura"
+]
+},
+{
+"id": 634,
+"prompt": "scarecrow's gaze",
+"tags": [
+"curse",
+"psychic",
+"dark",
+"ghost",
+"shadow"
+]
+},
+{
+"id": 635,
+"prompt": "pumpkin shield",
+"tags": [
+"plant",
+"nature",
+"shield",
+"rune",
+"funny"
+]
+},
+{
+"id": 636,
+"prompt": "sizzling slam",
+"tags": [
+"funny",
+"food",
+"fire",
+"explosion",
+"projectile"
+]
+},
+{
+"id": 637,
+"prompt": "mustard missile",
+"tags": [
+"funny",
+"food",
+"projectile",
+"explosion"
+]
+},
+{
+"id": 638,
+"prompt": "bun shield",
+"tags": [
+"funny",
+"food",
+"shield",
+"aura"
+]
+},
+{
+"id": 639,
+"prompt": "relish rush",
+"tags": [
+"funny",
+"food",
+"movement",
+"nature"
+]
+},
+{
+"id": 640,
+"prompt": "peel whip",
+"tags": [
+"funny",
+"food",
+"weapon",
+"projectile",
+"plant"
+]
+},
+{
+"id": 641,
+"prompt": "axe frenzy",
+"tags": [
+"weapon",
+"ethereal",
+"fire",
+"ghost"
+]
+},
+{
+"id": 642,
+"prompt": "ketchup calm",
+"tags": [
+"funny",
+"food",
+"healing",
+"aura"
+]
+},
+{
+"id": 643,
+"prompt": "slipstream",
+"tags": [
+"funny",
+"food",
+"plant",
+"movement"
+]
+},
+{
+"id": 644,
+"prompt": "fruit shield",
+"tags": [
+"funny",
+"food",
+"plant",
+"shield"
+]
+},
+{
+"id": 645,
+"prompt": "twilight serum",
+"tags": [
+"dark",
+"shadow",
+"storm",
+"nature",
+"curse"
+]
+},
+{
+"id": 646,
+"prompt": "stone skin",
+"tags": [
+"earth",
+"metal",
+"shield",
+"aura"
+]
+},
+{
+"id": 647,
+"prompt": "vitamin burst",
+"tags": [
+"healing",
+"light",
+"aura",
+"holy"
+]
+},
+{
+"id": 648,
+"prompt": "blood vial burst",
+"tags": [
+"blood",
+"explosion",
+"projectile"
+]
+},
+{
+"id": 649,
+"prompt": "royal command",
+"tags": [
+"light",
+"holy",
+"divine",
+"aura",
+"healing"
+]
+},
+{
+"id": 650,
+"prompt": "mountain's wrath",
+"tags": [
+"earth",
+"fire",
+"explosion",
+"divine",
+"rune"
+]
+},
+{
+"id": 651,
+"prompt": "ember shock",
+"tags": [
+"fire",
+"vortex",
+"curse"
+]
+},
+{
+"id": 652,
+"prompt": "banana quake",
+"tags": [
+"funny",
+"food",
+"earth",
+"explosion"
+]
+},
+{
+"id": 653,
+"prompt": "mad experiment",
+"tags": [
+"funny",
+"poison",
+"nature",
+"explosion"
+]
+},
+{
+"id": 654,
+"prompt": "volcanic wrath",
+"tags": [
+"fire",
+"earth",
+"explosion"
+]
+},
+{
+"id": 655,
+"prompt": "magma punch",
+"tags": [
+"fire",
+"earth",
+"explosion"
+]
+},
+{
+"id": 656,
+"prompt": "molten shield",
+"tags": [
+"fire",
+"earth",
+"shield"
+]
+},
+{
+"id": 657,
+"prompt": "whirling beardstorm",
+"tags": [
+"funny",
+"wind",
+"storm",
+"light",
+"ethereal"
+]
+},
+{
+"id": 658,
+"prompt": "ember roots",
+"tags": [
+"fire",
+"plant",
+"nature",
+"earth",
+"curse"
+]
+},
+{
+"id": 659,
+"prompt": "gnome punch",
+"tags": [
+"funny",
+"light",
+"holy",
+"explosion"
+]
+},
+{
+"id": 660,
+"prompt": "flame surge",
+"tags": [
+"fire",
+"movement",
+"aura"
+]
+},
+{
+"id": 661,
+"prompt": "tranquil aura",
+"tags": [
+"aura",
+"shield",
+"healing",
+"holy",
+"light"
+]
+},
+{
+"id": 662,
+"prompt": "shadow pounce",
+"tags": [
+"shadow",
+"dark",
+"explosion",
+"movement"
+]
+},
+{
+"id": 663,
+"prompt": "mystic brew",
+"tags": [
+"healing",
+"nature",
+"plant",
+"aura"
+]
+},
+{
+"id": 664,
+"prompt": "vine whip",
+"tags": [
+"plant",
+"nature",
+"weapon",
+"earth"
+]
+},
+{
+"id": 665,
+"prompt": "laughing doom",
+"tags": [
+"dark",
+"shadow",
+"sound",
+"curse",
+"soul"
+]
+},
+{
+"id": 666,
+"prompt": "night shred",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 667,
+"prompt": "roots of obstruction",
+"tags": [
+"plant",
+"nature",
+"earth",
+"curse"
+]
+},
+{
+"id": 668,
+"prompt": "grape shield",
+"tags": [
+"funny",
+"food",
+"plant",
+"nature",
+"shield"
+]
+},
+{
+"id": 669,
+"prompt": "cat nap",
+"tags": [
+"funny",
+"animal",
+"healing",
+"aura"
+]
+},
+{
+"id": 670,
+"prompt": "festive charm",
+"tags": [
+"funny",
+"light",
+"holy",
+"curse"
+]
+},
+{
+"id": 671,
+"prompt": "jester's jest",
+"tags": [
+"funny",
+"projectile",
+"illusion",
+"arcane"
+]
+},
+{
+"id": 672,
+"prompt": "harvest leap",
+"tags": [
+"plant",
+"nature",
+"movement"
+]
+},
+{
+"id": 673,
+"prompt": "ecstatic reverie",
+"tags": [
+"psychic",
+"illusion",
+"light",
+"explosion",
+"sound"
+]
+},
+{
+"id": 674,
+"prompt": "bone chill",
+"tags": [
+"ice",
+"bone",
+"undead",
+"curse",
+"ghost"
+]
+},
+{
+"id": 675,
+"prompt": "marmalade burst",
+"tags": [
+"funny",
+"food",
+"explosion",
+"light"
+]
+},
+{
+"id": 676,
+"prompt": "feline illusion",
+"tags": [
+"animal",
+"illusion",
+"shadow",
+"dark",
+"summon"
+]
+},
+{
+"id": 677,
+"prompt": "cursed laughter",
+"tags": [
+"curse",
+"sound",
+"aura",
+"funny",
+"healing"
+]
+},
+{
+"id": 678,
+"prompt": "coat shield",
+"tags": [
+"shield",
+"aura",
+"light",
+"funny"
+]
+},
+{
+"id": 679,
+"prompt": "rainy day dash",
+"tags": [
+"movement",
+"water",
+"funny"
+]
+},
+{
+"id": 680,
+"prompt": "trash avalanche",
+"tags": [
+"funny",
+"earth",
+"poison"
+]
+},
+{
+"id": 681,
+"prompt": "friendly charm",
+"tags": [
+"light",
+"holy",
+"aura",
+"healing",
+"psychic"
+]
+},
+{
+"id": 682,
+"prompt": "odor cloud",
+"tags": [
+"poison",
+"curse",
+"funny",
+"wind"
+]
+},
+{
+"id": 683,
+"prompt": "dumpster dive",
+"tags": [
+"funny",
+"metal",
+"shield",
+"movement"
+]
+},
+{
+"id": 684,
+"prompt": "grumpy slam",
+"tags": [
+"earth",
+"explosion",
+"funny",
+"nature"
+]
+},
+{
+"id": 685,
+"prompt": "grumble echo",
+"tags": [
+"sound",
+"shield",
+"earth",
+"funny"
+]
+},
+{
+"id": 686,
+"prompt": "heaven's wrath",
+"tags": [
+"holy",
+"divine",
+"angelic",
+"light",
+"explosion"
+]
+},
+{
+"id": 687,
+"prompt": "divine strike",
+"tags": [
+"holy",
+"divine",
+"projectile",
+"light",
+"weapon"
+]
+},
+{
+"id": 688,
+"prompt": "celestial shield",
+"tags": [
+"holy",
+"divine",
+"light",
+"shield",
+"aura"
+]
+},
+{
+"id": 689,
+"prompt": "radiant ascension",
+"tags": [
+"movement",
+"holy",
+"divine",
+"light",
+"angelic"
+]
+},
+{
+"id": 690,
+"prompt": "mindstorm barrage",
+"tags": [
+"psychic",
+"dark",
+"projectile",
+"storm",
+"lightning"
+]
+},
+{
+"id": 691,
+"prompt": "graceful aura",
+"tags": [
+"aura",
+"light",
+"holy",
+"healing"
+]
+},
+{
+"id": 692,
+"prompt": "sword volley",
+"tags": [
+"weapon",
+"projectile",
+"dark",
+"shadow",
+"ghost"
+]
+},
+{
+"id": 693,
+"prompt": "starfall blitz",
+"tags": [
+"cosmic",
+"star",
+"light",
+"storm",
+"projectile"
+]
+},
+{
+"id": 694,
+"prompt": "halo shift",
+"tags": [
+"movement",
+"light",
+"holy",
+"aura",
+"explosion"
+]
+},
+{
+"id": 695,
+"prompt": "maestro's fury",
+"tags": [
+"sound",
+"dark",
+"shadow",
+"explosion"
+]
+},
+{
+"id": 696,
+"prompt": "glimmer strike",
+"tags": [
+"projectile",
+"light",
+"arcane"
+]
+},
+{
+"id": 697,
+"prompt": "cerebral cloak",
+"tags": [
+"psychic",
+"shadow",
+"dark",
+"shield",
+"aura"
+]
+},
+{
+"id": 698,
+"prompt": "harmonic blade",
+"tags": [
+"sound",
+"weapon",
+"projectile",
+"arcane"
+]
+},
+{
+"id": 699,
+"prompt": "pixie cloak",
+"tags": [
+"nature",
+"plant",
+"aura",
+"shield",
+"illusion"
+]
+},
+{
+"id": 700,
+"prompt": "divine judgment",
+"tags": [
+"divine",
+"holy",
+"light",
+"explosion",
+"sun"
+]
+},
+{
+"id": 701,
+"prompt": "grim whisper",
+"tags": [
+"psychic",
+"curse",
+"dark",
+"ethereal"
+]
+},
+{
+"id": 702,
+"prompt": "silent step",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"illusion"
+]
+},
+{
+"id": 703,
+"prompt": "tinsel trick",
+"tags": [
+"funny",
+"light",
+"illusion"
+]
+},
+{
+"id": 704,
+"prompt": "azure strike",
+"tags": [
+"weapon",
+"projectile",
+"light",
+"water"
+]
+},
+{
+"id": 705,
+"prompt": "searing light",
+"tags": [
+"holy",
+"light",
+"projectile",
+"divine",
+"fire"
+]
+},
+{
+"id": 706,
+"prompt": "whispering wind",
+"tags": [
+"wind",
+"sound",
+"light",
+"movement"
+]
+},
+{
+"id": 707,
+"prompt": "aether shield",
+"tags": [
+"shield",
+"arcane",
+"ethereal",
+"light"
+]
+},
+{
+"id": 708,
+"prompt": "eclipsing smite",
+"tags": [
+"dark",
+"shadow",
+"light",
+"explosion",
+"cosmic"
+]
+},
+{
+"id": 709,
+"prompt": "sacred shield",
+"tags": [
+"holy",
+"shield",
+"light",
+"aura",
+"divine"
+]
+},
+{
+"id": 710,
+"prompt": "crescendo shield",
+"tags": [
+"shield",
+"sound",
+"light",
+"illusion"
+]
+},
+{
+"id": 711,
+"prompt": "dischordant whisper",
+"tags": [
+"sound",
+"curse",
+"ethereal",
+"illusion"
+]
+},
+{
+"id": 712,
+"prompt": "shadow slash",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 713,
+"prompt": "heaven's judgement",
+"tags": [
+"holy",
+"divine",
+"weapon",
+"projectile",
+"light"
+]
+},
+{
+"id": 714,
+"prompt": "star burst",
+"tags": [
+"star",
+"explosion",
+"light",
+"animal",
+"fire"
+]
+},
+{
+"id": 715,
+"prompt": "night's blessing",
+"tags": [
+"dark",
+"shadow",
+"healing",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 716,
+"prompt": "pinwheel spin",
+"tags": [
+"animal",
+"vortex",
+"funny",
+"light"
+]
+},
+{
+"id": 717,
+"prompt": "holy presence",
+"tags": [
+"holy",
+"divine",
+"healing",
+"aura",
+"light"
+]
+},
+{
+"id": 718,
+"prompt": "wings of ascent",
+"tags": [
+"movement",
+"light",
+"holy",
+"angelic",
+"divine"
+]
+},
+{
+"id": 719,
+"prompt": "veil of twilight",
+"tags": [
+"dark",
+"shadow",
+"cosmic",
+"star",
+"shield"
+]
+},
+{
+"id": 720,
+"prompt": "wind glide",
+"tags": [
+"wind",
+"movement",
+"light"
+]
+},
+{
+"id": 721,
+"prompt": "aura of valor",
+"tags": [
+"aura",
+"holy",
+"light",
+"healing"
+]
+},
+{
+"id": 722,
+"prompt": "purifying chant",
+"tags": [
+"holy",
+"sound",
+"divine",
+"light",
+"curse"
+]
+},
+{
+"id": 723,
+"prompt": "clarity pulse",
+"tags": [
+"light",
+"healing",
+"psychic",
+"aura"
+]
+},
+{
+"id": 724,
+"prompt": "heavenly wrath",
+"tags": [
+"holy",
+"divine",
+"angelic",
+"light",
+"storm"
+]
+},
+{
+"id": 725,
+"prompt": "wings of dusk",
+"tags": [
+"shadow",
+"dark",
+"movement"
+]
+},
+{
+"id": 726,
+"prompt": "coral shield",
+"tags": [
+"shield",
+"water",
+"nature"
+]
+},
+{
+"id": 727,
+"prompt": "bone dagger",
+"tags": [
+"bone",
+"projectile",
+"necrotic",
+"dark"
+]
+},
+{
+"id": 728,
+"prompt": "divine wrath",
+"tags": [
+"divine",
+"holy",
+"weapon",
+"light",
+"angelic"
+]
+},
+{
+"id": 729,
+"prompt": "eclipse burst",
+"tags": [
+"dark",
+"shadow",
+"explosion",
+"vortex",
+"cosmic"
+]
+},
+{
+"id": 730,
+"prompt": "ethereal glide",
+"tags": [
+"ethereal",
+"movement",
+"light",
+"holy",
+"angelic"
+]
+},
+{
+"id": 731,
+"prompt": "sand slip",
+"tags": [
+"animal",
+"earth",
+"movement",
+"funny"
+]
+},
+{
+"id": 732,
+"prompt": "arcane flare",
+"tags": [
+"arcane",
+"explosion",
+"fire"
+]
+},
+{
+"id": 733,
+"prompt": "halo shield",
+"tags": [
+"holy",
+"shield",
+"light",
+"aura"
+]
+},
+{
+"id": 734,
+"prompt": "mystic veil",
+"tags": [
+"shield",
+"aura",
+"arcane",
+"illusion",
+"light"
+]
+},
+{
+"id": 735,
+"prompt": "angelic echo",
+"tags": [
+"angelic",
+"divine",
+"sound",
+"light",
+"healing"
+]
+},
+{
+"id": 736,
+"prompt": "tidal wrath",
+"tags": [
+"water",
+"storm",
+"explosion"
+]
+},
+{
+"id": 737,
+"prompt": "barnacle barrage",
+"tags": [
+"water",
+"nature",
+"projectile"
+]
+},
+{
+"id": 738,
+"prompt": "tide call",
+"tags": [
+"water",
+"healing",
+"light"
+]
+},
+{
+"id": 739,
+"prompt": "salted shield",
+"tags": [
+"shield",
+"earth",
+"water"
+]
+},
+{
+"id": 740,
+"prompt": "weathered wisdom",
+"tags": [
+"aura",
+"rune",
+"healing",
+"holy"
+]
+},
+{
+"id": 741,
+"prompt": "enchanted step",
+"tags": [
+"movement",
+"arcane",
+"light",
+"ethereal"
+]
+},
+{
+"id": 742,
+"prompt": "nautical drift",
+"tags": [
+"water",
+"vortex",
+"movement"
+]
+},
+{
+"id": 743,
+"prompt": "crimson torrent",
+"tags": [
+"blood",
+"water",
+"dark"
+]
+},
+{
+"id": 744,
+"prompt": "blood lance",
+"tags": [
+"blood",
+"weapon",
+"projectile",
+"dark"
+]
+},
+{
+"id": 745,
+"prompt": "sanguine veil",
+"tags": [
+"blood",
+"shield",
+"aura",
+"dark"
+]
+},
+{
+"id": 746,
+"prompt": "vampiric grip",
+"tags": [
+"shadow",
+"dark",
+"blood",
+"soul",
+"curse"
+]
+},
+{
+"id": 747,
+"prompt": "lifeblood surge",
+"tags": [
+"blood",
+"healing",
+"aura",
+"fire"
+]
+},
+{
+"id": 748,
+"prompt": "grandma's fury",
+"tags": [
+"funny",
+"explosion",
+"sound",
+"animal",
+"nature"
+]
+},
+{
+"id": 749,
+"prompt": "knitting strike",
+"tags": [
+"funny",
+"projectile",
+"weapon",
+"blood"
+]
+},
+{
+"id": 750,
+"prompt": "comforting hug",
+"tags": [
+"funny",
+"healing",
+"aura",
+"holy",
+"light"
+]
+},
+{
+"id": 751,
+"prompt": "disguise confusion",
+"tags": [
+"funny",
+"illusion",
+"ghost",
+"summon"
+]
+},
+{
+"id": 752,
+"prompt": "tea time",
+"tags": [
+"funny",
+"food",
+"healing",
+"summon"
+]
+},
+{
+"id": 753,
+"prompt": "inferno horns",
+"tags": [
+"fire",
+"demonic",
+"dark"
+]
+},
+{
+"id": 754,
+"prompt": "red fury",
+"tags": [
+"fire",
+"projectile",
+"storm",
+"explosion"
+]
+},
+{
+"id": 755,
+"prompt": "fiery dash",
+"tags": [
+"fire",
+"movement"
+]
+},
+{
+"id": 756,
+"prompt": "eldritch shield",
+"tags": [
+"dark",
+"shield",
+"fire"
+]
+},
+{
+"id": 757,
+"prompt": "hexing glare",
+"tags": [
+"curse",
+"psychic",
+"dark",
+"illusion"
+]
+},
+{
+"id": 758,
+"prompt": "inferno burst",
+"tags": [
+"fire",
+"explosion"
+]
+},
+{
+"id": 759,
+"prompt": "ember strike",
+"tags": [
+"fire",
+"projectile"
+]
+},
+{
+"id": 760,
+"prompt": "phoenix shield",
+"tags": [
+"fire",
+"shield",
+"aura",
+"animal",
+"divine"
+]
+},
+{
+"id": 761,
+"prompt": "blazing dash",
+"tags": [
+"movement",
+"fire"
+]
+},
+{
+"id": 762,
+"prompt": "firestorm veil",
+"tags": [
+"fire",
+"storm",
+"aura",
+"shield"
+]
+},
+{
+"id": 763,
+"prompt": "sniff and strike",
+"tags": [
+"animal",
+"psychic",
+"explosion"
+]
+},
+{
+"id": 764,
+"prompt": "bark barrage",
+"tags": [
+"sound",
+"animal",
+"explosion",
+"fire"
+]
+},
+{
+"id": 765,
+"prompt": "scent tracker",
+"tags": [
+"psychic",
+"animal",
+"illusion"
+]
+},
+{
+"id": 766,
+"prompt": "fleet paws",
+"tags": [
+"movement",
+"animal",
+"light"
+]
+},
+{
+"id": 767,
+"prompt": "resolve shield",
+"tags": [
+"shield",
+"light",
+"ethereal"
+]
+},
+{
+"id": 768,
+"prompt": "void storm",
+"tags": [
+"dark",
+"shadow",
+"storm",
+"vortex",
+"lightning"
+]
+},
+{
+"id": 769,
+"prompt": "eclipse shroud",
+"tags": [
+"shadow",
+"dark",
+"shield",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 770,
+"prompt": "haunting whispers",
+"tags": [
+"ghost",
+"curse",
+"psychic",
+"sound",
+"illusion"
+]
+},
+{
+"id": 771,
+"prompt": "spectral drift",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 772,
+"prompt": "tidal wave",
+"tags": [
+"water",
+"explosion",
+"storm",
+"light"
+]
+},
+{
+"id": 773,
+"prompt": "chomp charge",
+"tags": [
+"animal",
+"funny",
+"earth",
+"movement"
+]
+},
+{
+"id": 774,
+"prompt": "mudslide",
+"tags": [
+"earth",
+"water",
+"shield",
+"nature"
+]
+},
+{
+"id": 775,
+"prompt": "jungle call",
+"tags": [
+"plant",
+"nature",
+"summon",
+"light"
+]
+},
+{
+"id": 776,
+"prompt": "spectral scream",
+"tags": [
+"ghost",
+"fire",
+"sound",
+"necrotic",
+"undead"
+]
+},
+{
+"id": 777,
+"prompt": "ectoplasmic burst",
+"tags": [
+"ghost",
+"explosion",
+"ethereal",
+"spirit"
+]
+},
+{
+"id": 778,
+"prompt": "ghostly drift",
+"tags": [
+"ghost",
+"movement",
+"undead",
+"bone",
+"ethereal"
+]
+},
+{
+"id": 779,
+"prompt": "wailing echo",
+"tags": [
+"ghost",
+"sound",
+"curse",
+"necrotic",
+"undead"
+]
+},
+{
+"id": 780,
+"prompt": "phantom guard",
+"tags": [
+"ghost",
+"shield",
+"undead",
+"bone",
+"ethereal"
+]
+},
+{
+"id": 781,
+"prompt": "capycannon",
+"tags": [
+"funny",
+"animal",
+"projectile",
+"explosion"
+]
+},
+{
+"id": 782,
+"prompt": "bite barrage",
+"tags": [
+"fire",
+"projectile",
+"animal"
+]
+},
+{
+"id": 783,
+"prompt": "water slide",
+"tags": [
+"water",
+"movement"
+]
+},
+{
+"id": 784,
+"prompt": "fur fluff",
+"tags": [
+"animal",
+"nature",
+"healing",
+"aura"
+]
+},
+{
+"id": 785,
+"prompt": "Polymorph",
+"tags": [
+"arcane",
+"illusion",
+"curse"
+]
+},
+{
+"id": 786,
+"prompt": "cyber rebirth",
+"tags": [
+"healing",
+"light",
+"holy",
+"metal",
+"aura"
+]
+},
+{
+"id": 787,
+"prompt": "crescendo night",
+"tags": [
+"dark",
+"shadow",
+"sound",
+"ghost",
+"aura"
+]
+},
+{
+"id": 788,
+"prompt": "melodic slash",
+"tags": [
+"sound",
+"weapon",
+"projectile",
+"metal",
+"dark"
+]
+},
+{
+"id": 789,
+"prompt": "phantom's charm",
+"tags": [
+"ghost",
+"curse",
+"psychic",
+"illusion",
+"ethereal"
+]
+},
+{
+"id": 790,
+"prompt": "opera dash",
+"tags": [
+"movement",
+"ethereal",
+"ghost",
+"sound",
+"light"
+]
+},
+{
+"id": 791,
+"prompt": "wood",
+"tags": [
+"plant",
+"nature",
+"earth"
+]
+},
+{
+"id": 792,
+"prompt": "meow of awe",
+"tags": [
+"funny",
+"sound",
+"light",
+"holy",
+"curse"
+]
+},
+{
+"id": 793,
+"prompt": "whisker slash",
+"tags": [
+"weapon",
+"projectile",
+"lightning",
+"animal",
+"funny"
+]
+},
+{
+"id": 794,
+"prompt": "purrception",
+"tags": [
+"aura",
+"healing",
+"psychic",
+"sound",
+"animal"
+]
+},
+{
+"id": 795,
+"prompt": "tail flick",
+"tags": [
+"projectile",
+"light",
+"animal",
+"arcane",
+"ethereal"
+]
+},
+{
+"id": 796,
+"prompt": "coat of calm",
+"tags": [
+"aura",
+"shield",
+"earth",
+"nature",
+"healing"
+]
+},
+{
+"id": 797,
+"prompt": "top hat tempest",
+"tags": [
+"shadow",
+"dark",
+"storm",
+"vortex",
+"funny"
+]
+},
+{
+"id": 798,
+"prompt": "claw swipe",
+"tags": [
+"weapon",
+"projectile",
+"light",
+"metal"
+]
+},
+{
+"id": 799,
+"prompt": "storm",
+"tags": [
+"storm",
+"lightning",
+"wind",
+"water",
+"dark"
+]
+},
+{
+"id": 800,
+"prompt": "gentleman's charm",
+"tags": [
+"curse",
+"illusion",
+"psychic",
+"shadow",
+"funny"
+]
+},
+{
+"id": 801,
+"prompt": "shadow eclipse",
+"tags": [
+"shadow",
+"dark",
+"vortex",
+"lightning",
+"cosmic"
+]
+},
+{
+"id": 802,
+"prompt": "silk shield",
+"tags": [
+"shield",
+"light",
+"ethereal"
+]
+},
+{
+"id": 803,
+"prompt": "necrotic blast",
+"tags": [
+"necrotic",
+"undead",
+"explosion",
+"dark",
+"shadow"
+]
+},
+{
+"id": 804,
+"prompt": "soulbinding",
+"tags": [
+"soul",
+"curse",
+"ghost",
+"fire",
+"necrotic"
+]
+},
+{
+"id": 805,
+"prompt": "abyssal shield",
+"tags": [
+"dark",
+"shadow",
+"shield",
+"demonic"
+]
+},
+{
+"id": 806,
+"prompt": "golden fury",
+"tags": [
+"light",
+"holy",
+"explosion",
+"aura",
+"divine"
+]
+},
+{
+"id": 807,
+"prompt": "golden strike",
+"tags": [
+"light",
+"holy",
+"projectile",
+"weapon"
+]
+},
+{
+"id": 808,
+"prompt": "radiant strike",
+"tags": [
+"light",
+"holy",
+"explosion",
+"aura"
+]
+},
+{
+"id": 809,
+"prompt": "sunlit slash",
+"tags": [
+"light",
+"holy",
+"sun",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 810,
+"prompt": "gilded guard",
+"tags": [
+"light",
+"holy",
+"shield",
+"metal"
+]
+},
+{
+"id": 811,
+"prompt": "lemon",
+"tags": [
+"funny",
+"food",
+"nature",
+"plant",
+"explosion"
+]
+},
+{
+"id": 812,
+"prompt": "lemon",
+"tags": [
+"funny",
+"food",
+"nature",
+"plant"
+]
+},
+{
+"id": 813,
+"prompt": "lemon",
+"tags": [
+"funny",
+"food",
+"nature",
+"plant"
+]
+},
+{
+"id": 814,
+"prompt": "dino roar",
+"tags": [
+"animal",
+"sound",
+"explosion",
+"nature",
+"funny"
+]
+},
+{
+"id": 815,
+"prompt": "tiny hat tremor",
+"tags": [
+"funny",
+"explosion",
+"earth"
+]
+},
+{
+"id": 816,
+"prompt": "dino dash",
+"tags": [
+"animal",
+"movement",
+"funny",
+"nature"
+]
+},
+{
+"id": 817,
+"prompt": "roar of play",
+"tags": [
+"funny",
+"sound",
+"animal",
+"nature"
+]
+},
+{
+"id": 818,
+"prompt": "hat shield",
+"tags": [
+"funny",
+"shield",
+"aura",
+"light"
+]
+},
+{
+"id": 819,
+"prompt": "jurassic summon",
+"tags": [
+"summon",
+"animal",
+"funny",
+"ghost",
+"spirit"
+]
+},
+{
+"id": 820,
+"prompt": "maple leaves",
+"tags": [
+"plant",
+"nature",
+"wind"
+]
+},
+{
+"id": 821,
+"prompt": "fire bolt",
+"tags": [
+"fire",
+"projectile"
+]
+},
+{
+"id": 822,
+"prompt": "test fire",
+"tags": [
+"fire",
+"explosion"
+]
+},
+{
+"id": 823,
+"prompt": "tropical burst",
+"tags": [
+"food",
+"nature",
+"plant",
+"water",
+"explosion"
+]
+},
+{
+"id": 824,
+"prompt": "spiky assault",
+"tags": [
+"food",
+"plant",
+"nature",
+"projectile",
+"funny"
+]
+},
+{
+"id": 825,
+"prompt": "juice boost",
+"tags": [
+"food",
+"aura",
+"healing",
+"nature"
+]
+},
+{
+"id": 826,
+"prompt": "sweet aroma",
+"tags": [
+"poison",
+"curse",
+"illusion",
+"psychic",
+"ethereal"
+]
+},
+{
+"id": 827,
+"prompt": "banana blitz",
+"tags": [
+"funny",
+"food",
+"plant",
+"projectile"
+]
+},
+{
+"id": 828,
+"prompt": "acron fury",
+"tags": [
+"fire",
+"dark",
+"storm",
+"vortex"
+]
+},
+{
+"id": 829,
+"prompt": "acorn fury",
+"tags": [
+"plant",
+"nature",
+"projectile",
+"storm"
+]
+},
+{
+"id": 830,
+"prompt": "forest fury",
+"tags": [
+"nature",
+"plant",
+"wind",
+"vortex",
+"storm"
+]
+},
+{
+"id": 831,
+"prompt": "nut barrage",
+"tags": [
+"nature",
+"plant",
+"projectile"
+]
+},
+{
+"id": 832,
+"prompt": "autumn shield",
+"tags": [
+"shield",
+"nature",
+"plant"
+]
+},
+{
+"id": 833,
+"prompt": "rooted resilience",
+"tags": [
+"plant",
+"nature",
+"earth",
+"healing",
+"aura"
+]
+},
+{
+"id": 834,
+"prompt": "mystic sapling",
+"tags": [
+"plant",
+"nature",
+"summon",
+"healing",
+"shield"
+]
+},
+{
+"id": 835,
+"prompt": "root whirlwind",
+"tags": [
+"plant",
+"nature",
+"vortex",
+"wind",
+"earth"
+]
+},
+{
+"id": 836,
+"prompt": "acorn barrage",
+"tags": [
+"plant",
+"nature",
+"projectile"
+]
+},
+{
+"id": 838,
+"prompt": "forest shield",
+"tags": [
+"shield",
+"plant",
+"nature",
+"earth"
+]
+},
+{
+"id": 839,
+"prompt": "forest whisper",
+"tags": [
+"wind",
+"nature",
+"healing",
+"aura",
+"sound"
+]
+},
+{
+"id": 840,
+"prompt": "verdant step",
+"tags": [
+"movement",
+"plant",
+"nature",
+"light"
+]
+},
+{
+"id": 841,
+"prompt": "leaf shield",
+"tags": [
+"shield",
+"plant",
+"nature",
+"wind"
+]
+},
+{
+"id": 842,
+"prompt": "squirrel summon",
+"tags": [
+"summon",
+"animal",
+"nature",
+"earth",
+"funny"
+]
+},
+{
+"id": 843,
+"prompt": "pumpkin pumpkin pumpkin",
+"tags": [
+"funny",
+"plant",
+"explosion",
+"nature"
+]
+},
+{
+"id": 844,
+"prompt": "celestial nova",
+"tags": [
+"cosmic",
+"star",
+"explosion",
+"light",
+"holy"
+]
+},
+{
+"id": 845,
+"prompt": "starfall fury",
+"tags": [
+"fire",
+"cosmic",
+"star",
+"storm",
+"projectile"
+]
+},
+{
+"id": 846,
+"prompt": "harvest fury",
+"tags": [
+"plant",
+"explosion",
+"ghost",
+"spirit",
+"nature"
+]
+},
+{
+"id": 847,
+"prompt": "spore mist",
+"tags": [
+"plant",
+"poison",
+"curse",
+"nature"
+]
+},
+{
+"id": 848,
+"prompt": "gourd sentinel",
+"tags": [
+"plant",
+"summon",
+"nature",
+"light"
+]
+},
+{
+"id": 849,
+"prompt": "bone tempest",
+"tags": [
+"bone",
+"storm",
+"vortex",
+"necrotic",
+"ghost"
+]
+},
+{
+"id": 850,
+"prompt": "soul eclipse",
+"tags": [
+"soul",
+"dark",
+"shadow",
+"cosmic",
+"curse"
+]
+},
+{
+"id": 851,
+"prompt": "rattle strike",
+"tags": [
+"bone",
+"undead",
+"weapon",
+"blood"
+]
+},
+{
+"id": 852,
+"prompt": "desolate shield",
+"tags": [
+"shield",
+"bone",
+"undead",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 853,
+"prompt": "veil of night",
+"tags": [
+"shield",
+"dark",
+"shadow",
+"cosmic",
+"star"
+]
+},
+{
+"id": 854,
+"prompt": "chilling presence",
+"tags": [
+"ice",
+"ghost",
+"aura",
+"curse",
+"undead"
+]
+},
+{
+"id": 855,
+"prompt": "phantom dash",
+"tags": [
+"movement",
+"shadow",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 856,
+"prompt": "grave pulse",
+"tags": [
+"necrotic",
+"dark",
+"shadow",
+"aura",
+"light"
+]
+},
+{
+"id": 857,
+"prompt": "skeletal summon",
+"tags": [
+"summon",
+"bone",
+"undead",
+"necrotic",
+"ghost"
+]
+},
+{
+"id": 858,
+"prompt": "pumpkin smash",
+"tags": [
+"plant",
+"explosion",
+"ghost",
+"nature",
+"funny"
+]
+},
+{
+"id": 859,
+"prompt": "vine snare",
+"tags": [
+"plant",
+"nature",
+"curse"
+]
+},
+{
+"id": 860,
+"prompt": "gourd shield",
+"tags": [
+"plant",
+"shield",
+"nature",
+"funny"
+]
+},
+{
+"id": 861,
+"prompt": "harvest festival",
+"tags": [
+"plant",
+"nature",
+"healing",
+"aura",
+"light"
+]
+},
+{
+"id": 862,
+"prompt": "shatter strike",
+"tags": [
+"bone",
+"projectile",
+"necrotic",
+"undead",
+"ghost"
+]
+},
+{
+"id": 863,
+"prompt": "grave chill",
+"tags": [
+"ice",
+"curse",
+"ghost",
+"necrotic"
+]
+},
+{
+"id": 864,
+"prompt": "soul reaper",
+"tags": [
+"soul",
+"dark",
+"shadow",
+"necrotic",
+"vortex"
+]
+},
+{
+"id": 865,
+"prompt": "rattle and roar",
+"tags": [
+"bone",
+"sound",
+"curse",
+"ghost",
+"undead"
+]
+},
+{
+"id": 866,
+"prompt": "skeletal shield",
+"tags": [
+"bone",
+"shield",
+"undead",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 867,
+"prompt": "shadow spine",
+"tags": [
+"shadow",
+"dark",
+"shield",
+"curse"
+]
+},
+{
+"id": 868,
+"prompt": "grave walk",
+"tags": [
+"movement",
+"undead",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 869,
+"prompt": "dark bolt",
+"tags": [
+"dark",
+"lightning",
+"projectile",
+"shadow"
+]
+},
+{
+"id": 870,
+"prompt": "spectral cloak",
+"tags": [
+"ghost",
+"aura",
+"shield",
+"ethereal"
+]
+},
+{
+"id": 871,
+"prompt": "curse of dread",
+"tags": [
+"curse",
+"dark",
+"shadow",
+"aura"
+]
+},
+{
+"id": 872,
+"prompt": "skeleton summon",
+"tags": [
+"summon",
+"bone",
+"undead",
+"ghost",
+"necrotic"
+]
+},
+{
+"id": 873,
+"prompt": "skeletal grasp",
+"tags": [
+"bone",
+"ghost",
+"curse",
+"undead",
+"earth"
+]
+},
+{
+"id": 874,
+"prompt": "bone shield",
+"tags": [
+"bone",
+"shield",
+"vortex",
+"ghost",
+"undead"
+]
+},
+{
+"id": 875,
+"prompt": "eternal vigil",
+"tags": [
+"bone",
+"undead",
+"aura",
+"shield",
+"ghost"
+]
+},
+{
+"id": 876,
+"prompt": "void pulse",
+"tags": [
+"dark",
+"shadow",
+"aura",
+"lightning"
+]
+},
+{
+"id": 877,
+"prompt": "eclipse's grasp",
+"tags": [
+"dark",
+"shadow",
+"vortex",
+"lightning",
+"curse"
+]
+},
+{
+"id": 878,
+"prompt": "rattle step",
+"tags": [
+"bone",
+"movement",
+"ghost",
+"undead"
+]
+},
+{
+"id": 879,
+"prompt": "bone minions",
+"tags": [
+"summon",
+"bone",
+"undead",
+"necrotic"
+]
+},
+{
+"id": 880,
+"prompt": "cloak of night",
+"tags": [
+"shadow",
+"dark",
+"aura",
+"shield",
+"illusion"
+]
+},
+{
+"id": 881,
+"prompt": "doom whisper",
+"tags": [
+"dark",
+"shadow",
+"curse",
+"sound"
+]
+},
+{
+"id": 882,
+"prompt": "necro heal",
+"tags": [
+"healing",
+"necrotic",
+"bone",
+"undead"
+]
+},
+{
+"id": 883,
+"prompt": "skull sentinel",
+"tags": [
+"summon",
+"ghost",
+"undead",
+"bone",
+"dark"
+]
+},
+{
+"id": 884,
+"prompt": "spectral leap",
+"tags": [
+"movement",
+"ethereal",
+"ghost",
+"arcane"
+]
+},
+{
+"id": 885,
+"prompt": "gaze of dread",
+"tags": [
+"psychic",
+"curse",
+"dark",
+"shadow",
+"light"
+]
+},
+{
+"id": 886,
+"prompt": "army of bones",
+"tags": [
+"summon",
+"bone",
+"undead",
+"necrotic",
+"dark"
+]
+},
+{
+"id": 887,
+"prompt": "void slash",
+"tags": [
+"dark",
+"shadow",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 888,
+"prompt": "dread aura",
+"tags": [
+"ice",
+"dark",
+"curse",
+"aura",
+"ghost"
+]
+},
+{
+"id": 889,
+"prompt": "phantom shield",
+"tags": [
+"shadow",
+"dark",
+"shield",
+"ghost"
+]
+},
+{
+"id": 890,
+"prompt": "glacial burst",
+"tags": [
+"ice",
+"explosion",
+"storm",
+"water"
+]
+},
+{
+"id": 891,
+"prompt": "icy peck",
+"tags": [
+"ice",
+"projectile",
+"animal"
+]
+},
+{
+"id": 892,
+"prompt": "wraith form",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"ghost"
+]
+},
+{
+"id": 893,
+"prompt": "snow slide",
+"tags": [
+"ice",
+"movement"
+]
+},
+{
+"id": 894,
+"prompt": "necrotic aura",
+"tags": [
+"necrotic",
+"dark",
+"shadow",
+"aura",
+"curse"
+]
+},
+{
+"id": 895,
+"prompt": "penguin puff",
+"tags": [
+"ice",
+"shield",
+"animal",
+"funny",
+"wind"
+]
+},
+{
+"id": 896,
+"prompt": "spectral minions",
+"tags": [
+"summon",
+"ghost",
+"spirit",
+"undead",
+"fire"
+]
+},
+{
+"id": 897,
+"prompt": "ethereal strike",
+"tags": [
+"ethereal",
+"weapon",
+"projectile",
+"light",
+"angelic"
+]
+},
+{
+"id": 898,
+"prompt": "hellish scream",
+"tags": [
+"fire",
+"sound",
+"explosion",
+"demonic",
+"dark"
+]
+},
+{
+"id": 899,
+"prompt": "veil of serenity",
+"tags": [
+"shield",
+"light",
+"holy",
+"angelic"
+]
+},
+{
+"id": 900,
+"prompt": "demonic aura",
+"tags": [
+"demonic",
+"dark",
+"fire",
+"aura",
+"rune"
+]
+},
+{
+"id": 901,
+"prompt": "divine ascent",
+"tags": [
+"divine",
+"holy",
+"angelic",
+"movement",
+"light"
+]
+},
+{
+"id": 902,
+"prompt": "curse of fear",
+"tags": [
+"curse",
+"shadow",
+"dark",
+"psychic"
+]
+},
+{
+"id": 903,
+"prompt": "aura of atonement",
+"tags": [
+"shadow",
+"dark",
+"aura",
+"curse"
+]
+},
+{
+"id": 904,
+"prompt": "storm hammer",
+"tags": [
+"lightning",
+"weapon",
+"storm",
+"projectile",
+"divine"
+]
+},
+{
+"id": 905,
+"prompt": "odin's wrath",
+"tags": [
+"storm",
+"lightning",
+"animal",
+"summon",
+"divine"
+]
+},
+{
+"id": 906,
+"prompt": "spear of gungnir",
+"tags": [
+"weapon",
+"projectile",
+"ethereal",
+"ice",
+"divine"
+]
+},
+{
+"id": 907,
+"prompt": "thunderous leap",
+"tags": [
+"movement",
+"lightning",
+"storm"
+]
+},
+{
+"id": 908,
+"prompt": "valkyrie's shield",
+"tags": [
+"shield",
+"divine",
+"angelic",
+"rune",
+"light"
+]
+},
+{
+"id": 909,
+"prompt": "raven's sight",
+"tags": [
+"animal",
+"shadow",
+"dark",
+"psychic",
+"illusion"
+]
+},
+{
+"id": 910,
+"prompt": "warrior's roar",
+"tags": [
+"sound",
+"aura",
+"healing",
+"metal"
+]
+},
+{
+"id": 911,
+"prompt": "wisdom's shield",
+"tags": [
+"shield",
+"rune",
+"psychic",
+"holy",
+"light"
+]
+},
+{
+"id": 912,
+"prompt": "rune of binding",
+"tags": [
+"rune",
+"curse",
+"light",
+"holy"
+]
+},
+{
+"id": 913,
+"prompt": "grave shield",
+"tags": [
+"bone",
+"shield",
+"undead",
+"ghost",
+"necrotic"
+]
+},
+{
+"id": 914,
+"prompt": "shadow dominion",
+"tags": [
+"shadow",
+"dark",
+"fire",
+"curse"
+]
+},
+{
+"id": 915,
+"prompt": "shadow passage",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"undead",
+"bone"
+]
+},
+{
+"id": 916,
+"prompt": "hex bolt",
+"tags": [
+"dark",
+"curse",
+"projectile",
+"lightning"
+]
+},
+{
+"id": 917,
+"prompt": "curse touch",
+"tags": [
+"curse",
+"ghost",
+"shadow",
+"dark",
+"ethereal"
+]
+},
+{
+"id": 918,
+"prompt": "umbral dash",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"curse",
+"vortex"
+]
+},
+{
+"id": 919,
+"prompt": "ethereal cloak",
+"tags": [
+"shadow",
+"dark",
+"shield",
+"aura",
+"ethereal"
+]
+},
+{
+"id": 920,
+"prompt": "cursed glare",
+"tags": [
+"curse",
+"psychic",
+"light",
+"dark"
+]
+},
+{
+"id": 921,
+"prompt": "rattle roar",
+"tags": [
+"shadow",
+"dark",
+"sound",
+"vortex",
+"curse"
+]
+},
+{
+"id": 922,
+"prompt": "soul link",
+"tags": [
+"soul",
+"dark",
+"curse",
+"rune",
+"shadow"
+]
+},
+{
+"id": 923,
+"prompt": "ghastly glide",
+"tags": [
+"ghost",
+"movement",
+"undead",
+"bone",
+"ethereal"
+]
+},
+{
+"id": 924,
+"prompt": "eerie presence",
+"tags": [
+"ghost",
+"aura",
+"ethereal",
+"spirit",
+"light"
+]
+},
+{
+"id": 925,
+"prompt": "elven tranquility",
+"tags": [
+"healing",
+"explosion",
+"light",
+"nature",
+"holy"
+]
+},
+{
+"id": 926,
+"prompt": "dark eclipse",
+"tags": [
+"dark",
+"shadow",
+"cosmic",
+"moon",
+"vortex"
+]
+},
+{
+"id": 927,
+"prompt": "nature's barrage",
+"tags": [
+"nature",
+"projectile",
+"weapon",
+"holy",
+"light"
+]
+},
+{
+"id": 928,
+"prompt": "skull summon",
+"tags": [
+"summon",
+"ghost",
+"undead",
+"bone",
+"spirit"
+]
+},
+{
+"id": 929,
+"prompt": "moonlit cascade",
+"tags": [
+"moon",
+"light",
+"cosmic",
+"water",
+"ethereal"
+]
+},
+{
+"id": 930,
+"prompt": "leaf veil",
+"tags": [
+"plant",
+"nature",
+"shield",
+"wind"
+]
+},
+{
+"id": 931,
+"prompt": "fear gaze",
+"tags": [
+"psychic",
+"curse",
+"dark",
+"shadow",
+"light"
+]
+},
+{
+"id": 932,
+"prompt": "starfall step",
+"tags": [
+"movement",
+"cosmic",
+"star",
+"light",
+"ethereal"
+]
+},
+{
+"id": 933,
+"prompt": "woodland stride",
+"tags": [
+"movement",
+"nature",
+"light"
+]
+},
+{
+"id": 934,
+"prompt": "mystic glimmer",
+"tags": [
+"aura",
+"healing",
+"light",
+"holy"
+]
+},
+{
+"id": 935,
+"prompt": "void strike",
+"tags": [
+"dark",
+"shadow",
+"vortex",
+"curse"
+]
+},
+{
+"id": 936,
+"prompt": "whispering shadows",
+"tags": [
+"shadow",
+"dark",
+"curse",
+"illusion",
+"sound"
+]
+},
+{
+"id": 937,
+"prompt": "skull minion",
+"tags": [
+"summon",
+"bone",
+"undead",
+"necrotic",
+"ghost"
+]
+},
+{
+"id": 938,
+"prompt": "fear's embrace",
+"tags": [
+"curse",
+"psychic",
+"dark",
+"shadow",
+"aura"
+]
+},
+{
+"id": 939,
+"prompt": "eclipse ascendancy",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 940,
+"prompt": "celestial wingstorm",
+"tags": [
+"holy",
+"light",
+"storm",
+"angelic",
+"divine"
+]
+},
+{
+"id": 941,
+"prompt": "nature's wave",
+"tags": [
+"nature",
+"plant",
+"projectile"
+]
+},
+{
+"id": 942,
+"prompt": "shadow spear",
+"tags": [
+"shadow",
+"dark",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 943,
+"prompt": "leaf blades",
+"tags": [
+"plant",
+"nature",
+"weapon",
+"projectile",
+"wind"
+]
+},
+{
+"id": 944,
+"prompt": "veil of dusk",
+"tags": [
+"dark",
+"shadow",
+"shield",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 945,
+"prompt": "feathered barrage",
+"tags": [
+"animal",
+"wind",
+"projectile",
+"arcane"
+]
+},
+{
+"id": 946,
+"prompt": "forest friend",
+"tags": [
+"summon",
+"spirit",
+"nature",
+"healing",
+"light"
+]
+},
+{
+"id": 947,
+"prompt": "twilight glide",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"ethereal",
+"cosmic"
+]
+},
+{
+"id": 948,
+"prompt": "fading light",
+"tags": [
+"dark",
+"shadow",
+"light",
+"curse",
+"psychic"
+]
+},
+{
+"id": 949,
+"prompt": "mossy boost",
+"tags": [
+"nature",
+"plant",
+"healing",
+"aura"
+]
+},
+{
+"id": 950,
+"prompt": "dove's grace",
+"tags": [
+"holy",
+"light",
+"shield",
+"aura",
+"divine"
+]
+},
+{
+"id": 951,
+"prompt": "moonbeam strike",
+"tags": [
+"moon",
+"light",
+"cosmic",
+"projectile",
+"holy"
+]
+},
+{
+"id": 952,
+"prompt": "soaring spirit",
+"tags": [
+"movement",
+"ethereal",
+"spirit",
+"light",
+"angelic"
+]
+},
+{
+"id": 953,
+"prompt": "starry veil",
+"tags": [
+"cosmic",
+"star",
+"shield",
+"light"
+]
+},
+{
+"id": 954,
+"prompt": "tranquil call",
+"tags": [
+"sound",
+"healing",
+"aura",
+"psychic",
+"light"
+]
+},
+{
+"id": 955,
+"prompt": "celestial charm",
+"tags": [
+"cosmic",
+"star",
+"light",
+"aura",
+"holy"
+]
+},
+{
+"id": 956,
+"prompt": "verdant strike",
+"tags": [
+"plant",
+"nature",
+"projectile",
+"weapon"
+]
+},
+{
+"id": 957,
+"prompt": "mariner's luck",
+"tags": [
+"funny",
+"light",
+"aura",
+"psychic"
+]
+},
+{
+"id": 958,
+"prompt": "fog of nautica",
+"tags": [
+"water",
+"wind",
+"illusion",
+"shadow"
+]
+},
+{
+"id": 959,
+"prompt": "rooted presence",
+"tags": [
+"plant",
+"nature",
+"earth",
+"aura",
+"shield"
+]
+},
+{
+"id": 960,
+"prompt": "woodland whisper",
+"tags": [
+"nature",
+"plant",
+"wind",
+"healing",
+"aura"
+]
+},
+{
+"id": 961,
+"prompt": "crab summon",
+"tags": [
+"summon",
+"animal",
+"water",
+"funny"
+]
+},
+{
+"id": 962,
+"prompt": "blossom illusion",
+"tags": [
+"illusion",
+"plant",
+"nature",
+"explosion",
+"psychic"
+]
+},
+{
+"id": 963,
+"prompt": "sunflare storm",
+"tags": [
+"sun",
+"light",
+"fire",
+"storm",
+"funny"
+]
+},
+{
+"id": 964,
+"prompt": "dapper barrage",
+"tags": [
+"funny",
+"projectile",
+"light",
+"vortex"
+]
+},
+{
+"id": 965,
+"prompt": "straw whip",
+"tags": [
+"funny",
+"weapon",
+"plant",
+"nature",
+"light"
+]
+},
+{
+"id": 966,
+"prompt": "tie strike",
+"tags": [
+"funny",
+"projectile",
+"fire",
+"dark"
+]
+},
+{
+"id": 967,
+"prompt": "wind rush",
+"tags": [
+"wind",
+"movement"
+]
+},
+{
+"id": 968,
+"prompt": "gentleman's bluff",
+"tags": [
+"illusion",
+"psychic",
+"funny"
+]
+},
+{
+"id": 969,
+"prompt": "sunny disguise",
+"tags": [
+"sun",
+"light",
+"illusion",
+"aura"
+]
+},
+{
+"id": 970,
+"prompt": "charm aura",
+"tags": [
+"aura",
+"psychic",
+"light",
+"healing"
+]
+},
+{
+"id": 971,
+"prompt": "sunbeam spiral",
+"tags": [
+"sun",
+"light",
+"projectile",
+"funny"
+]
+},
+{
+"id": 972,
+"prompt": "straw whirlwind",
+"tags": [
+"plant",
+"nature",
+"wind",
+"vortex",
+"funny"
+]
+},
+{
+"id": 973,
+"prompt": "nature's shelter",
+"tags": [
+"nature",
+"plant",
+"shield"
+]
+},
+{
+"id": 974,
+"prompt": "sunshine sprint",
+"tags": [
+"movement",
+"light",
+"sun"
+]
+},
+{
+"id": 975,
+"prompt": "sunbeam strike",
+"tags": [
+"sun",
+"light",
+"projectile",
+"funny"
+]
+},
+{
+"id": 976,
+"prompt": "shadow wrath",
+"tags": [
+"shadow",
+"dark",
+"vortex",
+"demonic"
+]
+},
+{
+"id": 977,
+"prompt": "field's embrace",
+"tags": [
+"nature",
+"light",
+"sun",
+"aura",
+"healing"
+]
+},
+{
+"id": 978,
+"prompt": "wind gust",
+"tags": [
+"wind",
+"earth",
+"storm"
+]
+},
+{
+"id": 979,
+"prompt": "veil of dread",
+"tags": [
+"dark",
+"shadow",
+"curse",
+"psychic",
+"aura"
+]
+},
+{
+"id": 980,
+"prompt": "field shield",
+"tags": [
+"nature",
+"plant",
+"shield",
+"aura"
+]
+},
+{
+"id": 981,
+"prompt": "sunlit sprint",
+"tags": [
+"movement",
+"light",
+"sun"
+]
+},
+{
+"id": 982,
+"prompt": "rattle slash",
+"tags": [
+"bone",
+"undead",
+"weapon",
+"projectile",
+"light"
+]
+},
+{
+"id": 983,
+"prompt": "stellar nova",
+"tags": [
+"cosmic",
+"star",
+"light",
+"explosion"
+]
+},
+{
+"id": 984,
+"prompt": "nightmare glare",
+"tags": [
+"dark",
+"shadow",
+"psychic",
+"curse",
+"illusion"
+]
+},
+{
+"id": 985,
+"prompt": "eclipse step",
+"tags": [
+"shadow",
+"dark",
+"movement",
+"ethereal"
+]
+},
+{
+"id": 986,
+"prompt": "cosmic beak",
+"tags": [
+"cosmic",
+"animal",
+"projectile",
+"star",
+"light"
+]
+},
+{
+"id": 987,
+"prompt": "skull crusher",
+"tags": [
+"bone",
+"undead",
+"ghost",
+"projectile",
+"dark"
+]
+},
+{
+"id": 988,
+"prompt": "eclipsed veil",
+"tags": [
+"dark",
+"shadow",
+"shield",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 989,
+"prompt": "skyward glide",
+"tags": [
+"movement",
+"light",
+"cosmic",
+"star"
+]
+},
+{
+"id": 990,
+"prompt": "dark fortification",
+"tags": [
+"dark",
+"shadow",
+"shield"
+]
+},
+{
+"id": 991,
+"prompt": "night veil",
+"tags": [
+"dark",
+"shadow",
+"shield",
+"aura",
+"cosmic"
+]
+},
+{
+"id": 992,
+"prompt": "phantom echo",
+"tags": [
+"illusion",
+"summon",
+"shadow",
+"dark",
+"ghost"
+]
+},
+{
+"id": 993,
+"prompt": "astral echo",
+"tags": [
+"cosmic",
+"ethereal",
+"light",
+"psychic",
+"star"
+]
+},
+{
+"id": 994,
+"prompt": "soul shackle",
+"tags": [
+"soul",
+"curse",
+"holy",
+"light",
+"ethereal"
+]
+},
+{
+"id": 995,
+"prompt": "chill of the grave",
+"tags": [
+"ice",
+"necrotic",
+"undead",
+"curse",
+"ghost"
+]
+},
+{
+"id": 996,
+"prompt": "moonlit nova",
+"tags": [
+"moon",
+"light",
+"cosmic",
+"explosion"
+]
+},
+{
+"id": 997,
+"prompt": "shadow devour",
+"tags": [
+"dark",
+"shadow",
+"vortex",
+"soul",
+"necrotic"
+]
+},
+{
+"id": 998,
+"prompt": "whispering gale",
+"tags": [
+"wind",
+"sound",
+"weapon",
+"projectile",
+"ethereal"
+]
+},
+{
+"id": 999,
+"prompt": "cursed flame",
+"tags": [
+"fire",
+"dark",
+"necrotic",
+"undead",
+"explosion"
+]
+},
+{
+"id": 1000,
+"prompt": "ethereal veil",
+"tags": [
+"ethereal",
+"shield",
+"light",
+"cosmic",
+"star"
+]
+},
+{
+"id": 1001,
+"prompt": "gloom shroud",
+"tags": [
+"dark",
+"shadow",
+"shield",
+"aura",
+"ghost"
+]
+},
+{
+"id": 1002,
+"prompt": "sylvan surge",
+"tags": [
+"nature",
+"plant",
+"wind",
+"vortex",
+"movement"
+]
+},
+{
+"id": 1003,
+"prompt": "soul siphon",
+"tags": [
+"soul",
+"dark",
+"shadow",
+"necrotic",
+"curse"
+]
+},
+{
+"id": 1004,
+"prompt": "mystic harmony",
+"tags": [
+"healing",
+"aura",
+"arcane",
+"light",
+"psychic"
+]
+},
+{
+"id": 1005,
+"prompt": "night slash",
+"tags": [
+"dark",
+"shadow",
+"weapon",
+"projectile"
+]
+},
+{
+"id": 1006,
+"prompt": "spectral fade",
+"tags": [
+"movement",
+"shadow",
+"dark",
+"ghost",
+"ethereal"
+]
+},
+{
+"id": 1007,
+"prompt": "salt spray",
+"tags": [
+"water",
+"earth",
+"curse",
+"funny"
+]
+},
+{
+"id": 1008,
+"prompt": "lunar eclipse",
+"tags": [
+"moon",
+"light",
+"cosmic",
+"holy"
+]
+},
+{
+"id": 1009,
+"prompt": "tempest call",
+"tags": [
+"storm",
+"lightning",
+"vortex",
+"wind"
+]
+},
+{
+"id": 1010,
+"prompt": "barnacle shield",
+"tags": [
+"water",
+"nature",
+"shield",
+"animal"
+]
+},
+{
+"id": 1011,
+"prompt": "mist veil",
+"tags": [
+"light",
+"ethereal",
+"illusion",
+"shield",
+"wind"
+]
+},
+{
+"id": 1012,
+"prompt": "regal command",
+"tags": [
+"holy",
+"light",
+"aura",
+"healing",
+"divine"
+]
+},
+{
+"id": 1013,
+"prompt": "spectral blast",
+"tags": [
+"arcane",
+"nature",
+"explosion",
+"projectile",
+"funny"
+]
+},
+{
+"id": 1014,
+"prompt": "glass shard spike",
+"tags": [
+"crystal",
+"earth",
+"projectile",
+"explosion"
+]
+},
+{
+"id": 1015,
+"prompt": "invisibility cloak",
+"tags": [
+"illusion",
+"arcane",
+"ethereal",
+"shield",
+"aura"
+]
+},
+{
+"id": 1016,
+"prompt": "knowledge surge",
+"tags": [
+"psychic",
+"arcane",
+"aura",
+"healing"
+]
+},
+{
+"id": 1017,
+"prompt": "eye of insight",
+"tags": [
+"psychic",
+"light",
+"projectile"
+]
+},
+{
+"id": 1018,
+"prompt": "celestial quill",
+"tags": [
+"cosmic",
+"star",
+"light",
+"rune",
+"weapon"
+]
+},
+{
+"id": 1019,
+"prompt": "cloak of shadows",
+"tags": [
+"dark",
+"shadow",
+"shield",
+"aura",
+"undead"
+]
+},
+{
+"id": 1020,
+"prompt": "starburst scroll",
+"tags": [
+"cosmic",
+"star",
+"explosion",
+"light"
+]
+},
+{
+"id": 1021,
+"prompt": "stardust cloak",
+"tags": [
+"cosmic",
+"star",
+"shield",
+"aura",
+"light"
+]
+},
+{
+    "id": 1022,
+    "prompt": "rattle and scare",
+    "tags": [
+    "bone",
+    "sound",
+    "curse",
+    "ghost",
+    "undead"
+    ]
+},
+{
+    "id": 1023,
+    "prompt": "astral insight",
+    "tags": [
+    "psychic",
+    "arcane",
+    "light",
+    "ethereal",
+    "rune"
+    ]
+},
+{
+    "id": 1024,
+    "prompt": "lunar guardian",
+    "tags": [
+    "moon",
+    "cosmic",
+    "star",
+    "summon",
+    "ethereal"
+    ]
+},
+{
+    "id": 1025,
+    "prompt": "skeletal snare",
+    "tags": [
+    "bone",
+    "curse",
+    "necrotic",
+    "undead",
+    "dark"
+    ]
+},
+{
+    "id": 1026,
+    "prompt": "eternal night",
+    "tags": [
+    "dark",
+    "shadow",
+    "moon",
+    "curse",
+    "cosmic"
+    ]
+},
+{
+    "id": 1027,
+    "prompt": "phantom bound",
+    "tags": [
+    "ghost",
+    "ethereal",
+    "movement",
+    "shadow",
+    "spirit"
+    ]
+},
+{
+    "id": 1028,
+    "prompt": "mango",
+    "tags": [
+    "food",
+    "funny",
+    "explosion",
+    "nature",
+    "plant"
+    ]
+},
+{
+    "id": 1029,
+    "prompt": "bookmark",
+    "tags": [
+    "arcane",
+    "ethereal",
+    "funny"
+    ]
+},
+{
+    "id": 1030,
+    "prompt": "a book raising from the ground, flipping open and bursting out a cloud of ink",
+    "tags": [
+    "arcane",
+    "dark",
+    "shadow",
+    "water",
+    "explosion"
+    ]
+},
+{
+    "id": 1031,
+    "prompt": "dark spiral",
+    "tags": [
+    "dark",
+    "shadow",
+    "vortex",
+    "fire"
+    ]
+},
+{
+    "id": 1032,
+    "prompt": "melancholic strike",
+    "tags": [
+    "dark",
+    "psychic",
+    "projectile",
+    "water"
+    ]
+},
+{
+    "id": 1033,
+    "prompt": "gloomy aura",
+    "tags": [
+    "dark",
+    "shadow",
+    "aura",
+    "curse",
+    "psychic"
+    ]
+},
+{
+    "id": 1034,
+    "prompt": "defensive veil",
+    "tags": [
+    "shield",
+    "aura",
+    "light",
+    "ethereal",
+    "water"
+    ]
+},
+{
+    "id": 1035,
+    "prompt": "burden shift",
+    "tags": [
+    "shadow",
+    "dark",
+    "curse",
+    "ethereal",
+    "psychic"
+    ]
+},
+{
+    "id": 1036,
+    "prompt": "hero's leap",
+    "tags": [
+    "movement",
+    "light",
+    "holy",
+    "cosmic",
+    "star"
+    ]
+},
+{
+    "id": 1037,
+    "prompt": "elastic chaos",
+    "tags": [
+    "light",
+    "arcane",
+    "illusion",
+    "funny"
+    ]
+},
+{
+    "id": 1038,
+    "prompt": "bear hat shield",
+    "tags": [
+    "shield",
+    "animal",
+    "funny",
+    "light",
+    "ice"
+    ]
+},
+{
+    "id": 1039,
+    "prompt": "stretch punch",
+    "tags": [
+    "light",
+    "projectile",
+    "funny"
+    ]
+},
+{
+    "id": 1040,
+    "prompt": "sword slash",
+    "tags": [
+    "weapon",
+    "projectile",
+    "lightning"
+    ]
+},
+{
+    "id": 1041,
+    "prompt": "puppy shield",
+    "tags": [
+    "shield",
+    "animal",
+    "funny",
+    "light"
+    ]
+},
+{
+    "id": 1042,
+    "prompt": "pack of tricks",
+    "tags": [
+    "funny",
+    "illusion",
+    "explosion",
+    "light"
+    ]
+},
+{
+    "id": 1043,
+    "prompt": "size shift",
+    "tags": [
+    "illusion",
+    "arcane",
+    "funny"
+    ]
+},
+{
+    "id": 1044,
+    "prompt": "adventure's fury",
+    "tags": [
+    "vortex",
+    "storm",
+    "lightning",
+    "arcane",
+    "nature"
+    ]
+},
+{
+    "id": 1045,
+    "prompt": "bouncing buddy",
+    "tags": [
+    "movement",
+    "animal",
+    "funny",
+    "light"
+    ]
+},
+{
+    "id": 1046,
+    "prompt": "summon wolf",
+    "tags": [
+    "summon",
+    "animal",
+    "spirit",
+    "ghost",
+    "ethereal"
+    ]
+},
+{
+    "id": 1047,
+    "prompt": "summon cabbage",
+    "tags": [
+    "summon",
+    "plant",
+    "nature",
+    "funny",
+    "food"
+    ]
+},
+{
+    "id": 1048,
+    "prompt": "summon monkey god",
+    "tags": [
+    "summon",
+    "animal",
+    "holy",
+    "divine",
+    "funny"
+    ]
+},
+{
+    "id": 1049,
+    "prompt": "summon demon",
+    "tags": [
+    "summon",
+    "demonic",
+    "dark",
+    "shadow",
+    "fire"
+    ]
+},
+{
+    "id": 1050,
+    "prompt": "summon wraiths",
+    "tags": [
+    "summon",
+    "ghost",
+    "undead",
+    "necrotic",
+    "dark"
+    ]
+},
+{
+    "id": 1051,
+    "prompt": "koala",
+    "tags": [
+    "funny",
+    "animal",
+    "spirit",
+    "nature",
+    "plant"
+    ]
+},
+{
+    "id": 1052,
+    "prompt": "pacman",
+    "tags": [
+    "funny",
+    "light",
+    "food"
+    ]
+},
+{
+    "id": 1053,
+    "prompt": "mind warp",
+    "tags": [
+    "psychic",
+    "illusion",
+    "vortex",
+    "curse",
+    "arcane"
+    ]
+},
+{
+    "id": 1054,
+    "prompt": "furious frenzy",
+    "tags": [
+    "fire",
+    "aura"
+    ]
+},
+{
+    "id": 1055,
+    "prompt": "time surge",
+    "tags": [
+    "time",
+    "arcane",
+    "vortex",
+    "illusion"
+    ]
+},
+{
+    "id": 1056,
+    "prompt": "altered perception",
+    "tags": [
+    "psychic",
+    "illusion",
+    "light",
+    "arcane"
+    ]
+},
+{
+    "id": 1057,
+    "prompt": "guitar riff",
+    "tags": [
+    "sound",
+    "explosion",
+    "lightning",
+    "funny"
+    ]
+},
+{
+    "id": 1058,
+    "prompt": "skate dash",
+    "tags": [
+    "movement",
+    "fire"
+    ]
+},
+{
+    "id": 1059,
+    "prompt": "warped terrain",
+    "tags": [
+    "earth",
+    "curse",
+    "illusion",
+    "arcane"
+    ]
+},
+{
+    "id": 1060,
+    "prompt": "confidence boost",
+    "tags": [
+    "aura",
+    "healing",
+    "light",
+    "holy",
+    "psychic"
+    ]
+},
+{
+    "id": 1061,
+    "prompt": "neon drift",
+    "tags": [
+    "movement",
+    "light",
+    "arcane"
+    ]
+},
+{
+    "id": 1062,
+    "prompt": "cool resolve",
+    "tags": [
+    "shield",
+    "ice",
+    "arcane",
+    "light"
+    ]
+},
+{
+    "id": 1063,
+    "prompt": "overdrive surge",
+    "tags": [
+    "explosion",
+    "fire",
+    "psychic",
+    "light"
+    ]
+},
+{
+    "id": 1064,
+    "prompt": "mechanical crush",
+    "tags": [
+    "metal",
+    "fire",
+    "weapon",
+    "explosion"
+    ]
+},
+{
+    "id": 1065,
+    "prompt": "titan shield",
+    "tags": [
+    "shield",
+    "metal",
+    "light"
+    ]
+},
+{
+    "id": 1066,
+    "prompt": "infrared vision",
+    "tags": [
+    "psychic",
+    "fire",
+    "light"
+    ]
+},
+{
+    "id": 1067,
+    "prompt": "hypertuned agility",
+    "tags": [
+    "movement",
+    "aura",
+    "light"
+    ]
+},
+{
+    "id": 1068,
+    "prompt": "raven's gaze",
+    "tags": [
+    "animal",
+    "psychic",
+    "shadow",
+    "dark",
+    "curse"
+    ]
+},
+{
+    "id": 1069,
+    "prompt": "brittle assault",
+    "tags": [
+    "bone",
+    "projectile",
+    "undead",
+    "ghost",
+    "explosion"
+    ]
+},
+{
+    "id": 1070,
+    "prompt": "starburst blast",
+    "tags": [
+    "cosmic",
+    "star",
+    "explosion",
+    "projectile",
+    "light"
+    ]
+},
+{
+    "id": 1071,
+    "prompt": "astral coat",
+    "tags": [
+    "cosmic",
+    "star",
+    "shield",
+    "aura",
+    "light"
+    ]
+},
+{
+    "id": 1072,
+    "prompt": "rattle cloak",
+    "tags": [
+    "shadow",
+    "dark",
+    "shield",
+    "bone",
+    "undead"
+    ]
+},
+{
+    "id": 1073,
+    "prompt": "timeworn pages",
+    "tags": [
+    "arcane",
+    "rune",
+    "light",
+    "time"
+    ]
+},
+{
+    "id": 1074,
+    "prompt": "bonemend",
+    "tags": [
+    "healing",
+    "bone",
+    "undead",
+    "nature"
+    ]
+},
+{
+    "id": 1075,
+    "prompt": "gravity shift",
+    "tags": [
+    "arcane",
+    "movement",
+    "cosmic"
+    ]
+},
+{
+    "id": 1076,
+    "prompt": "hollow hop",
+    "tags": [
+    "movement",
+    "bone",
+    "undead",
+    "ghost",
+    "ethereal"
+    ]
+},
+{
+    "id": 1077,
+    "prompt": "grave summon",
+    "tags": [
+    "summon",
+    "undead",
+    "necrotic",
+    "dark",
+    "bone"
+    ]
+},
+{
+    "id": 1078,
+    "prompt": "a summoning scroll",
+    "tags": [
+    "summon",
+    "arcane",
+    "rune",
+    "light"
+    ]
+},
+{
+    "id": 1079,
+    "prompt": "a scroll",
+    "tags": [
+    "arcane",
+    "rune",
+    "light"
+    ]
+},
+{
+    "id": 1080,
+    "prompt": "skeletal reconstruction",
+    "tags": [
+    "healing",
+    "bone",
+    "undead",
+    "ghost",
+    "ethereal"
+    ]
+},
+{
+    "id": 1081,
+    "prompt": "starfall strike",
+    "tags": [
+    "cosmic",
+    "star",
+    "projectile",
+    "light",
+    "explosion"
+    ]
+},
+{
+    "id": 1082,
+    "prompt": "cosmic shield",
+    "tags": [
+    "cosmic",
+    "star",
+    "shield",
+    "light",
+    "ethereal"
+    ]
+},
+{
+    "id": 1083,
+    "prompt": "graveyard shift",
+    "tags": [
+    "summon",
+    "undead",
+    "necrotic",
+    "ghost",
+    "dark"
+    ]
+},
+{
+    "id": 1084,
+    "prompt": "lunar light",
+    "tags": [
+    "moon",
+    "light",
+    "aura",
+    "healing",
+    "cosmic"
+    ]
+},
+{
+    "id": 1085,
+    "prompt": "astral note",
+    "tags": [
+    "cosmic",
+    "light",
+    "arcane",
+    "rune",
+    "ethereal"
+    ]
+},
+{
+    "id": 1086,
+    "prompt": "death's embrace",
+    "tags": [
+    "necrotic",
+    "dark",
+    "explosion",
+    "ghost",
+    "soul"
+    ]
+},
+{
+    "id": 1087,
+    "prompt": "shadow cloak",
+    "tags": [
+    "shadow",
+    "dark",
+    "shield",
+    "aura",
+    "undead"
+    ]
+},
+{
+    "id": 1088,
+    "prompt": "starfall quill",
+    "tags": [
+    "cosmic",
+    "star",
+    "light",
+    "projectile",
+    "weapon"
+    ]
+},
+{
+    "id": 1089,
+    "prompt": "celestial burst",
+    "tags": [
+    "cosmic",
+    "star",
+    "explosion",
+    "light"
+    ]
+},
+{
+    "id": 1090,
+    "prompt": "astral ink",
+    "tags": [
+    "cosmic",
+    "arcane",
+    "ethereal",
+    "rune",
+    "shadow"
+    ]
+},
+{
+    "id": 1091,
+    "prompt": "galactic shield",
+    "tags": [
+    "cosmic",
+    "star",
+    "shield",
+    "light"
+    ]
+},
+{
+    "id": 1092,
+    "prompt": "constellation bind",
+    "tags": [
+    "cosmic",
+    "star",
+    "curse",
+    "light",
+    "holy"
+    ]
+},
+{
+    "id": 1093,
+    "prompt": "bone repair",
+    "tags": [
+    "healing",
+    "bone",
+    "undead",
+    "light"
+    ]
+},
+{
+    "id": 1094,
+    "prompt": "skeletal reinforce",
+    "tags": [
+    "healing",
+    "bone",
+    "undead",
+    "rune",
+    "ethereal"
+    ]
+},
+{
+    "id": 1095,
+    "prompt": "grave pull",
+    "tags": [
+    "ghost",
+    "necrotic",
+    "curse",
+    "undead"
+    ]
+},
+{
+    "id": 1096,
+    "prompt": "dust cloak",
+    "tags": [
+    "earth",
+    "shadow",
+    "shield",
+    "aura",
+    "undead"
+    ]
+},
+{
+    "id": 1097,
+    "prompt": "echoing laughter",
+    "tags": [
+    "sound",
+    "ghost",
+    "curse",
+    "ice",
+    "ethereal"
+    ]
+},
+{
+    "id": 1098,
+    "prompt": "skeletal surge",
+    "tags": [
+    "movement",
+    "undead",
+    "bone",
+    "ghost",
+    "ethereal"
+    ]
+},
+{
+    "id": 1099,
+    "prompt": "cursed whisper",
+    "tags": [
+    "curse",
+    "sound",
+    "ghost",
+    "aura",
+    "healing"
+    ]
+},
+{
+    "id": 1100,
+    "prompt": "skeletal leap",
+    "tags": [
+    "movement",
+    "bone",
+    "undead",
+    "ghost",
+    "ethereal"
+    ]
+},
+{
+    "id": 1101,
+    "prompt": "gravekeeper's aura",
+    "tags": [
+    "ice",
+    "curse",
+    "aura",
+    "dark",
+    "necrotic"
+    ]
+},
+{
+    "id": 1102,
+    "prompt": "skeletal step",
+    "tags": [
+    "movement",
+    "bone",
+    "undead",
+    "ethereal"
+    ]
+},
+{
+    "id": 1103,
+    "prompt": "starlight quill",
+    "tags": [
+    "cosmic",
+    "star",
+    "weapon",
+    "rune",
+    "light"
+    ]
+},
+{
+    "id": 1104,
+    "prompt": "bone meld",
+    "tags": [
+    "bone",
+    "undead",
+    "earth",
+    "necrotic"
+    ]
+},
+{
+    "id": 1105,
+    "prompt": "shooting star",
+    "tags": [
+    "cosmic",
+    "star",
+    "projectile",
+    "light",
+    "explosion"
+    ]
+},
+{
+    "id": 1106,
+    "prompt": "celestial ward",
+    "tags": [
+    "cosmic",
+    "star",
+    "shield",
+    "light"
+    ]
+},
+{
+    "id": 1107,
+    "prompt": "cursed grin",
+    "tags": [
+    "curse",
+    "dark",
+    "undead",
+    "bone",
+    "aura"
+    ]
+},
+{
+    "id": 1108,
+    "prompt": "lunar wisdom",
+    "tags": [
+    "moon",
+    "light",
+    "cosmic",
+    "healing",
+    "aura"
+    ]
+},
+{
+    "id": 1109,
+    "prompt": "astral shift",
+    "tags": [
+    "movement",
+    "cosmic",
+    "star",
+    "ethereal"
+    ]
+},
+{
+    "id": 1110,
+    "prompt": "dust to dust",
+    "tags": [
+    "necrotic",
+    "undead",
+    "dark",
+    "vortex",
+    "curse"
+    ]
+},
+{
+    "id": 1111,
+    "prompt": "spectral strike",
+    "tags": [
+    "dark",
+    "shadow",
+    "ghost",
+    "weapon",
+    "projectile"
+    ]
+},
+{
+    "id": 1112,
+    "prompt": "phantom cloak",
+    "tags": [
+    "shadow",
+    "dark",
+    "shield",
+    "aura",
+    "ghost"
+    ]
+},
+{
+    "id": 1113,
+    "prompt": "soul tether",
+    "tags": [
+    "soul",
+    "curse",
+    "ghost",
+    "ethereal",
+    "spirit"
+    ]
+},
+{
+    "id": 1114,
+    "prompt": "time warp tome",
+    "tags": [
+    "time",
+    "arcane",
+    "vortex",
+    "explosion"
+    ]
+},
+{
+    "id": 1115,
+    "prompt": "dark abyss",
+    "tags": [
+    "dark",
+    "shadow",
+    "vortex",
+    "curse"
+    ]
+},
+{
+    "id": 1116,
+    "prompt": "inkstorm",
+    "tags": [
+    "dark",
+    "shadow",
+    "water",
+    "storm",
+    "lightning"
+    ]
+},
+{
+    "id": 1117,
+    "prompt": "wisdom shield",
+    "tags": [
+    "shield",
+    "light",
+    "holy",
+    "rune",
+    "psychic"
+    ]
+},
+{
+    "id": 1118,
+    "prompt": "library mirage",
+    "tags": [
+    "illusion",
+    "arcane",
+    "psychic",
+    "shadow"
+    ]
+},
+{
+    "id": 1119,
+    "prompt": "scribe’s summon",
+    "tags": [
+    "summon",
+    "holy",
+    "light",
+    "rune",
+    "ethereal"
+    ]
+},
+{
+    "id": 1120,
+    "prompt": "rattle and roll",
+    "tags": [
+    "bone",
+    "undead",
+    "ghost",
+    "movement",
+    "necrotic"
+    ]
+},
+{
+    "id": 1121,
+    "prompt": "dusk barrier",
+    "tags": [
+    "shadow",
+    "dark",
+    "shield",
+    "aura"
+    ]
+},
+{
+    "id": 1122,
+    "prompt": "gaze of despair",
+    "tags": [
+    "psychic",
+    "curse",
+    "ice",
+    "dark",
+    "light"
+    ]
+},
+{
+    "id": 1123,
+    "prompt": "slowly emerging ink bubbles bursting",
+    "tags": [
+    "dark",
+    "shadow",
+    "water",
+    "explosion"
+    ]
+},
+{
+    "id": 1124,
+    "prompt": "holy firestorm",
+    "tags": [
+    "holy",
+    "fire",
+    "storm",
+    "light",
+    "divine"
+    ]
+},
+{
+    "id": 1125,
+    "prompt": "sermon of fury",
+    "tags": [
+    "sound",
+    "fire",
+    "explosion",
+    "divine"
+    ]
+},
+{
+    "id": 1126,
+    "prompt": "midnight sludge",
+    "tags": [
+    "dark",
+    "shadow",
+    "poison",
+    "water"
+    ]
+},
+{
+    "id": 1127,
+    "prompt": "blessed shield",
+    "tags": [
+    "holy",
+    "divine",
+    "shield",
+    "light"
+    ]
+},
+{
+    "id": 1128,
+    "prompt": "confession whisper",
+    "tags": [
+    "sound",
+    "psychic",
+    "curse",
+    "ethereal",
+    "holy"
+    ]
+},
+{
+    "id": 1129,
+    "prompt": "heaven's march",
+    "tags": [
+    "movement",
+    "holy",
+    "light",
+    "angelic",
+    "divine"
+    ]
+},
+{
+    "id": 1130,
+    "prompt": "cosmic rewrite",
+    "tags": [
+    "cosmic",
+    "arcane",
+    "light",
+    "star",
+    "time"
+    ]
+},
+{
+    "id": 1131,
+    "prompt": "starburst quill",
+    "tags": [
+    "projectile",
+    "explosion",
+    "dark",
+    "fire",
+    "star"
+    ]
+},
+{
+    "id": 1132,
+    "prompt": "grape burst",
+    "tags": [
+    "funny",
+    "food",
+    "explosion",
+    "plant",
+    "nature"
+    ]
+},
+{
+    "id": 1133,
+    "prompt": "berry berry berry",
+    "tags": [
+    "funny",
+    "food",
+    "explosion",
+    "plant",
+    "nature"
+    ]
+},
+{
+    "id": 1134,
+    "prompt": "angel's wrath",
+    "tags": [
+    "angelic",
+    "fire",
+    "projectile",
+    "weapon",
+    "holy"
+    ]
+},
+{
+    "id": 1135,
+    "prompt": "spectral shroud",
+    "tags": [
+    "shadow",
+    "dark",
+    "shield",
+    "aura",
+    "ghost"
+    ]
+},
+{
+    "id": 1136,
+    "prompt": "heavenly shield",
+    "tags": [
+    "holy",
+    "divine",
+    "shield",
+    "angelic",
+    "light"
+    ]
+},
+{
+    "id": 1137,
+    "prompt": "skull warden",
+    "tags": [
+    "ghost",
+    "undead",
+    "bone",
+    "summon",
+    "spirit"
+    ]
+},
+{
+    "id": 1138,
+    "prompt": "graceful flight",
+    "tags": [
+    "movement",
+    "ethereal",
+    "light",
+    "holy",
+    "angelic"
+    ]
+},
+{
+    "id": 1139,
+    "prompt": "aura of calm",
+    "tags": [
+    "aura",
+    "healing",
+    "light",
+    "psychic"
+    ]
+},
+{
+    "id": 1140,
+    "prompt": "disassemble",
+    "tags": [
+    "arcane",
+    "vortex",
+    "curse"
+    ]
+},
+{
+    "id": 1141,
+    "prompt": "coalesce",
+    "tags": [
+    "arcane",
+    "ethereal",
+    "summon"
+    ]
+},
+{
+    "id": 1142,
+    "prompt": "tetrahedron",
+    "tags": [
+    "arcane",
+    "light",
+    "ethereal"
+    ]
+},
+{
+    "id": 1143,
+    "prompt": "burning cash",
+    "tags": [
+    "funny",
+    "fire"
+    ]
+},
+{
+    "id": 1144,
+    "prompt": "dollar dollar bills yo",
+    "tags": [
+    "funny",
+    "wind"
+    ]
+},
+{
+    "id": 1145,
+    "prompt": "diamonds are forever",
+    "tags": [
+    "gem",
+    "crystal",
+    "explosion",
+    "light",
+    "holy"
+    ]
+},
+{
+    "id": 1146,
+    "prompt": "the face you see before you die",
+    "tags": [
+    "dark",
+    "shadow",
+    "ghost",
+    "soul",
+    "ethereal"
+    ]
+},
+{
+    "id": 1147,
+    "prompt": "ghost in the shell ad infitum",
+    "tags": [
+    "ghost",
+    "ethereal",
+    "spirit",
+    "summon",
+    "arcane"
+    ]
+},
+{
+    "id": 1148,
+    "prompt": "bone fury",
+    "tags": [
+    "bone",
+    "undead",
+    "vortex",
+    "fire",
+    "ice"
+    ]
+},
+{
+    "id": 1149,
+    "prompt": "ribcage rattle",
+    "tags": [
+    "bone",
+    "sound",
+    "curse",
+    "shadow",
+    "undead"
+    ]
+},
+{
+    "id": 1150,
+    "prompt": "bone marrow surge",
+    "tags": [
+    "bone",
+    "undead",
+    "aura",
+    "healing",
+    "light"
+    ]
+},
+{
+    "id": 1151,
+    "prompt": "graveyard grasp",
+    "tags": [
+    "shadow",
+    "dark",
+    "necrotic",
+    "curse",
+    "earth"
+    ]
+},
+{
+    "id": 1152,
+    "prompt": "feather storm",
+    "tags": [
+    "light",
+    "holy",
+    "storm",
+    "vortex",
+    "wind"
+    ]
+},
+{
+    "id": 1153,
+    "prompt": "grapes for eyes",
+    "tags": [
+    "funny",
+    "food",
+    "plant",
+    "illusion",
+    "psychic"
+    ]
+},
+{
+    "id": 1154,
+    "prompt": "bubble nest",
+    "tags": [
+    "shield",
+    "water",
+    "light",
+    "aura"
+    ]
+},
+{
+    "id": 1155,
+    "prompt": "bow charm",
+    "tags": [
+    "light",
+    "holy",
+    "aura",
+    "healing",
+    "weapon"
+    ]
+},
+{
+    "id": 1156,
+    "prompt": "chirp pulse",
+    "tags": [
+    "sound",
+    "healing",
+    "aura",
+    "psychic"
+    ]
+},
+{
+    "id": 1157,
+    "prompt": "ethereal burst",
+    "tags": [
+    "cosmic",
+    "star",
+    "explosion",
+    "vortex",
+    "ethereal"
+    ]
+},
+{
+    "id": 1158,
+    "prompt": "stardust strike",
+    "tags": [
+    "cosmic",
+    "star",
+    "projectile",
+    "explosion",
+    "light"
+    ]
+},
+{
+    "id": 1159,
+    "prompt": "astral shield",
+    "tags": [
+    "cosmic",
+    "star",
+    "shield",
+    "aura",
+    "arcane"
+    ]
+},
+{
+    "id": 1160,
+    "prompt": "celestial glide",
+    "tags": [
+    "movement",
+    "cosmic",
+    "star",
+    "light",
+    "ethereal"
+    ]
+},
+{
+    "id": 1161,
+    "prompt": "lunar infusion",
+    "tags": [
+    "moon",
+    "light",
+    "healing",
+    "aura",
+    "cosmic"
+    ]
+},
+{
+    "id": 1162,
+    "prompt": "summon a bomb that explodes in 3 seconds with a visible countdown marker saying 3-2-1",
+    "tags": [
+    "summon",
+    "explosion",
+    "fire",
+    "time"
+    ]
+},
+{
+    "id": 1163,
+    "prompt": "summon a bomb that explodes in 3 seconds with a visible countdown marker saying 3-2-1 (first 3 tiles it says 3, next 3 tiles it says 2, next 3 tiles it says 1 and for the rest 7 tiles it explodes)",
+    "tags": [
+    "summon",
+    "explosion",
+    "fire",
+    "time"
+    ]
+},
+{
+    "id": 1164,
+    "prompt": "summon a bomb that explodes in 3 seconds with a visible countdown marker saying 3-2-1 (first 3 frames it says 3, next 3 frames it says 2, next 3 frames it says 1 and for the rest 7 frames it explodes)",
+    "tags": [
+    "summon",
+    "explosion",
+    "fire",
+    "time"
+    ]
+},
+{
+    "id": 1165,
+    "prompt": "summon a bomb that counts down from 8 to 1 and then explodes",
+    "tags": [
+    "summon",
+    "explosion",
+    "fire",
+    "time"
+    ]
+},
+{
+    "id": 1166,
+    "prompt": "a bomb that says \"3\", then \"2\", then \"1\", then it explodes.",
+    "tags": [
+    "explosion",
+    "fire",
+    "time",
+    "funny"
+    ]
+},
+{
+    "id": 1167,
+    "prompt": "a bomb that \"counts down\" then explodes",
+    "tags": [
+    "explosion",
+    "fire",
+    "time"
+    ]
+},
+{
+    "id": 1168,
+    "prompt": "An animated sequence of a magical bomb with a glowing countdown number starting from 3. The first frame shows a perfectly clear glowing number 3. The second frame shows the same bomb, now with number 2. The third frame shows number 1. The fourth frame is the explosion.",
+    "tags": [
+    "explosion",
+    "fire",
+    "time",
+    "arcane"
+    ]
+},
+{
+    "id": 1169,
+    "prompt": "a rune explosion spell. three powerful runes appear consecutively and once all three appear, a powerful explosion occurs",
+    "tags": [
+    "rune",
+    "explosion",
+    "arcane"
+    ]
+},
+{
+    "id": 1170,
+    "prompt": "a charging bomb spell: a bomb glows blue, then purple, and then finally red before exploding",
+    "tags": [
+    "explosion",
+    "fire",
+    "arcane"
+    ]
+},
+{
+    "id": 1171,
+    "prompt": "a monkey skull",
+    "tags": [
+    "funny",
+    "animal",
+    "undead",
+    "bone",
+    "ghost"
+    ]
+},
+{
+    "id": 1172,
+    "prompt": "quantum burst",
+    "tags": [
+    "arcane",
+    "vortex",
+    "storm",
+    "explosion",
+    "lightning"
+    ]
+},
+{
+    "id": 1173,
+    "prompt": "electro jolt",
+    "tags": [
+    "lightning",
+    "projectile"
+    ]
+},
+{
+    "id": 1174,
+    "prompt": "hover dash",
+    "tags": [
+    "movement",
+    "nature",
+    "light"
+    ]
+},
+{
+    "id": 1175,
+    "prompt": "time distortion",
+    "tags": [
+    "time",
+    "arcane",
+    "illusion",
+    "psychic"
+    ]
+},
+{
+    "id": 1176,
+    "prompt": "gadget shield",
+    "tags": [
+    "shield",
+    "arcane",
+    "metal",
+    "light"
+    ]
+},
+{
+    "id": 1177,
+    "prompt": "punch frenzy",
+    "tags": [
+    "weapon",
+    "explosion",
+    "nature"
+    ]
+},
+{
+    "id": 1178,
+    "prompt": "thunder clap",
+    "tags": [
+    "sound",
+    "explosion",
+    "lightning",
+    "nature"
+    ]
+},
+{
+    "id": 1179,
+    "prompt": "mauling frenzy",
+    "tags": [
+    "animal",
+    "weapon",
+    "projectile",
+    "blood",
+    "light"
+    ]
+},
+{
+    "id": 1180,
+    "prompt": "tiny titan leap",
+    "tags": [
+    "movement",
+    "nature",
+    "light",
+    "funny"
+    ]
+},
+{
+    "id": 1181,
+    "prompt": "aqua shield",
+    "tags": [
+    "water",
+    "shield",
+    "aura",
+    "vortex"
+    ]
+},
+{
+    "id": 1182,
+    "prompt": "power surge",
+    "tags": [
+    "aura",
+    "healing",
+    "nature",
+    "light"
+    ]
+},
+{
+    "id": 1183,
+    "prompt": "rippling roar",
+    "tags": [
+    "sound",
+    "explosion"
+    ]
+},
+{
+    "id": 1184,
+    "prompt": "splash dash",
+    "tags": [
+    "movement",
+    "water"
+    ]
+},
+{
+    "id": 1185,
+    "prompt": "blood trail in water",
+    "tags": [
+    "blood",
+    "water",
+    "dark"
+    ]
+},
+{
+    "id": 1186,
+    "prompt": "bear with shark arms chomp",
+    "tags": [
+    "funny",
+    "animal",
+    "blood",
+    "weapon",
+    "water"
+    ]
+},
+{
+    "id": 1187,
+    "prompt": "shark arm whip extending from bear",
+    "tags": [
+    "funny",
+    "animal",
+    "water",
+    "weapon"
+    ]
+},
+{
+    "id": 1188,
+    "prompt": "bear swirling water shield",
+    "tags": [
+    "funny",
+    "animal",
+    "water",
+    "shield",
+    "aura"
+    ]
+},
+{
+    "id": 1189,
+    "prompt": "frenzied bear shark bites",
+    "tags": [
+    "funny",
+    "animal",
+    "blood",
+    "explosion",
+    "dark"
+    ]
+},
+{
+    "id": 1190,
+    "prompt": "metal spikes",
+    "tags": [
+    "metal",
+    "projectile",
+    "earth"
+    ]
+},
+{
+    "id": 1191,
+    "prompt": "gravity well",
+    "tags": [
+    "dark",
+    "shadow",
+    "vortex",
+    "cosmic",
+    "arcane"
+    ]
+},
+{
+    "id": 1192,
+    "prompt": "crystal refracting",
+    "tags": [
+    "crystal",
+    "light",
+    "illusion"
+    ]
+},
+{
+    "id": 1193,
+    "prompt": "Dream eater",
+    "tags": [
+    "spirit",
+    "ethereal",
+    "psychic",
+    "dark",
+    "shadow"
+    ]
+},
+{
+    "id": 1194,
+    "prompt": "siphon",
+    "tags": [
+    "dark",
+    "shadow",
+    "vortex",
+    "necrotic",
+    "curse"
+    ]
+},
+{
+    "id": 1195,
+    "prompt": "fear",
+    "tags": [
+    "psychic",
+    "curse",
+    "dark",
+    "shadow",
+    "aura"
+    ]
+},
+{
+    "id": 1196,
+    "prompt": "super-saiyan",
+    "tags": [
+    "light",
+    "holy",
+    "aura",
+    "explosion",
+    "fire"
+    ]
+},
+{
+    "id": 1197,
+    "prompt": "blaster shot",
+    "tags": [
+    "projectile",
+    "light",
+    "arcane",
+    "lightning"
+    ]
+},
+{
+    "id": 1198,
+    "prompt": "devouring frenzy",
+    "tags": [
+    "spirit",
+    "ghost",
+    "vortex",
+    "soul",
+    "dark"
+    ]
+},
+{
+    "id": 1199,
+    "prompt": "claw of terror",
+    "tags": [
+    "weapon",
+    "dark",
+    "shadow",
+    "fire",
+    "curse"
+    ]
+},
+{
+    "id": 1200,
+    "prompt": "angel spear",
+    "tags": [
+    "angelic",
+    "holy",
+    "divine",
+    "weapon",
+    "projectile"
+    ]
+},
+{
+    "id": 1201,
+    "prompt": "demon spear",
+    "tags": [
+    "demonic",
+    "dark",
+    "shadow",
+    "weapon",
+    "projectile"
+    ]
+},
+{
+    "id": 1202,
+    "prompt": "necro blade",
+    "tags": [
+    "necrotic",
+    "dark",
+    "shadow",
+    "weapon",
+    "ghost"
+    ]
+}
+]
