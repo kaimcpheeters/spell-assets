@@ -65,7 +65,7 @@ body.no-scroll {
     width: 20rem;
     height: 38px;
     box-sizing: border-box;
-    padding: 0.6rem 0.75rem 0.6rem 2.5rem;
+    padding: 0.6rem 2.75rem 0.6rem 2.5rem;
     border-radius: 5px;
     border: 1px solid #555;
     background-color: #333;
@@ -83,6 +83,24 @@ body.no-scroll {
 .search-bar::placeholder {
     color: #aaa;
     opacity: 1;
+}
+
+#clear-search-btn {
+    position: absolute;
+    right: 9px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    color: #f0f0f0;
+    cursor: pointer;
+    font-size: 22px;
+    line-height: 1;
+    padding: 0 4px;
+}
+
+#clear-search-btn:hover {
+    color: #fff;
 }
 
 .color-picker-container {

@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         const colorPicker = document.getElementById('color-picker');
         const colorPickerBtn = document.getElementById('color-picker-btn');
         const clearColorBtn = document.getElementById('clear-color-btn');
+        const clearSearchBtn = document.getElementById('clear-search-btn');
 
         // Unified details panel elements
         const detailsPanel = document.getElementById('spell-details');
@@ -131,6 +132,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 
         function filterSpells() {
             const query = searchBar.value.toLowerCase();
+            clearSearchBtn.style.display = searchBar.value ? 'block' : 'none';
             let filteredSpells = searchApi.search(query);
 
             if (colorSortActive && selectedColor) {
@@ -180,13 +182,17 @@ document.addEventListener('DOMContentLoaded', async function() {
 
         // Attach event listeners
         searchBar.addEventListener('input', filterSpells);
+        clearSearchBtn.addEventListener('click', () => {
+            searchBar.value = '';
+            filterSpells();
+        });
         closeDetailsBtn.addEventListener('click', closeDetails);
         backdrop.addEventListener('click', closeDetails);
         colorPicker.addEventListener('input', (e) => activateColorSort(e.target.value));
         clearColorBtn.addEventListener('click', deactivateColorSort);
 
         // Initial render
-        renderGallery(searchApi.getAllSpells());
+        filterSpells();
 
     } catch (error) {
         console.error('Error loading data:', error);
